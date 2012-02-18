@@ -1,2 +1,18 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+body > header {
+  background-image:url(/images/wires3.jpg);
+  background-position:top left;
+  h1 a {
+    text-shadow: black 1px 2px 5px;
+    font-weight:bold;
+  }
+  h2 {
+    text-shadow: black 0px 1px 6px;
+    font-weight:bold;
+    color:white;
+  }
+  &.alt {
+    background-image:url(/images/led4.jpg);
+  }
+}
