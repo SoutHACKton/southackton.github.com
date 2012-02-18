@@ -10,6 +10,10 @@ document_root  = "~/website.com/"
 rsync_delete   = true
 deploy_default = "rsync"
 
+deploy_default = "s3"
+s3cmd_config = File.expand_path("~/.s3cfg_soha")
+s3_bucket = "www.southackton.org.uk"
+
 # This will be configured for you when you run config_deploy
 deploy_branch  = "gh-pages"
 
@@ -374,4 +378,11 @@ desc "list tasks"
 task :list do
   puts "Tasks: #{(Rake::Task.tasks - [Rake::Task[:list]]).join(', ')}"
   puts "(type rake -T for more detail)\n\n"
+end
+
+desc "Deploy website via s3cmd"
+task :s3 do
+  puts "## Deploying website via s3cmd"
+  ok_failed system("s3cmd --config=#{s3cmd_config} sync --acl-public --reduced-redundancy public/* s3://#{s3_bucket}/")
+  ok_failed system("s3cmd --config=#{s3cmd_config} put --acl-public --reduced-redundancy public/feed/atom.xml s3://#{s3_bucket}/feed/index.html")
 end
