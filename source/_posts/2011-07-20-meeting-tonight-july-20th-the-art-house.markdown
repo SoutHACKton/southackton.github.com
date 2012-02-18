@@ -8,18 +8,16 @@ title: Meeting tonight, July 20th @ The Art House
 wordpress_id: '183'
 ---
 
-\
-
 ### **From 7.30pm until we get bored…**
 
-\
-Under discussion; \
+Under discussion; 
 
 -   Company formation choices
 -   Group leadership
 -   Development of a web presence
 -   Drawdio Workshop Plans
 
-\
- *The Art House Southampton CIC 178 Above Bar Street Southampton SO14
-7DW*
+*The Art House Southampton CIC 178  
+Above Bar Street  
+Southampton  
+SO14 7DW*

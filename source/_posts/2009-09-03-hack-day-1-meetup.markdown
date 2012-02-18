@@ -16,19 +16,16 @@ tags:
 - Projects
 ---
 
-[![Un Arduino
-Diecimila](http://upload.wikimedia.org/wikipedia/en/thumb/1/17/Arduino_Diecimila.jpg/300px-Arduino_Diecimila.jpg "Un Arduino Diecimila")](http://en.wikipedia.org/wiki/Image:Arduino_Diecimila.jpg)
-  ~ Image via
-    [Wikipedia](http://en.wikipedia.org/wiki/Image:Arduino_Diecimila.jpg)
+{% img left http://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Arduino_Diecimila.jpg/800px-Arduino_Diecimila.jpg Un Arduino Diecimila (via Wikipedia) %}
 
-# Sunday 4th October 2009, 10:30am-6:30pm,
+## Sunday 4th October 2009, 10:30am-6:30pm,
 [Steamshift](http://steamshift.net/ "Steamshift") HQ
 
-As [the Arduino
-meeting](http://www.southackton.org.uk/2009/09/review-of-the-arduino-meet/ "Review of the Arduino Meet")
+As 
+[the Arduino meeting](http://www.southackton.org.uk/2009/09/review-of-the-arduino-meet/ "Review of the Arduino Meet")
 was such a success, we've already booked our next meetup - a Hack Day -
-again kindly hosted by Steamshift at [their HQ in
-Eastleigh](http://steamshift.net/page/contact "Steamshift HQ").
+again kindly hosted by Steamshift at 
+[their HQ in Eastleigh](http://steamshift.net/page/contact "Steamshift HQ").
 
 ### What is a Hack Day?
 
@@ -65,20 +62,17 @@ own food and drink.
 
 This will be another free (no cost) day, all you need to do is turn up.
 We like to know how many people are coming though, so please join the
-[Google
-Group](http://groups.google.com/group/southackton "SoutHACKton Google Group")
-and drop a short message in [this
-thread](http://groups.google.com/group/southackton/browse_thread/thread/8cacb10d7087a8ac).
+[Google Group](http://groups.google.com/group/southackton "SoutHACKton Google Group")
+and drop a short message in 
+t[this hread](http://groups.google.com/group/southackton/browse_thread/thread/8cacb10d7087a8ac).
 
 Looking forward to seeing you there!
 
 This event is kindly hosted by Steamshift.
 
 [![image](/wp-content/uploads/2009/07/steamshift.png)](http://steamshift.net/)
+
 *Steamshift develops creative solutions to technical challenges
 primarily in the fields of web application development, flash AS3
 programming and linux hosting. They work closely with their design and
 branding partners to deliver an end-to-end solution.*
-
-[![Reblog this post [with
-Zemanta]](http://img.zemanta.com/reblog_c.png?x-id=971967cd-178f-4fc5-87b1-98c6d13012e9)](http://reblog.zemanta.com/zemified/971967cd-178f-4fc5-87b1-98c6d13012e9/ "Reblog this post [with Zemanta]")

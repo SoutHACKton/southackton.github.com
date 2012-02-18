@@ -21,11 +21,11 @@ We will get you up and running with the latest version of Ubuntu Linux,
 without installing anything on your laptop, so you won't lose any data.
 
 More information about Ubuntu, and linux, is available at:
-http://ubuntu.com/ubuntu
+<http://ubuntu.com/ubuntu>
 
 This facebook event page is public so feel free to invite anyone else
 along.
 
-This event is at the Art House: http://www.thearthousesouthampton.co.uk/
+This event is at the Art House: <http://www.thearthousesouthampton.co.uk/>
 
-http://www.facebook.com/event.php?eid=301712219840154
+<http://www.facebook.com/event.php?eid=301712219840154>

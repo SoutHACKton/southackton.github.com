@@ -25,7 +25,11 @@ course out:
 > of identity to be shown. It is examined online and results in an
 > MIT-branded certificate for successful students. The only obligations
 > are to complete the course and exams in the time frame specified and
-> to agree to the University honour code (not to cheat). The course runs
+> to agree to the University honour code (not to cheat). 
+> 
+> The course runs
 > for 13 weeks (March 5th until June 8th) and requires a time investment
-> of approximately 10 hours per week. You can register at
-> https://6002x.mitx.mit.edu/
+> of approximately 10 hours per week. 
+> 
+> You can register at
+> <https://6002x.mitx.mit.edu/>

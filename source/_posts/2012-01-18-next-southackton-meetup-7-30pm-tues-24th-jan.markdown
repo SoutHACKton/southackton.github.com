@@ -16,10 +16,16 @@ of experience. We want to start a Hackerspace in Southampton, where
 people can come to work on their various projects and can get the
 resources they need and can share knowledge and ideas. If you always
 wanted to make something but don’t know how then our members will be
-more than happy to help you. This event is a general meetup for existing
+more than happy to help you. 
+
+This event is a general meetup for existing
 members or anyone else who wants to get involved, along with general
 discussion about hacking, making and coding… and coffee. It’s free, but
-donations to the Arthouse are always appreciated. The facebook event
+donations to the Arthouse are always appreciated. 
+
+The facebook event
 page is public so feel free to invite anyone else along.
-http://www.facebook.com/events/325294290835392/ This event is at the Art
-House: http://www.thearthousesouthampton.co.uk/
+<http://www.facebook.com/events/325294290835392/> 
+
+This event is at the Art
+House: <http://www.thearthousesouthampton.co.uk/>

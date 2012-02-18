@@ -11,15 +11,23 @@ categories:
 - Social
 ---
 
-Our next meetup is 7:30pm until 10:00pm Wednesday, December 7, 2011. Let
-us know you are coming on facebook:
+Our next meetup is 7:30pm until 10:00pm Wednesday, December 7, 2011. 
+
+Let
+us know you are coming on facebook:  
 [http://www.facebook.com/events/316444395051818/](http://www.facebook.com/events/316444395051818/)
+
 This event is a general meetup for existing members or anyone else who
 wants to get involved, along with general discussion about hacking,
 making and coding… and coffee. It’s free, but donations to the Arthouse
-are always appreciated. The facebook event page is public so feel free
-to invite anyone else along. This event is at the Art House:
+are always appreciated. 
+
+The facebook event page is public so feel free
+to invite anyone else along. 
+
+This event is at the Art House:
 [http://www.thearthousesouthampton.co.uk/](http://www.thearthousesouthampton.co.uk/)
+
 We are a community of makers, tinkerers and artists. Our aim is to share
 skills and tools to allow anyone to create something amazing, regardless
 of experience. We want to start a Hackerspace in Southampton, where

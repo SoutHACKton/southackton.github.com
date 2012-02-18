@@ -14,5 +14,5 @@ The next meetup is at The Art House, Southapton on Wed 5th October at
 7.30pm
 
 Let us know if you are coming on facebook
-http://www.facebook.com/event.php?eid=139793102784775 and bring a
+<http://www.facebook.com/event.php?eid=139793102784775> and bring a
 friend.
