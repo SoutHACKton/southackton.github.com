@@ -1,4 +1,5 @@
 ---
+comments: true
 author: Marcus
 date: '2010-03-26 11:22:01'
 layout: post

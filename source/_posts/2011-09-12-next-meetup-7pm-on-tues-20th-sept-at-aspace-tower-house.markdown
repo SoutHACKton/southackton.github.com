@@ -1,4 +1,5 @@
 ---
+comments: true
 author: Anton Piatek
 date: '2011-09-12 16:52:02'
 layout: post

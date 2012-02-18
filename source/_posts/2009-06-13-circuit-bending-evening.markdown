@@ -1,4 +1,5 @@
 ---
+comments: true
 author: Benjie
 date: '2009-06-13 20:27:01'
 layout: post

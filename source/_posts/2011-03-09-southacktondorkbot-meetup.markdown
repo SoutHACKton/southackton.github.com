@@ -1,4 +1,5 @@
 ---
+comments: true
 author: theuncommon
 date: '2011-03-09 23:46:52'
 layout: post

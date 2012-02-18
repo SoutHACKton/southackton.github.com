@@ -1,4 +1,5 @@
 ---
+comments: true
 author: tudor
 date: '2011-07-20 15:50:15'
 layout: post
