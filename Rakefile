@@ -8,14 +8,14 @@ ssh_user       = "user@domain.com"
 ssh_port       = "22"
 document_root  = "~/website.com/"
 rsync_delete   = true
-deploy_default = "rsync"
+deploy_default = "push"
 
-deploy_default = "s3"
+#deploy_default = "s3"
 s3cmd_config = File.expand_path("~/.s3cfg_soha")
 s3_bucket = "www.southackton.org.uk"
 
 # This will be configured for you when you run config_deploy
-deploy_branch  = "gh-pages"
+deploy_branch  = "master"
 
 ## -- Misc Configs -- ##
 
