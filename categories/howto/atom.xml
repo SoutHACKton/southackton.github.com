@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Howto | SoutHACKton]]></title>
+  <link href="http://www.southackton.org.uk/categories/howto/atom.xml" rel="self"/>
+  <link href="http://www.southackton.org.uk/"/>
+  <updated>2012-02-19T22:11:49+00:00</updated>
+  <id>http://www.southackton.org.uk/</id>
+  <author>
+    <name><![CDATA[SoutHACKton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[MIT running free electronic circuits course]]></title>
+    <link href="http://www.southackton.org.uk/2012/02/14/mit-running-free-electronic-circuits-course/"/>
+    <updated>2012-02-14T13:11:29+00:00</updated>
+    <id>http://www.southackton.org.uk/2012/02/14/mit-running-free-electronic-circuits-course</id>
+    <content type="html"><![CDATA[<p>Thanks to Paul Stimpson on the Surrey LUG mailing list for pointing the
+course out:</p>
+
+<blockquote><p>MIT are launching the first course in their new e-learning programme
+designed to bring education free to the masses. It's a course in
+electronic circuits and design and begins on March 5th. This is a
+trial and at this stage does not require any attendance or for proof
+of identity to be shown. It is examined online and results in an
+MIT-branded certificate for successful students. The only obligations
+are to complete the course and exams in the time frame specified and
+to agree to the University honour code (not to cheat).</p>
+
+<p>The course runs
+for 13 weeks (March 5th until June 8th) and requires a time investment
+of approximately 10 hours per week.</p>
+
+<p>You can register at
+<a href="https://6002x.mitx.mit.edu/">https://6002x.mitx.mit.edu/</a></p></blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Howto: Arduino Pin Speed (Multiplexing)]]></title>
+    <link href="http://www.southackton.org.uk/2009/09/08/howto-arduino-pin-speed-multiplexing/"/>
+    <updated>2009-09-08T22:33:14+01:00</updated>
+    <id>http://www.southackton.org.uk/2009/09/08/howto-arduino-pin-speed-multiplexing</id>
+    <content type="html"><![CDATA[<p><a href="http://www.earthshinedesign.co.uk/index.php?route=product/product&amp;path=38_43&amp;product_id=82"><img src="http://www.earthshinedesign.co.uk/image/cache/1425313_75-250x250.jpg" title="8x8 dual colour dot matrix display" alt="image" /></a></p>
+
+<p><em>This is the beginning of a post from
+<a href="http://www.benjiegillam.com/" title="Benjie">about:benjie</a>. If you've written
+a blog post you think would be useful to SoutHACKton members, please get
+in touch!</em></p>
+
+<p>I’m working on a new project, I’ve got a
+<a href="http://www.earthshinedesign.co.uk/index.php?route=product/product&amp;path=38_43&amp;product_id=82" title="8x8 dual colour dot matrix display">8×8 dual colour dot matrix display</a>
+(£2.50 delivered from Earthshine Design) and I want to power it from the
+<a href="http://www.arduino.cc" title="Arduino">Arduino</a>. One way of making a chip
+like that (which has 2×8x8 = 128
+<a href="http://en.wikipedia.org/wiki/Light-emitting_diode" title="Light-emitting diode">LEDs</a>)
+would be to have a common ground and an additional 128 pins – one for
+each LED. This, I think you’d agree, would be a nightmare, so instead
+they’ve basically gone for an 8×16 grid for a total of 24 pins. This
+raises two main problems:</p>
+
+<ol>
+<li>You can’t turn 2 arbitrary LEDs on at the same time unless they are
+on the same row/column. (Doing so would actually draw a square of
+LEDs.)</li>
+<li>My Arduino doesn’t have enough digital input/output pins</li>
+</ol>
+
+
+<p>Point 1 is easily solved – we simply update just one row at a time,
+letting
+<a href="http://en.wikipedia.org/wiki/Persistence_of_vision">Persistance Of Vision</a> (POV) do the
+hard work for us. Point 2 is the subject of this post –
+<a href="http://en.wikipedia.org/wiki/Multiplexing" title="Multiplexing">multiplexing</a>,
+combining multiple individual signals into just one signal. I will not
+be using this dot matrix display in this post, instead I will simply be
+powering normal LEDs. I wanted to find out if the Arduino is fast enough
+to multiplex the data through just a few pins in order to power this
+display. The answer (one of my favourite answers!) is: “Yes, but not
+without some hacking.” Read on…</p>
+
+<p><a href="http://www.benjiegillam.com/2009/09/arduino-pin-speed-multiplexing/#more-224">Read the rest of this entry on about:benjie »</a></p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Community | SoutHACKton]]></title>
+  <link href="http://www.southackton.org.uk/categories/community/atom.xml" rel="self"/>
+  <link href="http://www.southackton.org.uk/"/>
+  <updated>2012-02-19T22:11:49+00:00</updated>
+  <id>http://www.southackton.org.uk/</id>
+  <author>
+    <name><![CDATA[SoutHACKton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[MIT running free electronic circuits course]]></title>
+    <link href="http://www.southackton.org.uk/2012/02/14/mit-running-free-electronic-circuits-course/"/>
+    <updated>2012-02-14T13:11:29+00:00</updated>
+    <id>http://www.southackton.org.uk/2012/02/14/mit-running-free-electronic-circuits-course</id>
+    <content type="html"><![CDATA[<p>Thanks to Paul Stimpson on the Surrey LUG mailing list for pointing the
+course out:</p>
+
+<blockquote><p>MIT are launching the first course in their new e-learning programme
+designed to bring education free to the masses. It's a course in
+electronic circuits and design and begins on March 5th. This is a
+trial and at this stage does not require any attendance or for proof
+of identity to be shown. It is examined online and results in an
+MIT-branded certificate for successful students. The only obligations
+are to complete the course and exams in the time frame specified and
+to agree to the University honour code (not to cheat).</p>
+
+<p>The course runs
+for 13 weeks (March 5th until June 8th) and requires a time investment
+of approximately 10 hours per week.</p>
+
+<p>You can register at
+<a href="https://6002x.mitx.mit.edu/">https://6002x.mitx.mit.edu/</a></p></blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Like us on Facebook]]></title>
+    <link href="http://www.southackton.org.uk/2011/06/24/like-us-on-facebook/"/>
+    <updated>2011-06-24T17:20:38+01:00</updated>
+    <id>http://www.southackton.org.uk/2011/06/24/like-us-on-facebook</id>
+    <content type="html"><![CDATA[<p>Our Facebook page needs another 16 "likes" to get a proper vanity URL,
+so why not head on over to
+<a href="http://www.facebook.com/pages/SoutHACKton/209242380373?sk=wall">http://www.facebook.com/pages/SoutHACKton/209242380373</a>
+now and like us!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hackspace in the Making]]></title>
+    <link href="http://www.southackton.org.uk/2010/12/10/hackspace-in-the-making/"/>
+    <updated>2010-12-10T11:00:52+00:00</updated>
+    <id>http://www.southackton.org.uk/2010/12/10/hackspace-in-the-making</id>
+    <content type="html"><![CDATA[<p>We currently have a project going to set up a hackspace in Southampton
+early next year. We're talking with the council and various other
+helpful people, including the London Hackspace) to try and make it as
+awesome as we can. Watch this space for new updates.</p>
+
+<p>If you're interested in joining in then please jump over to our
+<a href="http://groups.google.com/group/southackton">Google Group</a> and join in the
+conversation. The more people who get involved, the better it will be
+for everyone.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Now With Google Groups]]></title>
+    <link href="http://www.southackton.org.uk/2009/05/20/now-with-google-groups/"/>
+    <updated>2009-05-20T16:58:41+01:00</updated>
+    <id>http://www.southackton.org.uk/2009/05/20/now-with-google-groups</id>
+    <content type="html"><![CDATA[<div style="float:right;border:2px solid black;-moz-border-radius:1em;border-radius:1em;background-color:white;padding:5px">
+<table style="padding: 5px;" cellspacing="0">
+<tr>
+<td>
+  <img src="http://groups.google.com/groups/img/3nb/groups_bar.gif" height="26" width="132" alt="Google Groups" />
+  </td>
+</tr>
+<tr>
+<td style="padding-left: 5px;font-size: 125%">
+  <b>SoutHACKton</b>
+  </td>
+</tr>
+<tr>
+<td style="padding-left: 5px">
+  <a href="http://groups.google.com/group/southackton">Visit this group</a>
+  </td>
+</tr>
+</table>
+</div>
+
+
+<p>If your interested in SoutHACKton, introduce yourself on our google group:</p>
+
+<p><a href="http://groups.google.com/group/southackton/" title="SoutHACKton Google Group">http://groups.google.com/group/southackton/</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[A Hackerspace In Southampton?]]></title>
+    <link href="http://www.southackton.org.uk/2009/05/20/a-hackerspace-in-southampton/"/>
+    <updated>2009-05-20T12:07:18+01:00</updated>
+    <id>http://www.southackton.org.uk/2009/05/20/a-hackerspace-in-southampton</id>
+    <content type="html"><![CDATA[<p><img class="left" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Southampton<em>-</em>Bargate.JPG/300px-Southampton<em>-</em>Bargate.JPG" title="City of Southampton (via Wikipedia)" >
+Wouldn't it be great to have a
+"<a href="http://en.wikipedia.org/wiki/Hackerspace" title="Hackerspace Wikipedia Article">Hackerspace</a>"
+in
+<a href="http://en.wikipedia.org/wiki/Southampton" title="Southampton">Southampton</a>? A
+space hobbyists can go to do software programming and
+<a href="http://en.wikipedia.org/wiki/Hacker_(hobbyist)" title="Hacker (hobbyist)">hardware hacking</a>.
+The attendees could all share knowledge and help each other out in a fun
+and innovative environment.</p>
+
+<p>The ultimate goal would be having an
+"office" somewhere in Southampton where members can drop in any time
+(within reason) and get to work on their project/just hang out with
+fellow hackers. (If you work from home you could potentially even work
+form the Hackerspace directly - it wouldn't be so lonely!) This,
+however, is likely to take a while to set up as we need to get a number
+of interested people, not to mention the office space!</p>
+
+<p>In the mean time,
+we're looking at setting up a regular meeting of like minded people. If
+you're interested in attending or helping us (sponsorship, coverage,
+office space, ...), please get in contact.  <strong>UPDATE</strong>: You can now do
+so via <a href="http://groups.google.com/group/southackton" title="SoutHACKton Google Group">our google group</a>.</p>
+
+<p>There is no required skill level - whether you are a beginner, an expert
+or anywhere in between you are welcome to attend!</p>
+
+<p>If you're interested -
+get in contact!</p>
+]]></content>
+  </entry>
+  
+</feed>

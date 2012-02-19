@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Meet Up | SoutHACKton]]></title>
+  <link href="http://www.southackton.org.uk/categories/meet-up/atom.xml" rel="self"/>
+  <link href="http://www.southackton.org.uk/"/>
+  <updated>2012-02-19T22:11:49+00:00</updated>
+  <id>http://www.southackton.org.uk/</id>
+  <author>
+    <name><![CDATA[SoutHACKton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Next meetup, 7.30pm Wed 5th October at The Art House, Southampton]]></title>
+    <link href="http://www.southackton.org.uk/2011/09/30/next-meetup-7-30pm-wed-5th-october-at-the-art-house-southampton/"/>
+    <updated>2011-09-30T18:17:16+01:00</updated>
+    <id>http://www.southackton.org.uk/2011/09/30/next-meetup-7-30pm-wed-5th-october-at-the-art-house-southampton</id>
+    <content type="html"><![CDATA[<p>The next meetup is at The Art House, Southapton on Wed 5th October at
+7.30pm</p>
+
+<p>Let us know if you are coming on facebook
+<a href="http://www.facebook.com/event.php?eid=139793102784775">http://www.facebook.com/event.php?eid=139793102784775</a> and bring a
+friend.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Next Meeting and Arduino Evening]]></title>
+    <link href="http://www.southackton.org.uk/2011/08/05/next-meeting-and-arduino-evening/"/>
+    <updated>2011-08-05T10:20:08+01:00</updated>
+    <id>http://www.southackton.org.uk/2011/08/05/next-meeting-and-arduino-evening</id>
+    <content type="html"><![CDATA[<p>We'll be heading over to the Arthouse on the<strong>17th of August</strong> at
+7:30pm:</p>
+
+<iframe src="http://maps.google.co.uk/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=the+arthouse+cafe,+southampton&amp;aq=&amp;sll=50.907644,-1.404238&amp;sspn=0.003126,0.008256&amp;ie=UTF8&amp;hq=the+arthouse+cafe,&amp;hnear=Southampton,+United+Kingdom&amp;ll=50.909046,-1.404459&amp;spn=0.011798,0.033023&amp;t=h&amp;z=14&amp;iwloc=A&amp;cid=3323037071216817675&amp;output=embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="425" height="350"></iframe>
+
+
+<p><a href="http://maps.google.co.uk/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=the+arthouse+cafe,+southampton&amp;aq=&amp;sll=50.907644,-1.404238&amp;sspn=0.003126,0.008256&amp;ie=UTF8&amp;hq=the+arthouse+cafe,&amp;hnear=Southampton,+United+Kingdom&amp;ll=50.909046,-1.404459&amp;spn=0.011798,0.033023&amp;t=h&amp;z=14&amp;iwloc=A&amp;cid=3323037071216817675">View Larger Map</a></p>
+
+<p>There'll be more discussion on forming a company, setting up our space,
+funding options etc. Along with general discussion about hacking, making
+and coding... and coffee. It's <strong>free,</strong> but donations to the Arthouse
+are always appreciated.</p>
+
+<p><a href="http://theuncommon.co.uk/hackspace/wp-content/uploads/2011/08/arduino.jpg"><img src="http://theuncommon.co.uk/hackspace/wp-content/uploads/2011/08/arduino.jpg" title="arduino" alt="image" /></a></p>
+
+<p>Our members will also be bringing along their various Arduino projects
+to show off and explain ( info on Arduinos can be found here:
+<a href="http://en.wikipedia.org/wiki/Arduino">http://en.wikipedia.org/wiki/Arduino</a>
+) and there'll be opportunities to get your hands dirty actually trying
+out the boards. So if you're interested, even if you've never touched
+electronics or coding before, then come along.</p>
+
+<p>There's a Facebook event
+at:
+<a href="http://www.facebook.com/event.php?eid=196232490438100">http://www.facebook.com/event.php?eid=196232490438100</a></p>
+]]></content>
+  </entry>
+  
+</feed>

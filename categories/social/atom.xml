@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Social | SoutHACKton]]></title>
+  <link href="http://www.southackton.org.uk/categories/social/atom.xml" rel="self"/>
+  <link href="http://www.southackton.org.uk/"/>
+  <updated>2012-02-19T22:11:49+00:00</updated>
+  <id>http://www.southackton.org.uk/</id>
+  <author>
+    <name><![CDATA[SoutHACKton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Next SoutHackton meetup - Wed 7th Dec]]></title>
+    <link href="http://www.southackton.org.uk/2011/11/30/next-southackton-meetup-wed-7th-dec/"/>
+    <updated>2011-11-30T17:50:36+00:00</updated>
+    <id>http://www.southackton.org.uk/2011/11/30/next-southackton-meetup-wed-7th-dec</id>
+    <content type="html"><![CDATA[<p>Our next meetup is 7:30pm until 10:00pm Wednesday, December 7, 2011.</p>
+
+<p>Let
+us know you are coming on facebook:<br/>
+<a href="http://www.facebook.com/events/316444395051818/">http://www.facebook.com/events/316444395051818/</a></p>
+
+<p>This event is a general meetup for existing members or anyone else who
+wants to get involved, along with general discussion about hacking,
+making and coding… and coffee. It’s free, but donations to the Arthouse
+are always appreciated.</p>
+
+<p>The facebook event page is public so feel free
+to invite anyone else along.</p>
+
+<p>This event is at the Art House:
+<a href="http://www.thearthousesouthampton.co.uk/">http://www.thearthousesouthampton.co.uk/</a></p>
+
+<p>We are a community of makers, tinkerers and artists. Our aim is to share
+skills and tools to allow anyone to create something amazing, regardless
+of experience. We want to start a Hackerspace in Southampton, where
+people can come to work on their various projects and can get the
+resources they need and can share knowledge and ideas. If you always
+wanted to make something but don’t know how then our members will be
+more than happy to help you.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Next SoutHACKton Meeting]]></title>
+    <link href="http://www.southackton.org.uk/2011/07/28/next-southackton-meeting/"/>
+    <updated>2011-07-28T16:52:52+01:00</updated>
+    <id>http://www.southackton.org.uk/2011/07/28/next-southackton-meeting</id>
+    <content type="html"><![CDATA[<p>We'll be talking hacking and making as well as planning out the forming
+of a hackspace company over at the Art House Cafe on:</p>
+
+<h3>Wednesday the 3rd of August</h3>
+
+<p><a href="http://www.thearthousesouthampton.co.uk/">http://www.thearthousesouthampton.co.uk/</a></p>
+
+<p><a href="http://maps.google.co.uk/maps?q=art+house+cafel,+southampton&amp;hl=en&amp;ll=50.909217,-1.404469&amp;spn=0.012096,0.033023&amp;sll=51.550538,-1.813349&amp;sspn=3.13927,8.453979&amp;t=h&amp;z=16&amp;iwloc=A" title="Map">http://maps.google.co.uk/maps?q=art+house+cafe</a></p>
+
+<p>Come along, we'll be there from 7:30pm for as long as we can. Come
+along, drink coffee and talk to cool people.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Southackton @ The Art House, 8th June 2011]]></title>
+    <link href="http://www.southackton.org.uk/2011/06/14/southackton-the-art-house-8th-june-2011/"/>
+    <updated>2011-06-14T10:53:10+01:00</updated>
+    <id>http://www.southackton.org.uk/2011/06/14/southackton-the-art-house-8th-june-2011</id>
+    <content type="html"><![CDATA[<p>A good time was had by all, we looked at a unique Snowboarding location,
+altitude, axis and
+<a href="http://en.wikipedia.org/wiki/Thermocouple">temperature</a> tracker that
+had recently been tested in the field, although the hardware and
+software worked well the low temperatures were a challenge, the group
+discussed a range of options from
+<a href="http://en.wikipedia.org/wiki/Heat_pump">heat pumps</a>, wicks,
+<a href="http://www.wisegeek.com/what-is-the-peltier-effect.htm">peltier devices</a> to
+<a href="http://en.wikipedia.org/wiki/Phase_change_material">phase-change materials</a> as used
+in the
+<a href="http://www.kickstarter.com/projects/705847536/coffee-joulies-your-coffee-just-right">magic metal coffee beans</a>!</p>
+
+<p>David showed us his progress on an in-system programmer for AVR
+micro-controllers and did a great job of explaining
+<a href="http://www.atmel.com/dyn/products/tools_card.asp?tool_id=3808">what they are</a>, and
+why you might want one,
+<a href="http://www.asguard.org.uk/2010/12/10/thermocouple-conversion/#more-116">read more about his projects</a>.</p>
+
+<p> The group decided to try out building some
+<a href="http://www.adafruit.com/products/197">drawduino</a> to see if they would
+be a suitable item for us to help newcomers to build and take home and a
+date is being set for that.</p>
+
+<p> You can view pictures from the event on the
+<a href="http://www.flickr.com/groups/1245172@N22/">Southackton Flickr Page</a>.</p>
+
+<p> Our <a href="http://hackerspaces.org/wiki/Southackton">embryonic wiki</a> is
+online at the hackerspaces.org website.</p>
+
+<p> If you are interested in finding out more or would like to attend the
+next event, sign up to
+<a href="http://groups.google.com/group/southackton">our google group</a> to be kept abreast of
+the latest developments.</p>
+
+<p> Finally, take a look at our
+<a href="http://openpad.me/oIYpOW2UaG">group Notebook</a> where we can share ideas for the
+Big Vision!</p>
+
+<p><img src="http://theuncommon.co.uk/hackspace/wp-content/uploads/2011/06/Untitled-1-300x226.png" title="Untitled-1" alt="image" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Darkbot/SoutHACKton Meeting, 9th of March]]></title>
+    <link href="http://www.southackton.org.uk/2011/02/28/darkbotsouthackton-meeting-9th-of-march/"/>
+    <updated>2011-02-28T15:42:41+00:00</updated>
+    <id>http://www.southackton.org.uk/2011/02/28/darkbotsouthackton-meeting-9th-of-march</id>
+    <content type="html"><![CDATA[<p>Thanks to the powerful organisational skills of Phased / Ben we'll be
+taming up with the local Dorkbot group to have a big meetup at the
+Arthouse Cafe in Southampton.</p>
+
+<blockquote><p>Makers, hackers, tinkerers. Lend me your microphones :O) ...</p>
+
+<p>Following
+much consultation, the next Southackton meeting shall be 9th March at
+Art House Southampton. Aim is to start at 7.30pm.</p>
+
+<p>We will unite with
+the Dorkbots, sharing their March meeting, to create a union of Dorks
+and Hackers, possibly for one night only but hopefully a continuing
+unity will emerge in the form of Harks or Dockers :O)</p>
+
+<p>Please try to
+get there a little early, to have time to grab coffees and cakes, as
+that will be the primary method of funding the "hire" of the venue /
+it's continued existence.</p>
+
+<p>As suggested, it will be a combined Duino
+and Teardown
+<a href="http://groups.google.com/group/southackton/browse_thread/thread/bfff4bf5e88785a3">http://groups.google.com/group/southackton/browse_thread/thread/bfff4bf5e88785a3</a>
+event.</p>
+
+<p>Please bring along anything you have created using the Duino
+platforms and anything you fancy Tearing Down.</p>
+
+<p>Please feel free to
+share designs / code / links for your Duino creations on our Google
+group beforehand, so those attending have an opportunity to discuss
+more deeply during the event.</p>
+
+<p>We will aim to leave a 15-20 minute
+period near the end for sharing of your unwanted bits from the
+Teardowns and discussion on future plans for Southackton.</p>
+
+<p>Look forward
+to seeing you all there.</p>
+
+<p>Phased / Ben</p>
+
+<p>For those that have not visited
+before, Art House Southampton is located here :</p>
+
+<p><a href="http://maps.google.co.uk/maps?client=ubuntu&amp;channel=cs&amp;ie=UTF8&amp;q=art+house+southampton&amp;fb=1&amp;gl=uk&amp;hq=art+house&amp;hnear=Southampton&amp;cid=0,0,3323037071216817675&amp;ll=50.908959,-1.40449&amp;spn=0.0087,0.022852&amp;z=16">http://maps.google.co.uk/maps?client=ubuntu&amp;channel=cs&amp;ie=UTF8&amp;q=art+house+southampton&amp;fb=1&amp;gl=uk&amp;hq=art+house&amp;hnear=Southampton&amp;cid=0,0,3323037071216817675&amp;ll=50.908959,-1.40449&amp;spn=0.0087,0.022852&amp;z=16</a></p>
+
+<p>More details on Art House Southampton here :
+<a href="http://www.thearthousesouthampton.co.uk">http://www.thearthousesouthampton.co.uk</a></p></blockquote>
+
+<p>We've also got an event up on Eventful:
+<a href="http://eventful.com/southampton/events/hackspacedorkbot-meetup-/E0-001-037303575-4">http://eventful.com/southampton/events/hackspacedorkbot-meetup-/E0-001-037303575-4</a>
+Hope to see you all there.</p>
+
+<p>theUncommon / Adam</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Come Join Us - First Meetup!]]></title>
+    <link href="http://www.southackton.org.uk/2009/05/31/come-join-us-first-meetup/"/>
+    <updated>2009-05-31T13:24:58+01:00</updated>
+    <id>http://www.southackton.org.uk/2009/05/31/come-join-us-first-meetup</id>
+    <content type="html"><![CDATA[<p><img class="left" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Magnetic_core.jpg/300px-Magnetic_core.jpg" title="Magnetic core memory. Each core is one bit. (via wikipedia)" >
+Do you enjoy tinkering with software or hardware?</p>
+
+<p>Got a cool project you
+want help with, or want to help with some cool projects?</p>
+
+<p>Live in or
+around Southampton?</p>
+
+<p>Join us for our first meetup at <strong>5pm on 13th June</strong> at
+<a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=the+crown+inn,+highcrown+street,+southampton&amp;sll=50.931916,-1.400186&amp;sspn=0.001263,0.002867&amp;ie=UTF8&amp;ll=50.932902,-1.399426&amp;spn=0.019555,0.045877&amp;z=15&amp;iwloc=A" title="The Crown Inno, Southampton on Google Maps">The Crown Inn, Southampton</a>!</p>
+
+<p><a href="http://www.google.com/calendar/hosted/southackton.org.uk/event?action=TEMPLATE&amp;tmeid=OHI5cDRiMjhmMzA1bTkwbm4zbXJocDEzam8gYmVuamllQHNvdXRoYWNrdG9uLm9yZy51aw&amp;tmsrc=YmVuamllQHNvdXRoYWNrdG9uLm9yZy51aw"><img src="http://www.google.com/calendar/images/ext/gc_button1_en.gif" alt="image" /></a></p>
+
+<p>We're trying to start a regular meeting of people who enjoy creating or
+modifying software and/or hardware and want to meet other like-minded
+people. Experience is unnecessary - interest is all we require! Topics
+that we're already interested in include: home automation/augmentation,
+robotics, circuit bends, programming, computer interfaces, wiimote
+hacking, Arduino, gadgets, mobile computing, PVR creation/improvement,
+programming, augmented reality, ... so if you're interested in any of
+these topics, or have another interest you want to share, why not join
+us?</p>
+]]></content>
+  </entry>
+  
+</feed>

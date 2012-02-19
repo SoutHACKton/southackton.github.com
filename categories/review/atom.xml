@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Review | SoutHACKton]]></title>
+  <link href="http://www.southackton.org.uk/categories/review/atom.xml" rel="self"/>
+  <link href="http://www.southackton.org.uk/"/>
+  <updated>2012-02-19T22:11:49+00:00</updated>
+  <id>http://www.southackton.org.uk/</id>
+  <author>
+    <name><![CDATA[SoutHACKton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[SoutHackton/Dorkbot Meetup]]></title>
+    <link href="http://www.southackton.org.uk/2011/03/09/southacktondorkbot-meetup/"/>
+    <updated>2011-03-09T23:46:52+00:00</updated>
+    <id>http://www.southackton.org.uk/2011/03/09/southacktondorkbot-meetup</id>
+    <content type="html"><![CDATA[<p>We had about 15 people show up at the Arthouse, with talk of Arduinos,
+3D printers, teardowns and mobiles. Tea was drunk, cakes were eaten and
+a good time was apparently had by all.</p>
+
+<p>Teardowns:</p>
+
+<p><a href="http://www.flickr.com/photos/57119013@N03/5513423324/sizes/m/in/photostream/"><img src="http://farm6.static.flickr.com/5178/5513423324_f09268a54c.jpg" alt="image" /></a></p>
+
+<p>More Teardowns:</p>
+
+<p><a href="http://www.flickr.com/photos/57119013@N03/5513418630/sizes/m/in/photostream/"><img src="http://farm6.static.flickr.com/5179/5513418630_7ba238dc0b.jpg" alt="image" /></a></p>
+
+<p>Arduino Temp Sensor:</p>
+
+<p><a href="http://www.flickr.com/photos/57119013@N03/5513421910/sizes/m/in/photostream/"><img src="http://farm6.static.flickr.com/5098/5513421910_d26386408a.jpg" alt="image" /></a></p>
+
+<p>3D Printer Examples:</p>
+
+<p><a href="http://www.flickr.com/photos/57119013@N03/5512824671/sizes/m/in/photostream/"><img src="http://farm6.static.flickr.com/5132/5512824671_b827fd3941.jpg" alt="image" /></a></p>
+
+<p>Hackers:</p>
+
+<p><a href="http://www.flickr.com/photos/57119013@N03/5512821035/sizes/m/in/photostream/"><img src="http://farm6.static.flickr.com/5092/5512821035_596a8bc824.jpg" alt="image" /></a></p>
+
+<p>Given a relative success of the first proper meeting of recent years I
+believe we'll be pushing for another one next month, keep an eye on this
+blog for more info as we decide it, or join the
+<a href="http://groups.google.com/group/southackton">Google Group</a> to get involved.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Review: "How To Make Cool Things From Microcontrollers"]]></title>
+    <link href="http://www.southackton.org.uk/2010/03/26/review-how-to-make-cool-things-from-microcontrollers/"/>
+    <updated>2010-03-26T11:22:01+00:00</updated>
+    <id>http://www.southackton.org.uk/2010/03/26/review-how-to-make-cool-things-from-microcontrollers</id>
+    <content type="html"><![CDATA[<p>Last week's workshop was great fun despite the dreary weather!
+<a href="http://en.wikipedia.org/wiki/Mitch_Altman" title="Mitch Altman on Wikipedia">Mitch Altman</a>,
+(inventor of TV-B-Gone, and co-founder of
+<a href="https://www.noisebridge.net/wiki/Noisebridge" title="Noisebridge  hackerspace">Noisebridge</a>)
+and <a href="http://jimmieprodgers.com/">Jimmie P Rodgers</a> (circuit bender and
+purveyor of <a href="http://jimmieprodgers.com/kits/apc/">Atari Punk Consoles</a>,
+<a href="http://jimmieprodgers.com/kits/openheart/">LED hearts</a> and
+<a href="http://jimmieprodgers.com/kits/lolshield/">LoL shields</a>) joined us at
+SteamShift HQ in Eastleigh to put on a workshop excitingly titled "How
+To Make Cool Things with Microcontrollers!"</p>
+
+<p><img src="http://theuncommon.co.uk/hackspace/wp-content/uploads/2010/03/photo-300x225.jpg" width="300" title="Mitch Altman teaching soldering" ></p>
+
+<p>Mitch gave a great introduction to microcontrollers, and entertained
+everyone with, among other tales, his experiences in the US, recounting
+how he left his job in Silicone Valley and got into hardware hacking,
+and amusingly how the Noisebridge hackerspace is insured somewhere under
+the category of "Artistic Robotics".</p>
+
+<p>He and Jimmy had a great selection
+of projects on show and available as kits for hacking; the LoL Shields
+went down well, around 6 of us opted to build them for our arduinos.</p>
+
+<p><img src="http://img705.yfrog.com/img705/3484/2t9.jpg" title="Soldering at Southackton" ></p>
+
+<p>Another attendee constructed an
+<a href="http://en.wikipedia.org/wiki/Atari_Punk_Console">Atari Punk Console</a>, while someone
+else constructed their first arduino clone from a
+<a href="http://www.ladyada.net/make/boarduino/">Boarduino kit</a>.</p>
+
+<p>Our guests continued their
+tour of the UK the following day, going on to their
+<a href="http://buildbrighton.eventwax.com/elecrtonics-workshop-with-mitch-altman">next event</a>
+at the
+<a href="http://www.buildbrighton.com/">Brighton hackerspace BuildBrighton</a>.</p>
+
+<p>If you're interested in
+hardware hacking or learning to solder, why not join the discussions on
+our <a href="http://groups.google.com/group/southackton/">google group</a>? If you
+want to stay up to date with the latest SoutHACKton news the
+<a href="http://groups.google.com/group/southackton/">google group</a> is also the place to
+go!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Review of the Arduino meet]]></title>
+    <link href="http://www.southackton.org.uk/2009/09/01/review-of-the-arduino-meet/"/>
+    <updated>2009-09-01T20:09:58+01:00</updated>
+    <id>http://www.southackton.org.uk/2009/09/01/review-of-the-arduino-meet</id>
+    <content type="html"><![CDATA[<p><em>Our next meeting, Hack Day 1, is on 4th October.
+<a href="http://www.southackton.org.uk/2009/09/hack-day-1-meetup/" title="Hack Day 1">Click here</a>
+for details.</em></p>
+
+<p>At 2pm Saturday 29th of August, on an otherwise uneventful
+bank holiday weekend, a varied group of men and women met at
+<a href="http://steamshift.net/">Steamshift</a> HQ. Their purpose - to get down to
+business and HACK! Some arrived with projects in mind - disco lights,
+energy usage monitoring, laser mazes - while others turned up with
+little equipment but an eagerness to get their hands dirty. At the full
+height of the meet, there were around twenty people there, playing
+around with <a href="http://www.arduino.cc/">Arduino</a> and
+<a href="http://www.rev-ed.co.uk/picaxe/">PIXACE</a> boards.</p>
+
+<p><img src="http://theuncommon.co.uk/hackspace/wp-content/uploads/2009/09/sothackton2.jpg" alt="Southackton Meet" /></p>
+
+<p>The meet was organised and hosted by
+<a href="http://twitter.com/steamshift" title="@steamshift">Andy Bennett</a> and Steamshift as
+part of SoutHACKton - a group of like-minded Solent residents who all
+want to kick back, take stuff apart and build new things out of the
+resulting mess.</p>
+
+<p><a href="http://farm4.static.flickr.com/3660/3874748845_6c40e25cef_m.jpg"><img src="http://theuncommon.co.uk/hackspace/wp-content/uploads/2009/09/sothackton3.jpg" alt="Southackton Meet" /></a></p>
+
+<p>And that they did - sometimes clusterd in small groups, working away on
+personal projects, sometimes coming together in larger groups to admire
+a piece of someone else's handy work. Projects that drew particular
+attention were Ruzz's walking robots (a hit at our last meet too),
+<a href="http://twitter.com/fraz3alpha" title="@fraz3alpha">Andy T</a>'s LEDs (Did I mention he
+has 4,000 LEDs?) and my own project: Lou Lou the Furby. I hope to hook
+Lou Lou up to the PC and tell me when I get new email. Maybe she'll get
+her <a href="http://twitter.com/Bubblino" title="Bubblino">own twitter account</a> one
+day. For now, she'll just have to be happy playing sounds from my eeePC
+through an Arduino.</p>
+
+<p><a href="http://www.flickr.com/photos/42005974@N02/3874748871/"><img src="http://theuncommon.co.uk/hackspace/wp-content/uploads/2009/09/sothackton1.jpg" alt="Southackton Meet" /></a></p>
+
+<p><em>Our next meeting, Hack Day 1, is on 4th October.
+<a href="../2009/09/hack-day-1-meetup/" title="Hack Day 1">Click here</a> for details.</em></p>
+
+<p>This event was kindly hosted by Steamshift.</p>
+
+<p><a href="http://steamshift.net/"><img src="http://theuncommon.co.uk/hackspace/wp-content/uploads/2009/07/steamshift.png" alt="image" /></a></p>
+
+<p><em>Steamshift develops creative solutions to technical challenges
+primarily in the fields of web application development, flash AS3
+programming and linux hosting. They work closely with their design and
+branding partners to deliver an end-to-end solution.</em></p>
+]]></content>
+  </entry>
+  
+</feed>
