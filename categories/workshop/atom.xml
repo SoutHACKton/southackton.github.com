@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Workshop | SoutHACKton]]></title>
-  <link href="http://www.southackton.org.uk/categories/workshop/atom.xml" rel="self"/>
-  <link href="http://www.southackton.org.uk/"/>
-  <updated>2012-02-19T22:11:49+00:00</updated>
-  <id>http://www.southackton.org.uk/</id>
+  <link href="http://SoutHACKton.github.com/categories/workshop/atom.xml" rel="self"/>
+  <link href="http://SoutHACKton.github.com/"/>
+  <updated>2012-03-19T12:50:58+00:00</updated>
+  <id>http://SoutHACKton.github.com/</id>
   <author>
     <name><![CDATA[SoutHACKton]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Southackton @ The Art House, 8th June 2011]]></title>
-    <link href="http://www.southackton.org.uk/2011/06/14/southackton-the-art-house-8th-june-2011/"/>
+    <link href="http://SoutHACKton.github.com/2011/06/14/southackton-the-art-house-8th-june-2011/"/>
     <updated>2011-06-14T10:53:10+01:00</updated>
-    <id>http://www.southackton.org.uk/2011/06/14/southackton-the-art-house-8th-june-2011</id>
+    <id>http://SoutHACKton.github.com/2011/06/14/southackton-the-art-house-8th-june-2011</id>
     <content type="html"><![CDATA[<p>A good time was had by all, we looked at a unique Snowboarding location,
 altitude, axis and
 <a href="http://en.wikipedia.org/wiki/Thermocouple">temperature</a> tracker that
@@ -62,9 +62,9 @@ Big Vision!</p>
   
   <entry>
     <title type="html"><![CDATA[Darkbot/SoutHACKton Meeting, 9th of March]]></title>
-    <link href="http://www.southackton.org.uk/2011/02/28/darkbotsouthackton-meeting-9th-of-march/"/>
+    <link href="http://SoutHACKton.github.com/2011/02/28/darkbotsouthackton-meeting-9th-of-march/"/>
     <updated>2011-02-28T15:42:41+00:00</updated>
-    <id>http://www.southackton.org.uk/2011/02/28/darkbotsouthackton-meeting-9th-of-march</id>
+    <id>http://SoutHACKton.github.com/2011/02/28/darkbotsouthackton-meeting-9th-of-march</id>
     <content type="html"><![CDATA[<p>Thanks to the powerful organisational skills of Phased / Ben we'll be
 taming up with the local Dorkbot group to have a big meetup at the
 Arthouse Cafe in Southampton.</p>
@@ -125,9 +125,9 @@ Hope to see you all there.</p>
   
   <entry>
     <title type="html"><![CDATA[Meetup: Mitch Altman - How To Make Cool Things With Microcontrollers]]></title>
-    <link href="http://www.southackton.org.uk/2010/02/27/meetup-mitch-altman-how-to-make-cool-things-with-microcontrollers/"/>
+    <link href="http://SoutHACKton.github.com/2010/02/27/meetup-mitch-altman-how-to-make-cool-things-with-microcontrollers/"/>
     <updated>2010-02-27T21:30:26+00:00</updated>
-    <id>http://www.southackton.org.uk/2010/02/27/meetup-mitch-altman-how-to-make-cool-things-with-microcontrollers</id>
+    <id>http://SoutHACKton.github.com/2010/02/27/meetup-mitch-altman-how-to-make-cool-things-with-microcontrollers</id>
     <content type="html"><![CDATA[<h2>Saturday 20th March 13:00 to 17:00 at SteamShift HQ, 1 Derby Road, Eastleigh, SO50 5QD.</h2>
 
 <p><a href="http://en.wikipedia.org/wiki/Mitch_Altman" title="Mitch Altman on Wikipedia">Mitch Altman</a>,
@@ -214,9 +214,9 @@ bringing: <a href="http://jimmieprodgers.com/">http://jimmieprodgers.com/</a></p
   
   <entry>
     <title type="html"><![CDATA[Hack Day 1 - Meetup]]></title>
-    <link href="http://www.southackton.org.uk/2009/09/03/hack-day-1-meetup/"/>
+    <link href="http://SoutHACKton.github.com/2009/09/03/hack-day-1-meetup/"/>
     <updated>2009-09-03T14:09:05+01:00</updated>
-    <id>http://www.southackton.org.uk/2009/09/03/hack-day-1-meetup</id>
+    <id>http://SoutHACKton.github.com/2009/09/03/hack-day-1-meetup</id>
     <content type="html"><![CDATA[<p><img class="left" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Arduino_Diecimila.jpg/800px-Arduino_Diecimila.jpg" title="Un Arduino Diecimila (via Wikipedia)" ></p>
 
 <h2>Sunday 4th October 2009, 10:30am-6:30pm,</h2>
@@ -283,9 +283,9 @@ branding partners to deliver an end-to-end solution.</em></p>
   
   <entry>
     <title type="html"><![CDATA[Introduction To Arduino - Meeting]]></title>
-    <link href="http://www.southackton.org.uk/2009/07/29/introduction-to-arduino-meeting/"/>
+    <link href="http://SoutHACKton.github.com/2009/07/29/introduction-to-arduino-meeting/"/>
     <updated>2009-07-29T19:11:41+01:00</updated>
-    <id>http://www.southackton.org.uk/2009/07/29/introduction-to-arduino-meeting</id>
+    <id>http://SoutHACKton.github.com/2009/07/29/introduction-to-arduino-meeting</id>
     <content type="html"><![CDATA[<p><img class="left" src="http://farm4.static.flickr.com/3067/3021653282_147c023634_m.jpg" title="BlinkM MaxM, preferred Arduino connection (via Flickr:todbot)" ></p>
 
 <h2>Saturday 29th August 2009, 2pm, <a href="http://steamshift.net/" title="Steamshift">Steamshift</a> HQ</h2>

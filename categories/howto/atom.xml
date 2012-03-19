@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Howto | SoutHACKton]]></title>
-  <link href="http://www.southackton.org.uk/categories/howto/atom.xml" rel="self"/>
-  <link href="http://www.southackton.org.uk/"/>
-  <updated>2012-02-19T22:11:49+00:00</updated>
-  <id>http://www.southackton.org.uk/</id>
+  <link href="http://SoutHACKton.github.com/categories/howto/atom.xml" rel="self"/>
+  <link href="http://SoutHACKton.github.com/"/>
+  <updated>2012-03-19T12:50:58+00:00</updated>
+  <id>http://SoutHACKton.github.com/</id>
   <author>
     <name><![CDATA[SoutHACKton]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[MIT running free electronic circuits course]]></title>
-    <link href="http://www.southackton.org.uk/2012/02/14/mit-running-free-electronic-circuits-course/"/>
+    <link href="http://SoutHACKton.github.com/2012/02/14/mit-running-free-electronic-circuits-course/"/>
     <updated>2012-02-14T13:11:29+00:00</updated>
-    <id>http://www.southackton.org.uk/2012/02/14/mit-running-free-electronic-circuits-course</id>
+    <id>http://SoutHACKton.github.com/2012/02/14/mit-running-free-electronic-circuits-course</id>
     <content type="html"><![CDATA[<p>Thanks to Paul Stimpson on the Surrey LUG mailing list for pointing the
 course out:</p>
 
@@ -41,9 +41,9 @@ of approximately 10 hours per week.</p>
   
   <entry>
     <title type="html"><![CDATA[Howto: Arduino Pin Speed (Multiplexing)]]></title>
-    <link href="http://www.southackton.org.uk/2009/09/08/howto-arduino-pin-speed-multiplexing/"/>
+    <link href="http://SoutHACKton.github.com/2009/09/08/howto-arduino-pin-speed-multiplexing/"/>
     <updated>2009-09-08T22:33:14+01:00</updated>
-    <id>http://www.southackton.org.uk/2009/09/08/howto-arduino-pin-speed-multiplexing</id>
+    <id>http://SoutHACKton.github.com/2009/09/08/howto-arduino-pin-speed-multiplexing</id>
     <content type="html"><![CDATA[<p><a href="http://www.earthshinedesign.co.uk/index.php?route=product/product&amp;path=38_43&amp;product_id=82"><img src="http://www.earthshinedesign.co.uk/image/cache/1425313_75-250x250.jpg" title="8x8 dual colour dot matrix display" alt="image" /></a></p>
 
 <p><em>This is the beginning of a post from

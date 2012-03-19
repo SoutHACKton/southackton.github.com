@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[SoutHACKton]]></title>
-  <link href="http://www.southackton.org.uk/atom.xml" rel="self"/>
-  <link href="http://www.southackton.org.uk/"/>
-  <updated>2012-02-19T22:11:49+00:00</updated>
-  <id>http://www.southackton.org.uk/</id>
+  <link href="http://SoutHACKton.github.com/atom.xml" rel="self"/>
+  <link href="http://SoutHACKton.github.com/"/>
+  <updated>2012-03-19T12:50:58+00:00</updated>
+  <id>http://SoutHACKton.github.com/</id>
   <author>
     <name><![CDATA[SoutHACKton]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[MIT running free electronic circuits course]]></title>
-    <link href="http://www.southackton.org.uk/2012/02/14/mit-running-free-electronic-circuits-course/"/>
+    <link href="http://SoutHACKton.github.com/2012/02/14/mit-running-free-electronic-circuits-course/"/>
     <updated>2012-02-14T13:11:29+00:00</updated>
-    <id>http://www.southackton.org.uk/2012/02/14/mit-running-free-electronic-circuits-course</id>
+    <id>http://SoutHACKton.github.com/2012/02/14/mit-running-free-electronic-circuits-course</id>
     <content type="html"><![CDATA[<p>Thanks to Paul Stimpson on the Surrey LUG mailing list for pointing the
 course out:</p>
 
@@ -41,9 +41,9 @@ of approximately 10 hours per week.</p>
   
   <entry>
     <title type="html"><![CDATA[Next SoutHackton meetup, 7.30pm Tues 24th Jan]]></title>
-    <link href="http://www.southackton.org.uk/2012/01/18/next-southackton-meetup-7-30pm-tues-24th-jan/"/>
+    <link href="http://SoutHACKton.github.com/2012/01/18/next-southackton-meetup-7-30pm-tues-24th-jan/"/>
     <updated>2012-01-18T19:19:28+00:00</updated>
-    <id>http://www.southackton.org.uk/2012/01/18/next-southackton-meetup-7-30pm-tues-24th-jan</id>
+    <id>http://SoutHACKton.github.com/2012/01/18/next-southackton-meetup-7-30pm-tues-24th-jan</id>
     <content type="html"><![CDATA[<p>We are a community of makers, tinkerers and artists. Our aim is to share
 skills and tools to allow anyone to create something amazing, regardless
 of experience. We want to start a Hackerspace in Southampton, where
@@ -68,9 +68,9 @@ House: <a href="http://www.thearthousesouthampton.co.uk/">http://www.thearthouse
   
   <entry>
     <title type="html"><![CDATA[Next SoutHackton meetup - Wed 7th Dec]]></title>
-    <link href="http://www.southackton.org.uk/2011/11/30/next-southackton-meetup-wed-7th-dec/"/>
+    <link href="http://SoutHACKton.github.com/2011/11/30/next-southackton-meetup-wed-7th-dec/"/>
     <updated>2011-11-30T17:50:36+00:00</updated>
-    <id>http://www.southackton.org.uk/2011/11/30/next-southackton-meetup-wed-7th-dec</id>
+    <id>http://SoutHACKton.github.com/2011/11/30/next-southackton-meetup-wed-7th-dec</id>
     <content type="html"><![CDATA[<p>Our next meetup is 7:30pm until 10:00pm Wednesday, December 7, 2011.</p>
 
 <p>Let
@@ -100,9 +100,9 @@ more than happy to help you.</p>
   
   <entry>
     <title type="html"><![CDATA[Southackton Ubuntu workshop - Wed 2nd Nov, 7.30pm at Southampton Art House]]></title>
-    <link href="http://www.southackton.org.uk/2011/10/31/southackton-ubuntu-workshop-wed-2nd-nov-7-30pm-at-southampton-art-house/"/>
+    <link href="http://SoutHACKton.github.com/2011/10/31/southackton-ubuntu-workshop-wed-2nd-nov-7-30pm-at-southampton-art-house/"/>
     <updated>2011-10-31T18:14:00+00:00</updated>
-    <id>http://www.southackton.org.uk/2011/10/31/southackton-ubuntu-workshop-wed-2nd-nov-7-30pm-at-southampton-art-house</id>
+    <id>http://SoutHACKton.github.com/2011/10/31/southackton-ubuntu-workshop-wed-2nd-nov-7-30pm-at-southampton-art-house</id>
     <content type="html"><![CDATA[<p>The next SoutHACKton meetup will be a Ubuntu workshop at the Art House,
 Southampton at 7.30pm</p>
 
@@ -127,9 +127,9 @@ along.</p>
   
   <entry>
     <title type="html"><![CDATA[Next meetup, 7.30pm Wed 5th October at The Art House, Southampton]]></title>
-    <link href="http://www.southackton.org.uk/2011/09/30/next-meetup-7-30pm-wed-5th-october-at-the-art-house-southampton/"/>
+    <link href="http://SoutHACKton.github.com/2011/09/30/next-meetup-7-30pm-wed-5th-october-at-the-art-house-southampton/"/>
     <updated>2011-09-30T18:17:16+01:00</updated>
-    <id>http://www.southackton.org.uk/2011/09/30/next-meetup-7-30pm-wed-5th-october-at-the-art-house-southampton</id>
+    <id>http://SoutHACKton.github.com/2011/09/30/next-meetup-7-30pm-wed-5th-october-at-the-art-house-southampton</id>
     <content type="html"><![CDATA[<p>The next meetup is at The Art House, Southapton on Wed 5th October at
 7.30pm</p>
 
@@ -141,9 +141,9 @@ friend.</p>
   
   <entry>
     <title type="html"><![CDATA[Next meetup, 7pm on Tues 20th Sept at ASpace, Tower House]]></title>
-    <link href="http://www.southackton.org.uk/2011/09/12/next-meetup-7pm-on-tues-20th-sept-at-aspace-tower-house/"/>
+    <link href="http://SoutHACKton.github.com/2011/09/12/next-meetup-7pm-on-tues-20th-sept-at-aspace-tower-house/"/>
     <updated>2011-09-12T16:52:02+01:00</updated>
-    <id>http://www.southackton.org.uk/2011/09/12/next-meetup-7pm-on-tues-20th-sept-at-aspace-tower-house</id>
+    <id>http://SoutHACKton.github.com/2011/09/12/next-meetup-7pm-on-tues-20th-sept-at-aspace-tower-house</id>
     <content type="html"><![CDATA[<p>The next southackton meetup is at ASpace at 7pm on Tuesday 20th of
 September at Tower House.</p>
 
@@ -160,9 +160,9 @@ Platform pub and the City Council Archaeology Museum.</p>
   
   <entry>
     <title type="html"><![CDATA[Welcome to Southackton]]></title>
-    <link href="http://www.southackton.org.uk/2011/09/09/welcome-to-southackton/"/>
+    <link href="http://SoutHACKton.github.com/2011/09/09/welcome-to-southackton/"/>
     <updated>2011-09-09T14:13:07+01:00</updated>
-    <id>http://www.southackton.org.uk/2011/09/09/welcome-to-southackton</id>
+    <id>http://SoutHACKton.github.com/2011/09/09/welcome-to-southackton</id>
     <content type="html"><![CDATA[<p>Welcome to SoutHACKton, the Southampton Hackerspace project.</p>
 
 <p>We are a
@@ -185,7 +185,7 @@ these topics, or have another interest you want to share, why not join
 us?</p>
 
 <p>For more details, including a map to our usual meetup place, see
-<a href="http://www.southackton.org.uk/about">about</a></p>
+<a href="http://SoutHACKton.github.com/about">about</a></p>
 
 <p>To join in the community please head over to the Google
 Group at:</p>
@@ -196,9 +196,9 @@ Group at:</p>
   
   <entry>
     <title type="html"><![CDATA[Next Meeting: September 7th]]></title>
-    <link href="http://www.southackton.org.uk/2011/09/01/next-meeting-september-7th/"/>
+    <link href="http://SoutHACKton.github.com/2011/09/01/next-meeting-september-7th/"/>
     <updated>2011-09-01T10:31:02+01:00</updated>
-    <id>http://www.southackton.org.uk/2011/09/01/next-meeting-september-7th</id>
+    <id>http://SoutHACKton.github.com/2011/09/01/next-meeting-september-7th</id>
     <content type="html"><![CDATA[<p>We&#8217;ll be gathering at
 <a href="http://www.thearthousesouthampton.co.uk/">The Arthouse Cafe</a> next Wednesday
 <strong>September 17th 2011</strong> to talk tech and drink coffee from 7:30pm till
@@ -224,9 +224,9 @@ the <a href="https://www.facebook.com/SoutHACKton">Page</a>.</p>
   
   <entry>
     <title type="html"><![CDATA[Next Meeting and Arduino Evening]]></title>
-    <link href="http://www.southackton.org.uk/2011/08/05/next-meeting-and-arduino-evening/"/>
+    <link href="http://SoutHACKton.github.com/2011/08/05/next-meeting-and-arduino-evening/"/>
     <updated>2011-08-05T10:20:08+01:00</updated>
-    <id>http://www.southackton.org.uk/2011/08/05/next-meeting-and-arduino-evening</id>
+    <id>http://SoutHACKton.github.com/2011/08/05/next-meeting-and-arduino-evening</id>
     <content type="html"><![CDATA[<p>We&#8217;ll be heading over to the Arthouse on the<strong>17th of August</strong> at
 7:30pm:</p>
 
@@ -257,9 +257,9 @@ at:
   
   <entry>
     <title type="html"><![CDATA[Next SoutHACKton Meeting]]></title>
-    <link href="http://www.southackton.org.uk/2011/07/28/next-southackton-meeting/"/>
+    <link href="http://SoutHACKton.github.com/2011/07/28/next-southackton-meeting/"/>
     <updated>2011-07-28T16:52:52+01:00</updated>
-    <id>http://www.southackton.org.uk/2011/07/28/next-southackton-meeting</id>
+    <id>http://SoutHACKton.github.com/2011/07/28/next-southackton-meeting</id>
     <content type="html"><![CDATA[<p>We&#8217;ll be talking hacking and making as well as planning out the forming
 of a hackspace company over at the Art House Cafe on:</p>
 
@@ -276,9 +276,9 @@ along, drink coffee and talk to cool people.</p>
   
   <entry>
     <title type="html"><![CDATA[Meeting tonight, July 20th @ The Art House]]></title>
-    <link href="http://www.southackton.org.uk/2011/07/20/meeting-tonight-july-20th-the-art-house/"/>
+    <link href="http://SoutHACKton.github.com/2011/07/20/meeting-tonight-july-20th-the-art-house/"/>
     <updated>2011-07-20T15:50:15+01:00</updated>
-    <id>http://www.southackton.org.uk/2011/07/20/meeting-tonight-july-20th-the-art-house</id>
+    <id>http://SoutHACKton.github.com/2011/07/20/meeting-tonight-july-20th-the-art-house</id>
     <content type="html"><![CDATA[<h3><strong>From 7.30pm until we get bored…</strong></h3>
 
 <p>Under discussion;</p>
@@ -300,9 +300,9 @@ SO14 7DW</em></p>
   
   <entry>
     <title type="html"><![CDATA[Next Meeting, 6th July 2011 @ The Arthouse, Southampton]]></title>
-    <link href="http://www.southackton.org.uk/2011/07/05/next-meeting-6th-july-2011-the-arthouse-southampton/"/>
+    <link href="http://SoutHACKton.github.com/2011/07/05/next-meeting-6th-july-2011-the-arthouse-southampton/"/>
     <updated>2011-07-05T16:43:41+01:00</updated>
-    <id>http://www.southackton.org.uk/2011/07/05/next-meeting-6th-july-2011-the-arthouse-southampton</id>
+    <id>http://SoutHACKton.github.com/2011/07/05/next-meeting-6th-july-2011-the-arthouse-southampton</id>
     <content type="html"><![CDATA[<p>From 7.30pm until we get bored…</p>
 
 <p>The Art House Southampton CIC<br/>
@@ -320,9 +320,9 @@ yourself!</p>
   
   <entry>
     <title type="html"><![CDATA[Like us on Facebook]]></title>
-    <link href="http://www.southackton.org.uk/2011/06/24/like-us-on-facebook/"/>
+    <link href="http://SoutHACKton.github.com/2011/06/24/like-us-on-facebook/"/>
     <updated>2011-06-24T17:20:38+01:00</updated>
-    <id>http://www.southackton.org.uk/2011/06/24/like-us-on-facebook</id>
+    <id>http://SoutHACKton.github.com/2011/06/24/like-us-on-facebook</id>
     <content type="html"><![CDATA[<p>Our Facebook page needs another 16 &#8220;likes&#8221; to get a proper vanity URL,
 so why not head on over to
 <a href="http://www.facebook.com/pages/SoutHACKton/209242380373?sk=wall">http://www.facebook.com/pages/SoutHACKton/209242380373</a>
@@ -332,9 +332,9 @@ now and like us!</p>
   
   <entry>
     <title type="html"><![CDATA[Southackton @ The Art House, 8th June 2011]]></title>
-    <link href="http://www.southackton.org.uk/2011/06/14/southackton-the-art-house-8th-june-2011/"/>
+    <link href="http://SoutHACKton.github.com/2011/06/14/southackton-the-art-house-8th-june-2011/"/>
     <updated>2011-06-14T10:53:10+01:00</updated>
-    <id>http://www.southackton.org.uk/2011/06/14/southackton-the-art-house-8th-june-2011</id>
+    <id>http://SoutHACKton.github.com/2011/06/14/southackton-the-art-house-8th-june-2011</id>
     <content type="html"><![CDATA[<p>A good time was had by all, we looked at a unique Snowboarding location,
 altitude, axis and
 <a href="http://en.wikipedia.org/wiki/Thermocouple">temperature</a> tracker that
@@ -379,9 +379,9 @@ Big Vision!</p>
   
   <entry>
     <title type="html"><![CDATA[Next Meeting: Wednesday 8th June 2011]]></title>
-    <link href="http://www.southackton.org.uk/2011/06/01/next-meeting-wednesday-8th-june-2011/"/>
+    <link href="http://SoutHACKton.github.com/2011/06/01/next-meeting-wednesday-8th-june-2011/"/>
     <updated>2011-06-01T21:30:36+01:00</updated>
-    <id>http://www.southackton.org.uk/2011/06/01/next-meeting-wednesday-8th-june-2011</id>
+    <id>http://SoutHACKton.github.com/2011/06/01/next-meeting-wednesday-8th-june-2011</id>
     <content type="html"><![CDATA[<p>The ever expanding Southackton group will be meeting once again at the
 Art House in Southampton.</p>
 
@@ -404,9 +404,9 @@ SO14 7DW</p>
   
   <entry>
     <title type="html"><![CDATA[Meeting Tonight: Art House 7.30pm]]></title>
-    <link href="http://www.southackton.org.uk/2011/05/11/meeting-tonight-art-house-7-30pm/"/>
+    <link href="http://SoutHACKton.github.com/2011/05/11/meeting-tonight-art-house-7-30pm/"/>
     <updated>2011-05-11T14:27:57+01:00</updated>
-    <id>http://www.southackton.org.uk/2011/05/11/meeting-tonight-art-house-7-30pm</id>
+    <id>http://SoutHACKton.github.com/2011/05/11/meeting-tonight-art-house-7-30pm</id>
     <content type="html"><![CDATA[<p>Tonight 11th May 2011, 19:30 at the Art House, Southampton - just try
 not to wander into the poetry group that&#8217;s on at the same time:</p>
 
@@ -426,9 +426,9 @@ not to wander into the poetry group that&#8217;s on at the same time:</p>
   
   <entry>
     <title type="html"><![CDATA[SoutHackton/Dorkbot Meetup]]></title>
-    <link href="http://www.southackton.org.uk/2011/03/09/southacktondorkbot-meetup/"/>
+    <link href="http://SoutHACKton.github.com/2011/03/09/southacktondorkbot-meetup/"/>
     <updated>2011-03-09T23:46:52+00:00</updated>
-    <id>http://www.southackton.org.uk/2011/03/09/southacktondorkbot-meetup</id>
+    <id>http://SoutHACKton.github.com/2011/03/09/southacktondorkbot-meetup</id>
     <content type="html"><![CDATA[<p>We had about 15 people show up at the Arthouse, with talk of Arduinos,
 3D printers, teardowns and mobiles. Tea was drunk, cakes were eaten and
 a good time was apparently had by all.</p>
@@ -462,9 +462,9 @@ blog for more info as we decide it, or join the
   
   <entry>
     <title type="html"><![CDATA[Darkbot/SoutHACKton Meeting, 9th of March]]></title>
-    <link href="http://www.southackton.org.uk/2011/02/28/darkbotsouthackton-meeting-9th-of-march/"/>
+    <link href="http://SoutHACKton.github.com/2011/02/28/darkbotsouthackton-meeting-9th-of-march/"/>
     <updated>2011-02-28T15:42:41+00:00</updated>
-    <id>http://www.southackton.org.uk/2011/02/28/darkbotsouthackton-meeting-9th-of-march</id>
+    <id>http://SoutHACKton.github.com/2011/02/28/darkbotsouthackton-meeting-9th-of-march</id>
     <content type="html"><![CDATA[<p>Thanks to the powerful organisational skills of Phased / Ben we&#8217;ll be
 taming up with the local Dorkbot group to have a big meetup at the
 Arthouse Cafe in Southampton.</p>
@@ -525,9 +525,9 @@ Hope to see you all there.</p>
   
   <entry>
     <title type="html"><![CDATA[Hackspace in the Making]]></title>
-    <link href="http://www.southackton.org.uk/2010/12/10/hackspace-in-the-making/"/>
+    <link href="http://SoutHACKton.github.com/2010/12/10/hackspace-in-the-making/"/>
     <updated>2010-12-10T11:00:52+00:00</updated>
-    <id>http://www.southackton.org.uk/2010/12/10/hackspace-in-the-making</id>
+    <id>http://SoutHACKton.github.com/2010/12/10/hackspace-in-the-making</id>
     <content type="html"><![CDATA[<p>We currently have a project going to set up a hackspace in Southampton
 early next year. We&#8217;re talking with the council and various other
 helpful people, including the London Hackspace) to try and make it as
@@ -542,9 +542,9 @@ for everyone.</p>
   
   <entry>
     <title type="html"><![CDATA[Review: "How To Make Cool Things From Microcontrollers"]]></title>
-    <link href="http://www.southackton.org.uk/2010/03/26/review-how-to-make-cool-things-from-microcontrollers/"/>
+    <link href="http://SoutHACKton.github.com/2010/03/26/review-how-to-make-cool-things-from-microcontrollers/"/>
     <updated>2010-03-26T11:22:01+00:00</updated>
-    <id>http://www.southackton.org.uk/2010/03/26/review-how-to-make-cool-things-from-microcontrollers</id>
+    <id>http://SoutHACKton.github.com/2010/03/26/review-how-to-make-cool-things-from-microcontrollers</id>
     <content type="html"><![CDATA[<p>Last week&#8217;s workshop was great fun despite the dreary weather!
 <a href="http://en.wikipedia.org/wiki/Mitch_Altman" title="Mitch Altman on Wikipedia">Mitch Altman</a>,
 (inventor of TV-B-Gone, and co-founder of

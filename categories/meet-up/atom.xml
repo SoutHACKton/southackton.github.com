@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Meet Up | SoutHACKton]]></title>
-  <link href="http://www.southackton.org.uk/categories/meet-up/atom.xml" rel="self"/>
-  <link href="http://www.southackton.org.uk/"/>
-  <updated>2012-02-19T22:11:49+00:00</updated>
-  <id>http://www.southackton.org.uk/</id>
+  <link href="http://SoutHACKton.github.com/categories/meet-up/atom.xml" rel="self"/>
+  <link href="http://SoutHACKton.github.com/"/>
+  <updated>2012-03-19T12:50:58+00:00</updated>
+  <id>http://SoutHACKton.github.com/</id>
   <author>
     <name><![CDATA[SoutHACKton]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Next meetup, 7.30pm Wed 5th October at The Art House, Southampton]]></title>
-    <link href="http://www.southackton.org.uk/2011/09/30/next-meetup-7-30pm-wed-5th-october-at-the-art-house-southampton/"/>
+    <link href="http://SoutHACKton.github.com/2011/09/30/next-meetup-7-30pm-wed-5th-october-at-the-art-house-southampton/"/>
     <updated>2011-09-30T18:17:16+01:00</updated>
-    <id>http://www.southackton.org.uk/2011/09/30/next-meetup-7-30pm-wed-5th-october-at-the-art-house-southampton</id>
+    <id>http://SoutHACKton.github.com/2011/09/30/next-meetup-7-30pm-wed-5th-october-at-the-art-house-southampton</id>
     <content type="html"><![CDATA[<p>The next meetup is at The Art House, Southapton on Wed 5th October at
 7.30pm</p>
 
@@ -29,9 +29,9 @@ friend.</p>
   
   <entry>
     <title type="html"><![CDATA[Next Meeting and Arduino Evening]]></title>
-    <link href="http://www.southackton.org.uk/2011/08/05/next-meeting-and-arduino-evening/"/>
+    <link href="http://SoutHACKton.github.com/2011/08/05/next-meeting-and-arduino-evening/"/>
     <updated>2011-08-05T10:20:08+01:00</updated>
-    <id>http://www.southackton.org.uk/2011/08/05/next-meeting-and-arduino-evening</id>
+    <id>http://SoutHACKton.github.com/2011/08/05/next-meeting-and-arduino-evening</id>
     <content type="html"><![CDATA[<p>We'll be heading over to the Arthouse on the<strong>17th of August</strong> at
 7:30pm:</p>
 

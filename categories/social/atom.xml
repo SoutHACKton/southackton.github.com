@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Social | SoutHACKton]]></title>
-  <link href="http://www.southackton.org.uk/categories/social/atom.xml" rel="self"/>
-  <link href="http://www.southackton.org.uk/"/>
-  <updated>2012-02-19T22:11:49+00:00</updated>
-  <id>http://www.southackton.org.uk/</id>
+  <link href="http://SoutHACKton.github.com/categories/social/atom.xml" rel="self"/>
+  <link href="http://SoutHACKton.github.com/"/>
+  <updated>2012-03-19T12:50:58+00:00</updated>
+  <id>http://SoutHACKton.github.com/</id>
   <author>
     <name><![CDATA[SoutHACKton]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Next SoutHackton meetup - Wed 7th Dec]]></title>
-    <link href="http://www.southackton.org.uk/2011/11/30/next-southackton-meetup-wed-7th-dec/"/>
+    <link href="http://SoutHACKton.github.com/2011/11/30/next-southackton-meetup-wed-7th-dec/"/>
     <updated>2011-11-30T17:50:36+00:00</updated>
-    <id>http://www.southackton.org.uk/2011/11/30/next-southackton-meetup-wed-7th-dec</id>
+    <id>http://SoutHACKton.github.com/2011/11/30/next-southackton-meetup-wed-7th-dec</id>
     <content type="html"><![CDATA[<p>Our next meetup is 7:30pm until 10:00pm Wednesday, December 7, 2011.</p>
 
 <p>Let
@@ -47,9 +47,9 @@ more than happy to help you.</p>
   
   <entry>
     <title type="html"><![CDATA[Next SoutHACKton Meeting]]></title>
-    <link href="http://www.southackton.org.uk/2011/07/28/next-southackton-meeting/"/>
+    <link href="http://SoutHACKton.github.com/2011/07/28/next-southackton-meeting/"/>
     <updated>2011-07-28T16:52:52+01:00</updated>
-    <id>http://www.southackton.org.uk/2011/07/28/next-southackton-meeting</id>
+    <id>http://SoutHACKton.github.com/2011/07/28/next-southackton-meeting</id>
     <content type="html"><![CDATA[<p>We'll be talking hacking and making as well as planning out the forming
 of a hackspace company over at the Art House Cafe on:</p>
 
@@ -66,9 +66,9 @@ along, drink coffee and talk to cool people.</p>
   
   <entry>
     <title type="html"><![CDATA[Southackton @ The Art House, 8th June 2011]]></title>
-    <link href="http://www.southackton.org.uk/2011/06/14/southackton-the-art-house-8th-june-2011/"/>
+    <link href="http://SoutHACKton.github.com/2011/06/14/southackton-the-art-house-8th-june-2011/"/>
     <updated>2011-06-14T10:53:10+01:00</updated>
-    <id>http://www.southackton.org.uk/2011/06/14/southackton-the-art-house-8th-june-2011</id>
+    <id>http://SoutHACKton.github.com/2011/06/14/southackton-the-art-house-8th-june-2011</id>
     <content type="html"><![CDATA[<p>A good time was had by all, we looked at a unique Snowboarding location,
 altitude, axis and
 <a href="http://en.wikipedia.org/wiki/Thermocouple">temperature</a> tracker that
@@ -113,9 +113,9 @@ Big Vision!</p>
   
   <entry>
     <title type="html"><![CDATA[Darkbot/SoutHACKton Meeting, 9th of March]]></title>
-    <link href="http://www.southackton.org.uk/2011/02/28/darkbotsouthackton-meeting-9th-of-march/"/>
+    <link href="http://SoutHACKton.github.com/2011/02/28/darkbotsouthackton-meeting-9th-of-march/"/>
     <updated>2011-02-28T15:42:41+00:00</updated>
-    <id>http://www.southackton.org.uk/2011/02/28/darkbotsouthackton-meeting-9th-of-march</id>
+    <id>http://SoutHACKton.github.com/2011/02/28/darkbotsouthackton-meeting-9th-of-march</id>
     <content type="html"><![CDATA[<p>Thanks to the powerful organisational skills of Phased / Ben we'll be
 taming up with the local Dorkbot group to have a big meetup at the
 Arthouse Cafe in Southampton.</p>
@@ -176,9 +176,9 @@ Hope to see you all there.</p>
   
   <entry>
     <title type="html"><![CDATA[Come Join Us - First Meetup!]]></title>
-    <link href="http://www.southackton.org.uk/2009/05/31/come-join-us-first-meetup/"/>
+    <link href="http://SoutHACKton.github.com/2009/05/31/come-join-us-first-meetup/"/>
     <updated>2009-05-31T13:24:58+01:00</updated>
-    <id>http://www.southackton.org.uk/2009/05/31/come-join-us-first-meetup</id>
+    <id>http://SoutHACKton.github.com/2009/05/31/come-join-us-first-meetup</id>
     <content type="html"><![CDATA[<p><img class="left" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Magnetic_core.jpg/300px-Magnetic_core.jpg" title="Magnetic core memory. Each core is one bit. (via wikipedia)" >
 Do you enjoy tinkering with software or hardware?</p>
 

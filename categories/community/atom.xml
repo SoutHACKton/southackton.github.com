@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Community | SoutHACKton]]></title>
-  <link href="http://www.southackton.org.uk/categories/community/atom.xml" rel="self"/>
-  <link href="http://www.southackton.org.uk/"/>
-  <updated>2012-02-19T22:11:49+00:00</updated>
-  <id>http://www.southackton.org.uk/</id>
+  <link href="http://SoutHACKton.github.com/categories/community/atom.xml" rel="self"/>
+  <link href="http://SoutHACKton.github.com/"/>
+  <updated>2012-03-19T12:50:58+00:00</updated>
+  <id>http://SoutHACKton.github.com/</id>
   <author>
     <name><![CDATA[SoutHACKton]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[MIT running free electronic circuits course]]></title>
-    <link href="http://www.southackton.org.uk/2012/02/14/mit-running-free-electronic-circuits-course/"/>
+    <link href="http://SoutHACKton.github.com/2012/02/14/mit-running-free-electronic-circuits-course/"/>
     <updated>2012-02-14T13:11:29+00:00</updated>
-    <id>http://www.southackton.org.uk/2012/02/14/mit-running-free-electronic-circuits-course</id>
+    <id>http://SoutHACKton.github.com/2012/02/14/mit-running-free-electronic-circuits-course</id>
     <content type="html"><![CDATA[<p>Thanks to Paul Stimpson on the Surrey LUG mailing list for pointing the
 course out:</p>
 
@@ -41,9 +41,9 @@ of approximately 10 hours per week.</p>
   
   <entry>
     <title type="html"><![CDATA[Like us on Facebook]]></title>
-    <link href="http://www.southackton.org.uk/2011/06/24/like-us-on-facebook/"/>
+    <link href="http://SoutHACKton.github.com/2011/06/24/like-us-on-facebook/"/>
     <updated>2011-06-24T17:20:38+01:00</updated>
-    <id>http://www.southackton.org.uk/2011/06/24/like-us-on-facebook</id>
+    <id>http://SoutHACKton.github.com/2011/06/24/like-us-on-facebook</id>
     <content type="html"><![CDATA[<p>Our Facebook page needs another 16 "likes" to get a proper vanity URL,
 so why not head on over to
 <a href="http://www.facebook.com/pages/SoutHACKton/209242380373?sk=wall">http://www.facebook.com/pages/SoutHACKton/209242380373</a>
@@ -53,9 +53,9 @@ now and like us!</p>
   
   <entry>
     <title type="html"><![CDATA[Hackspace in the Making]]></title>
-    <link href="http://www.southackton.org.uk/2010/12/10/hackspace-in-the-making/"/>
+    <link href="http://SoutHACKton.github.com/2010/12/10/hackspace-in-the-making/"/>
     <updated>2010-12-10T11:00:52+00:00</updated>
-    <id>http://www.southackton.org.uk/2010/12/10/hackspace-in-the-making</id>
+    <id>http://SoutHACKton.github.com/2010/12/10/hackspace-in-the-making</id>
     <content type="html"><![CDATA[<p>We currently have a project going to set up a hackspace in Southampton
 early next year. We're talking with the council and various other
 helpful people, including the London Hackspace) to try and make it as
@@ -70,9 +70,9 @@ for everyone.</p>
   
   <entry>
     <title type="html"><![CDATA[Now With Google Groups]]></title>
-    <link href="http://www.southackton.org.uk/2009/05/20/now-with-google-groups/"/>
+    <link href="http://SoutHACKton.github.com/2009/05/20/now-with-google-groups/"/>
     <updated>2009-05-20T16:58:41+01:00</updated>
-    <id>http://www.southackton.org.uk/2009/05/20/now-with-google-groups</id>
+    <id>http://SoutHACKton.github.com/2009/05/20/now-with-google-groups</id>
     <content type="html"><![CDATA[<div style="float:right;border:2px solid black;-moz-border-radius:1em;border-radius:1em;background-color:white;padding:5px">
 <table style="padding: 5px;" cellspacing="0">
 <tr>
@@ -102,9 +102,9 @@ for everyone.</p>
   
   <entry>
     <title type="html"><![CDATA[A Hackerspace In Southampton?]]></title>
-    <link href="http://www.southackton.org.uk/2009/05/20/a-hackerspace-in-southampton/"/>
+    <link href="http://SoutHACKton.github.com/2009/05/20/a-hackerspace-in-southampton/"/>
     <updated>2009-05-20T12:07:18+01:00</updated>
-    <id>http://www.southackton.org.uk/2009/05/20/a-hackerspace-in-southampton</id>
+    <id>http://SoutHACKton.github.com/2009/05/20/a-hackerspace-in-southampton</id>
     <content type="html"><![CDATA[<p><img class="left" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Southampton<em>-</em>Bargate.JPG/300px-Southampton<em>-</em>Bargate.JPG" title="City of Southampton (via Wikipedia)" >
 Wouldn't it be great to have a
 "<a href="http://en.wikipedia.org/wiki/Hackerspace" title="Hackerspace Wikipedia Article">Hackerspace</a>"

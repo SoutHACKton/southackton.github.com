@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Meetup | SoutHACKton]]></title>
-  <link href="http://www.southackton.org.uk/categories/meetup/atom.xml" rel="self"/>
-  <link href="http://www.southackton.org.uk/"/>
-  <updated>2012-02-19T22:11:49+00:00</updated>
-  <id>http://www.southackton.org.uk/</id>
+  <link href="http://SoutHACKton.github.com/categories/meetup/atom.xml" rel="self"/>
+  <link href="http://SoutHACKton.github.com/"/>
+  <updated>2012-03-19T12:50:58+00:00</updated>
+  <id>http://SoutHACKton.github.com/</id>
   <author>
     <name><![CDATA[SoutHACKton]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Next SoutHackton meetup, 7.30pm Tues 24th Jan]]></title>
-    <link href="http://www.southackton.org.uk/2012/01/18/next-southackton-meetup-7-30pm-tues-24th-jan/"/>
+    <link href="http://SoutHACKton.github.com/2012/01/18/next-southackton-meetup-7-30pm-tues-24th-jan/"/>
     <updated>2012-01-18T19:19:28+00:00</updated>
-    <id>http://www.southackton.org.uk/2012/01/18/next-southackton-meetup-7-30pm-tues-24th-jan</id>
+    <id>http://SoutHACKton.github.com/2012/01/18/next-southackton-meetup-7-30pm-tues-24th-jan</id>
     <content type="html"><![CDATA[<p>We are a community of makers, tinkerers and artists. Our aim is to share
 skills and tools to allow anyone to create something amazing, regardless
 of experience. We want to start a Hackerspace in Southampton, where
@@ -42,9 +42,9 @@ House: <a href="http://www.thearthousesouthampton.co.uk/">http://www.thearthouse
   
   <entry>
     <title type="html"><![CDATA[Next SoutHackton meetup - Wed 7th Dec]]></title>
-    <link href="http://www.southackton.org.uk/2011/11/30/next-southackton-meetup-wed-7th-dec/"/>
+    <link href="http://SoutHACKton.github.com/2011/11/30/next-southackton-meetup-wed-7th-dec/"/>
     <updated>2011-11-30T17:50:36+00:00</updated>
-    <id>http://www.southackton.org.uk/2011/11/30/next-southackton-meetup-wed-7th-dec</id>
+    <id>http://SoutHACKton.github.com/2011/11/30/next-southackton-meetup-wed-7th-dec</id>
     <content type="html"><![CDATA[<p>Our next meetup is 7:30pm until 10:00pm Wednesday, December 7, 2011.</p>
 
 <p>Let
@@ -74,9 +74,9 @@ more than happy to help you.</p>
   
   <entry>
     <title type="html"><![CDATA[Southackton Ubuntu workshop - Wed 2nd Nov, 7.30pm at Southampton Art House]]></title>
-    <link href="http://www.southackton.org.uk/2011/10/31/southackton-ubuntu-workshop-wed-2nd-nov-7-30pm-at-southampton-art-house/"/>
+    <link href="http://SoutHACKton.github.com/2011/10/31/southackton-ubuntu-workshop-wed-2nd-nov-7-30pm-at-southampton-art-house/"/>
     <updated>2011-10-31T18:14:00+00:00</updated>
-    <id>http://www.southackton.org.uk/2011/10/31/southackton-ubuntu-workshop-wed-2nd-nov-7-30pm-at-southampton-art-house</id>
+    <id>http://SoutHACKton.github.com/2011/10/31/southackton-ubuntu-workshop-wed-2nd-nov-7-30pm-at-southampton-art-house</id>
     <content type="html"><![CDATA[<p>The next SoutHACKton meetup will be a Ubuntu workshop at the Art House,
 Southampton at 7.30pm</p>
 
@@ -101,9 +101,9 @@ along.</p>
   
   <entry>
     <title type="html"><![CDATA[Next meetup, 7pm on Tues 20th Sept at ASpace, Tower House]]></title>
-    <link href="http://www.southackton.org.uk/2011/09/12/next-meetup-7pm-on-tues-20th-sept-at-aspace-tower-house/"/>
+    <link href="http://SoutHACKton.github.com/2011/09/12/next-meetup-7pm-on-tues-20th-sept-at-aspace-tower-house/"/>
     <updated>2011-09-12T16:52:02+01:00</updated>
-    <id>http://www.southackton.org.uk/2011/09/12/next-meetup-7pm-on-tues-20th-sept-at-aspace-tower-house</id>
+    <id>http://SoutHACKton.github.com/2011/09/12/next-meetup-7pm-on-tues-20th-sept-at-aspace-tower-house</id>
     <content type="html"><![CDATA[<p>The next southackton meetup is at ASpace at 7pm on Tuesday 20th of
 September at Tower House.</p>
 
@@ -120,9 +120,9 @@ Platform pub and the City Council Archaeology Museum.</p>
   
   <entry>
     <title type="html"><![CDATA[Next SoutHACKton Meeting]]></title>
-    <link href="http://www.southackton.org.uk/2011/07/28/next-southackton-meeting/"/>
+    <link href="http://SoutHACKton.github.com/2011/07/28/next-southackton-meeting/"/>
     <updated>2011-07-28T16:52:52+01:00</updated>
-    <id>http://www.southackton.org.uk/2011/07/28/next-southackton-meeting</id>
+    <id>http://SoutHACKton.github.com/2011/07/28/next-southackton-meeting</id>
     <content type="html"><![CDATA[<p>We'll be talking hacking and making as well as planning out the forming
 of a hackspace company over at the Art House Cafe on:</p>
 

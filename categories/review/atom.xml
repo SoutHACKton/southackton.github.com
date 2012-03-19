@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Review | SoutHACKton]]></title>
-  <link href="http://www.southackton.org.uk/categories/review/atom.xml" rel="self"/>
-  <link href="http://www.southackton.org.uk/"/>
-  <updated>2012-02-19T22:11:49+00:00</updated>
-  <id>http://www.southackton.org.uk/</id>
+  <link href="http://SoutHACKton.github.com/categories/review/atom.xml" rel="self"/>
+  <link href="http://SoutHACKton.github.com/"/>
+  <updated>2012-03-19T12:50:58+00:00</updated>
+  <id>http://SoutHACKton.github.com/</id>
   <author>
     <name><![CDATA[SoutHACKton]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[SoutHackton/Dorkbot Meetup]]></title>
-    <link href="http://www.southackton.org.uk/2011/03/09/southacktondorkbot-meetup/"/>
+    <link href="http://SoutHACKton.github.com/2011/03/09/southacktondorkbot-meetup/"/>
     <updated>2011-03-09T23:46:52+00:00</updated>
-    <id>http://www.southackton.org.uk/2011/03/09/southacktondorkbot-meetup</id>
+    <id>http://SoutHACKton.github.com/2011/03/09/southacktondorkbot-meetup</id>
     <content type="html"><![CDATA[<p>We had about 15 people show up at the Arthouse, with talk of Arduinos,
 3D printers, teardowns and mobiles. Tea was drunk, cakes were eaten and
 a good time was apparently had by all.</p>
@@ -51,9 +51,9 @@ blog for more info as we decide it, or join the
   
   <entry>
     <title type="html"><![CDATA[Review: "How To Make Cool Things From Microcontrollers"]]></title>
-    <link href="http://www.southackton.org.uk/2010/03/26/review-how-to-make-cool-things-from-microcontrollers/"/>
+    <link href="http://SoutHACKton.github.com/2010/03/26/review-how-to-make-cool-things-from-microcontrollers/"/>
     <updated>2010-03-26T11:22:01+00:00</updated>
-    <id>http://www.southackton.org.uk/2010/03/26/review-how-to-make-cool-things-from-microcontrollers</id>
+    <id>http://SoutHACKton.github.com/2010/03/26/review-how-to-make-cool-things-from-microcontrollers</id>
     <content type="html"><![CDATA[<p>Last week's workshop was great fun despite the dreary weather!
 <a href="http://en.wikipedia.org/wiki/Mitch_Altman" title="Mitch Altman on Wikipedia">Mitch Altman</a>,
 (inventor of TV-B-Gone, and co-founder of
@@ -101,9 +101,9 @@ go!</p>
   
   <entry>
     <title type="html"><![CDATA[Review of the Arduino meet]]></title>
-    <link href="http://www.southackton.org.uk/2009/09/01/review-of-the-arduino-meet/"/>
+    <link href="http://SoutHACKton.github.com/2009/09/01/review-of-the-arduino-meet/"/>
     <updated>2009-09-01T20:09:58+01:00</updated>
-    <id>http://www.southackton.org.uk/2009/09/01/review-of-the-arduino-meet</id>
+    <id>http://SoutHACKton.github.com/2009/09/01/review-of-the-arduino-meet</id>
     <content type="html"><![CDATA[<p><em>Our next meeting, Hack Day 1, is on 4th October.
 <a href="http://www.southackton.org.uk/2009/09/hack-day-1-meetup/" title="Hack Day 1">Click here</a>
 for details.</em></p>
