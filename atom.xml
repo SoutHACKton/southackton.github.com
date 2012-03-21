@@ -4,7 +4,7 @@
   <title><![CDATA[SoutHACKton]]></title>
   <link href="http://SoutHACKton.github.com/atom.xml" rel="self"/>
   <link href="http://SoutHACKton.github.com/"/>
-  <updated>2012-03-19T12:50:58+00:00</updated>
+  <updated>2012-03-21T22:54:43+00:00</updated>
   <id>http://SoutHACKton.github.com/</id>
   <author>
     <name><![CDATA[SoutHACKton]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Next Meetup - Tuesday 27th March, 7:30pm]]></title>
+    <link href="http://SoutHACKton.github.com/2012/03/21/next-meetup/"/>
+    <updated>2012-03-21T22:52:00+00:00</updated>
+    <id>http://SoutHACKton.github.com/2012/03/21/next-meetup</id>
+    <content type="html"><![CDATA[<p>The next SoutHACKton meetup is Tues 27th March, 7.30pm at the Art House
+Southampton - please use the
+<a href="http://www.facebook.com/events/101275470004789">facebook event</a> to let us know
+you are coming!</p>
+
+<p>We are a community of makers, tinkerers and artists. Our aim is to
+share skills and tools to allow anyone to create something amazing,
+regardless of experience. We want to start a Hackerspace in
+Southampton, where people can come to work on their various projects
+and can get the resources they need and can share knowledge and ideas.
+If you always wanted to make something but don&#8217;t know how then our
+members will be more than happy to help you.</p>
+
+<p>This event is a general meetup for existing members or anyone else who
+wants to get involved, along with general discussion about hacking,
+making and coding… and coffee. It’s free, but donations to the
+Arthouse are always appreciated.</p>
+
+<p>This facebook event page is public so feel free to invite anyone else along.</p>
+
+<p>This event is at <a href="http://www.thearthousesouthampton.co.uk/">the Art House</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[MIT running free electronic circuits course]]></title>
@@ -537,56 +566,6 @@ awesome as we can. Watch this space for new updates.</p>
 <a href="http://groups.google.com/group/southackton">Google Group</a> and join in the
 conversation. The more people who get involved, the better it will be
 for everyone.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Review: "How To Make Cool Things From Microcontrollers"]]></title>
-    <link href="http://SoutHACKton.github.com/2010/03/26/review-how-to-make-cool-things-from-microcontrollers/"/>
-    <updated>2010-03-26T11:22:01+00:00</updated>
-    <id>http://SoutHACKton.github.com/2010/03/26/review-how-to-make-cool-things-from-microcontrollers</id>
-    <content type="html"><![CDATA[<p>Last week&#8217;s workshop was great fun despite the dreary weather!
-<a href="http://en.wikipedia.org/wiki/Mitch_Altman" title="Mitch Altman on Wikipedia">Mitch Altman</a>,
-(inventor of TV-B-Gone, and co-founder of
-<a href="https://www.noisebridge.net/wiki/Noisebridge" title="Noisebridge  hackerspace">Noisebridge</a>)
-and <a href="http://jimmieprodgers.com/">Jimmie P Rodgers</a> (circuit bender and
-purveyor of <a href="http://jimmieprodgers.com/kits/apc/">Atari Punk Consoles</a>,
-<a href="http://jimmieprodgers.com/kits/openheart/">LED hearts</a> and
-<a href="http://jimmieprodgers.com/kits/lolshield/">LoL shields</a>) joined us at
-SteamShift HQ in Eastleigh to put on a workshop excitingly titled &#8220;How
-To Make Cool Things with Microcontrollers!&#8221;</p>
-
-<p><img src="http://theuncommon.co.uk/hackspace/wp-content/uploads/2010/03/photo-300x225.jpg" width="300" title="Mitch Altman teaching soldering" ></p>
-
-<p>Mitch gave a great introduction to microcontrollers, and entertained
-everyone with, among other tales, his experiences in the US, recounting
-how he left his job in Silicone Valley and got into hardware hacking,
-and amusingly how the Noisebridge hackerspace is insured somewhere under
-the category of &#8220;Artistic Robotics&#8221;.</p>
-
-<p>He and Jimmy had a great selection
-of projects on show and available as kits for hacking; the LoL Shields
-went down well, around 6 of us opted to build them for our arduinos.</p>
-
-<p><img src="http://img705.yfrog.com/img705/3484/2t9.jpg" title="Soldering at Southackton" ></p>
-
-<p>Another attendee constructed an
-<a href="http://en.wikipedia.org/wiki/Atari_Punk_Console">Atari Punk Console</a>, while someone
-else constructed their first arduino clone from a
-<a href="http://www.ladyada.net/make/boarduino/">Boarduino kit</a>.</p>
-
-<p>Our guests continued their
-tour of the UK the following day, going on to their
-<a href="http://buildbrighton.eventwax.com/elecrtonics-workshop-with-mitch-altman">next event</a>
-at the
-<a href="http://www.buildbrighton.com/">Brighton hackerspace BuildBrighton</a>.</p>
-
-<p>If you&#8217;re interested in
-hardware hacking or learning to solder, why not join the discussions on
-our <a href="http://groups.google.com/group/southackton/">google group</a>? If you
-want to stay up to date with the latest SoutHACKton news the
-<a href="http://groups.google.com/group/southackton/">google group</a> is also the place to
-go!</p>
 ]]></content>
   </entry>
   
