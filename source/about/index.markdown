@@ -1,5 +1,4 @@
 ---
-author: theuncommon
 date: '2011-07-21 12:19:06'
 layout: page
 slug: about
@@ -48,6 +47,3 @@ To join in the community please head over to the Google Group at:
 
 [http://groups.google.com/group/southackton](http://groups.google.com/group/southackton)
 
-Event Calendar:
-
-<iframe style="border-width: 0;" src="https://www.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=350&amp;wkst=1&amp;bgcolor=%23333333&amp;src=6tvik6n3gstpmh9tluk7ks14lo%40group.calendar.google.com&amp;color=%23182C57&amp;ctz=Europe%2FLondon" frameborder="0" scrolling="no" width="425" height="350"></iframe>
