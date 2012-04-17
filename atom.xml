@@ -4,7 +4,7 @@
   <title><![CDATA[SoutHACKton]]></title>
   <link href="http://SoutHACKton.github.com/atom.xml" rel="self"/>
   <link href="http://SoutHACKton.github.com/"/>
-  <updated>2012-04-17T20:11:29+01:00</updated>
+  <updated>2012-04-17T20:40:12+01:00</updated>
   <id>http://SoutHACKton.github.com/</id>
   <author>
     <name><![CDATA[SoutHACKton]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[April 24th meetup]]></title>
+    <link href="http://SoutHACKton.github.com/2012/04/17/april-24th-meetup/"/>
+    <updated>2012-04-17T20:37:00+01:00</updated>
+    <id>http://SoutHACKton.github.com/2012/04/17/april-24th-meetup</id>
+    <content type="html"><![CDATA[<p>The next SoutHACKton meetup is Tues 24th April, 7.30pm at the Art House
+Southampton - please use the
+<a href="http://www.facebook.com/events/291237737620491/">facebook event</a> to let us know
+you are coming!</p>
+
+<p>We are a community of makers, tinkerers and artists. Our aim is to
+share skills and tools to allow anyone to create something amazing,
+regardless of experience. We want to start a Hackerspace in
+Southampton, where people can come to work on their various projects
+and can get the resources they need and can share knowledge and ideas.
+If you always wanted to make something but don&#8217;t know how then our
+members will be more than happy to help you.</p>
+
+<p>This event is a general meetup for existing members or anyone else who
+wants to get involved, along with general discussion about hacking,
+making and coding… and coffee. It’s free, but donations to the
+Arthouse are always appreciated.</p>
+
+<p>This facebook event page is public so feel free to invite anyone else along.</p>
+
+<p>This event is at <a href="http://www.thearthousesouthampton.co.uk/">the Art House</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Next Meetup - Tuesday 27th March, 7:30pm]]></title>
@@ -549,23 +578,6 @@ before, Art House Southampton is located here :</p>
 Hope to see you all there.</p>
 
 <p>theUncommon / Adam</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hackspace in the Making]]></title>
-    <link href="http://SoutHACKton.github.com/2010/12/10/hackspace-in-the-making/"/>
-    <updated>2010-12-10T11:00:52+00:00</updated>
-    <id>http://SoutHACKton.github.com/2010/12/10/hackspace-in-the-making</id>
-    <content type="html"><![CDATA[<p>We currently have a project going to set up a hackspace in Southampton
-early next year. We&#8217;re talking with the council and various other
-helpful people, including the London Hackspace) to try and make it as
-awesome as we can. Watch this space for new updates.</p>
-
-<p>If you&#8217;re interested in joining in then please jump over to our
-<a href="http://groups.google.com/group/southackton">Google Group</a> and join in the
-conversation. The more people who get involved, the better it will be
-for everyone.</p>
 ]]></content>
   </entry>
   
