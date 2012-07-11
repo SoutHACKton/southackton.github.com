@@ -4,7 +4,7 @@
   <title><![CDATA[SoutHACKton]]></title>
   <link href="http://SoutHACKton.github.com/atom.xml" rel="self"/>
   <link href="http://SoutHACKton.github.com/"/>
-  <updated>2012-06-20T15:01:55+01:00</updated>
+  <updated>2012-07-11T18:08:31+01:00</updated>
   <id>http://SoutHACKton.github.com/</id>
   <author>
     <name><![CDATA[SoutHACKton]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[July 24th Meetup]]></title>
+    <link href="http://SoutHACKton.github.com/2012/07/11/july-24th-meetup/"/>
+    <updated>2012-07-11T18:03:00+01:00</updated>
+    <id>http://SoutHACKton.github.com/2012/07/11/july-24th-meetup</id>
+    <content type="html"><![CDATA[<p>The next SoutHACKton meetup is Tues 24th July, 7.30pm at the Art House
+Southampton - please use the
+<a href="https://www.facebook.com/events/140233812766896/">facebook event</a> to let us know
+you are coming!</p>
+
+<p>We are a community of makers, tinkerers and artists. Our aim is to
+share skills and tools to allow anyone to create something amazing,
+regardless of experience. We want to start a Hackerspace in
+Southampton, where people can come to work on their various projects
+and can get the resources they need and can share knowledge and ideas.
+If you always wanted to make something but don&#8217;t know how then our
+members will be more than happy to help you.</p>
+
+<p>This event is a general meetup for existing members or anyone else who
+wants to get involved, along with general discussion about hacking,
+making and coding and coffee. It&#8217;s free, but donations to the
+Arthouse are always appreciated.</p>
+
+<p>This facebook event page is public so feel free to invite anyone else along.</p>
+
+<p>This event is at <a href="http://www.thearthousesouthampton.co.uk/">the Art House</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[June 26th Meetup - Guest speaker Andy Stanford-Clark - Innovation for a Smarter Planet]]></title>
@@ -538,42 +567,6 @@ not to wander into the poetry group that&#8217;s on at the same time:</p>
 <p>Or review the google groups postings at:</p>
 
 <p><a href="http://groups.google.com/group/southackton?pli=1">http://groups.google.com/group/southackton</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[SoutHackton/Dorkbot Meetup]]></title>
-    <link href="http://SoutHACKton.github.com/2011/03/09/southacktondorkbot-meetup/"/>
-    <updated>2011-03-09T23:46:52+00:00</updated>
-    <id>http://SoutHACKton.github.com/2011/03/09/southacktondorkbot-meetup</id>
-    <content type="html"><![CDATA[<p>We had about 15 people show up at the Arthouse, with talk of Arduinos,
-3D printers, teardowns and mobiles. Tea was drunk, cakes were eaten and
-a good time was apparently had by all.</p>
-
-<p>Teardowns:</p>
-
-<p><a href="http://www.flickr.com/photos/57119013@N03/5513423324/sizes/m/in/photostream/"><img src="http://farm6.static.flickr.com/5178/5513423324_f09268a54c.jpg" alt="image" /></a></p>
-
-<p>More Teardowns:</p>
-
-<p><a href="http://www.flickr.com/photos/57119013@N03/5513418630/sizes/m/in/photostream/"><img src="http://farm6.static.flickr.com/5179/5513418630_7ba238dc0b.jpg" alt="image" /></a></p>
-
-<p>Arduino Temp Sensor:</p>
-
-<p><a href="http://www.flickr.com/photos/57119013@N03/5513421910/sizes/m/in/photostream/"><img src="http://farm6.static.flickr.com/5098/5513421910_d26386408a.jpg" alt="image" /></a></p>
-
-<p>3D Printer Examples:</p>
-
-<p><a href="http://www.flickr.com/photos/57119013@N03/5512824671/sizes/m/in/photostream/"><img src="http://farm6.static.flickr.com/5132/5512824671_b827fd3941.jpg" alt="image" /></a></p>
-
-<p>Hackers:</p>
-
-<p><a href="http://www.flickr.com/photos/57119013@N03/5512821035/sizes/m/in/photostream/"><img src="http://farm6.static.flickr.com/5092/5512821035_596a8bc824.jpg" alt="image" /></a></p>
-
-<p>Given a relative success of the first proper meeting of recent years I
-believe we&#8217;ll be pushing for another one next month, keep an eye on this
-blog for more info as we decide it, or join the
-<a href="http://groups.google.com/group/southackton">Google Group</a> to get involved.</p>
 ]]></content>
   </entry>
   
