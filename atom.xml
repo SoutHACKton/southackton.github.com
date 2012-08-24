@@ -4,7 +4,7 @@
   <title><![CDATA[SoutHACKton]]></title>
   <link href="http://SoutHACKton.github.com/atom.xml" rel="self"/>
   <link href="http://SoutHACKton.github.com/"/>
-  <updated>2012-07-11T18:08:31+01:00</updated>
+  <updated>2012-08-24T17:24:56+01:00</updated>
   <id>http://SoutHACKton.github.com/</id>
   <author>
     <name><![CDATA[SoutHACKton]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[August 30th Meetup]]></title>
+    <link href="http://SoutHACKton.github.com/2012/08/24/august-30th-meetup/"/>
+    <updated>2012-08-24T13:00:00+01:00</updated>
+    <id>http://SoutHACKton.github.com/2012/08/24/august-30th-meetup</id>
+    <content type="html"><![CDATA[<p>The next SoutHACKton meetup is Thurs 30th August, 7.30pm at the Art House
+Southampton - please use the
+<a href="https://www.facebook.com/events/276421892459097/">facebook event</a> to let us know
+you are coming!</p>
+
+<p>We are a community of makers, tinkerers and artists. Our aim is to
+share skills and tools to allow anyone to create something amazing,
+regardless of experience. We want to start a Hackerspace in
+Southampton, where people can come to work on their various projects
+and can get the resources they need and can share knowledge and ideas.
+If you always wanted to make something but don&#8217;t know how then our
+members will be more than happy to help you.</p>
+
+<p>This event is a general meetup for existing members or anyone else who
+wants to get involved, along with general discussion about hacking,
+making and coding and coffee. It&#8217;s free, but donations to the
+Arthouse are always appreciated.</p>
+
+<p>This facebook event page is public so feel free to invite anyone else along.</p>
+
+<p>This event is at <a href="http://www.thearthousesouthampton.co.uk/">the Art House</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[July 24th Meetup]]></title>
@@ -545,28 +574,6 @@ link removed due to BBC&#8217;s epic failure to curate our digital heritage&#823
 <p>178 Above Bar Street<br/>
 Southampton<br/>
 SO14 7DW</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meeting Tonight: Art House 7.30pm]]></title>
-    <link href="http://SoutHACKton.github.com/2011/05/11/meeting-tonight-art-house-7-30pm/"/>
-    <updated>2011-05-11T14:27:57+01:00</updated>
-    <id>http://SoutHACKton.github.com/2011/05/11/meeting-tonight-art-house-7-30pm</id>
-    <content type="html"><![CDATA[<p>Tonight 11th May 2011, 19:30 at the Art House, Southampton - just try
-not to wander into the poetry group that&#8217;s on at the same time:</p>
-
-<p><a href="http://www.thearthousesouthampton.co.uk/whatson.htm">http://www.thearthousesouthampton.co.uk/whatson.htm</a></p>
-
-<p>All welcome!</p>
-
-<p>More details on Facebook at:</p>
-
-<p><a href="https://www.facebook.com/event.php?eid=207419072624991">https://www.facebook.com/event.php?eid=207419072624991</a></p>
-
-<p>Or review the google groups postings at:</p>
-
-<p><a href="http://groups.google.com/group/southackton?pli=1">http://groups.google.com/group/southackton</a></p>
 ]]></content>
   </entry>
   
