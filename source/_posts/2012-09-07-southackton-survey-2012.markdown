@@ -19,9 +19,19 @@ that will help us tremendously!
 
 <p style="text-align:center"><a href="https://docs.google.com/a/southackton.org.uk/spreadsheet/viewform?formkey=dDNqNFNCNE9jZllBZmpaY2xwZ2NHQnc6MQ" title="2012 SoutHACKton Survey" class="punch">Fill out survey</a></p>
 
+The hackerspaces.org [List of Hacker Spaces][hackerspaces/listof]
+clearly shows that Southampton is perfectly positioned to host a
+hackerspace, don't you think?
+
+{% img /images/listOfHackerspaces.jpg Southampton is perfectly positioned to host a hackerspace %}
+
 Results will be aggregated and announced at a later date.
+
+<p style="text-align:center"><a href="https://docs.google.com/a/southackton.org.uk/spreadsheet/viewform?formkey=dDNqNFNCNE9jZllBZmpaY2xwZ2NHQnc6MQ" title="2012 SoutHACKton Survey" class="punch">Fill out survey</a></p>
 
 
 [Southampton University]: http://www.southampton.ac.uk/
 [hackerspace]: http://en.wikipedia.org/wiki/Hackerspace "a location where people with common interests, often in computers, technology, science, digital or electronic art (but also in many other realms) can meet, socialise and/or collaborate"
 [survey]: https://docs.google.com/a/southackton.org.uk/spreadsheet/viewform?formkey=dDNqNFNCNE9jZllBZmpaY2xwZ2NHQnc6MQ "2012 SoutHACKton Survey"
+[hackerspaces/listof]: http://hackerspaces.org/wiki/List_of_Hacker_Spaces
+[hsImg]: /images/listOfHackerspaces.jpg
