@@ -4,7 +4,7 @@
   <title><![CDATA[SoutHACKton]]></title>
   <link href="http://SoutHACKton.github.com/atom.xml" rel="self"/>
   <link href="http://SoutHACKton.github.com/"/>
-  <updated>2012-08-24T17:24:56+01:00</updated>
+  <updated>2012-09-07T21:44:53+01:00</updated>
   <id>http://SoutHACKton.github.com/</id>
   <author>
     <name><![CDATA[SoutHACKton]]></name>
@@ -14,9 +14,31 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Southampton Hackerspace Survey]]></title>
+    <link href="http://SoutHACKton.github.com/2012/09/07/southackton-survey-2012/"/>
+    <updated>2012-09-07T10:00:00+01:00</updated>
+    <id>http://SoutHACKton.github.com/2012/09/07/southackton-survey-2012</id>
+    <content type="html"><![CDATA[<p><span class='pullquote-right' data-pullquote='should only take you three minutes to fill out '>
+To help us gather data for an upcoming meeting with
+<a href="http://www.southampton.ac.uk/">Southampton University</a> to discuss their potential
+support for a Southampton-based <a href="http://en.wikipedia.org/wiki/Hackerspace" title="a location where people with common interests, often in computers, technology, science, digital or electronic art (but also in many other realms) can meet, socialise and/or collaborate">hackerspace</a>,
+we&#8217;ve created a short <a href="https://docs.google.com/a/southackton.org.uk/spreadsheet/viewform?formkey=dDNqNFNCNE9jZllBZmpaY2xwZ2NHQnc6MQ" title="2012 SoutHACKton Survey">survey</a>.  It&#8217;s short and to the point - it
+should only take you three minutes to fill out -
+but even if you only answer the first two questions (around 15 seconds)
+that will help us tremendously!
+</span></p>
+
+<p style="text-align:center"><a href="https://docs.google.com/a/southackton.org.uk/spreadsheet/viewform?formkey=dDNqNFNCNE9jZllBZmpaY2xwZ2NHQnc6MQ" title="2012 SoutHACKton Survey" class="punch">Fill out survey</a></p>
+
+
+<p>Results will be aggregated and announced at a later date.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[August 30th Meetup]]></title>
     <link href="http://SoutHACKton.github.com/2012/08/24/august-30th-meetup/"/>
-    <updated>2012-08-24T13:00:00+01:00</updated>
+    <updated>2012-08-24T14:00:00+01:00</updated>
     <id>http://SoutHACKton.github.com/2012/08/24/august-30th-meetup</id>
     <content type="html"><![CDATA[<p>The next SoutHACKton meetup is Thurs 30th August, 7.30pm at the Art House
 Southampton - please use the
@@ -45,7 +67,7 @@ Arthouse are always appreciated.</p>
   <entry>
     <title type="html"><![CDATA[July 24th Meetup]]></title>
     <link href="http://SoutHACKton.github.com/2012/07/11/july-24th-meetup/"/>
-    <updated>2012-07-11T18:03:00+01:00</updated>
+    <updated>2012-07-11T19:03:00+01:00</updated>
     <id>http://SoutHACKton.github.com/2012/07/11/july-24th-meetup</id>
     <content type="html"><![CDATA[<p>The next SoutHACKton meetup is Tues 24th July, 7.30pm at the Art House
 Southampton - please use the
@@ -72,9 +94,9 @@ Arthouse are always appreciated.</p>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[June 26th Meetup - Guest speaker Andy Stanford-Clark - Innovation for a Smarter Planet]]></title>
+    <title type="html"><![CDATA[June 26th Meetup - Guest Speaker Andy Stanford-Clark - Innovation for a Smarter Planet]]></title>
     <link href="http://SoutHACKton.github.com/2012/06/20/june-26th-meetup-guest-speaker-andy-stanford-clark-innovation-for-a-smarter-planet/"/>
-    <updated>2012-06-20T14:58:00+01:00</updated>
+    <updated>2012-06-20T15:58:00+01:00</updated>
     <id>http://SoutHACKton.github.com/2012/06/20/june-26th-meetup-guest-speaker-andy-stanford-clark-innovation-for-a-smarter-planet</id>
     <content type="html"><![CDATA[<p>The next SoutHACKton meetup is Tues 27th June, 7.30pm at the Art House
 Southampton - please use the
@@ -84,29 +106,8 @@ you are coming!</p>
 <p>We have the pleasure of having a guest speaker, Andy Stanford-Clark,
 coming to talk about &#8220;Innovation for a Smarter Planet&#8221;</p>
 
-<blockquote><p>&#8220;Andy Stanford-Clark will introduce technology which is helping to
-make the planet smarter: instrumenting objects in the real world with
-sensors, linking them together over a network, and then applying
-intelligent applications to reason about what&#8217;s happening, and how to
-react accordingly.  Andy will illustrate this &#8220;smarter planet&#8221; vision
-with features of his home automation system, including monitoring
-power consumption and water usage, remote control of electrical
-appliances from his mobile phone, and his electronic mouse traps! He
-will describe other applications of this technology, including vehicle
-telematics and the intriguing world of &#8220;tweetjects&#8221; - objects that
-Twitter.</p>
+<blockquote><p>&#8220;Andy Stanford-Clark will introduce technology which is helping to<br/>make the planet smarter: instrumenting objects in the real world with<br/>sensors, linking them together over a network, and then applying<br/>intelligent applications to reason about what&#8217;s happening, and how to<br/>react accordingly.  Andy will illustrate this &#8220;smarter planet&#8221; vision<br/>with features of his home automation system, including monitoring<br/>power consumption and water usage, remote control of electrical<br/>appliances from his mobile phone, and his electronic mouse traps! He<br/>will describe other applications of this technology, including vehicle<br/>telematics and the intriguing world of &#8220;tweetjects&#8221; - objects that<br/>Twitter.</p><p>Professor Andy Stanford-Clark is the Chief Technologist for IBM&#8217;s<br/>consulting business in Energy and Utilities for the UK and Ireland. He<br/>is an IBM Distinguished Engineer, and &#8220;Master Inventor&#8221; with more than<br/>40 patents. Andy is based at IBM&#8217;s Hursley Park laboratories in the<br/>UK, and specialises in remote telemetry, energy monitoring and<br/>management, Smart Metering and Smart Grid technologies. He has a<br/>particular interest in home energy monitoring, home automation,<br/>demand-side management, and driving consumer behaviour change.  Andy<br/>has a BSc in Computing and Mathematics, and a PhD in Computer Science.<br/>He is a visiting professor at the University of Newcastle and a Fellow<br/>of the British Computer Society. &#8221;</p></blockquote>
 
-<p>Professor Andy Stanford-Clark is the Chief Technologist for IBM&#8217;s
-consulting business in Energy and Utilities for the UK and Ireland. He
-is an IBM Distinguished Engineer, and &#8220;Master Inventor&#8221; with more than
-40 patents. Andy is based at IBM&#8217;s Hursley Park laboratories in the
-UK, and specialises in remote telemetry, energy monitoring and
-management, Smart Metering and Smart Grid technologies. He has a
-particular interest in home energy monitoring, home automation,
-demand-side management, and driving consumer behaviour change.  Andy
-has a BSc in Computing and Mathematics, and a PhD in Computer Science.
-He is a visiting professor at the University of Newcastle and a Fellow
-of the British Computer Society. &#8221;</p></blockquote>
 
 <p>As we are expecting a large turnout, please use the above Facebook event link
 to tell us you are coming.</p>
@@ -131,9 +132,9 @@ Arthouse are always appreciated.</p>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[April 24th meetup]]></title>
+    <title type="html"><![CDATA[April 24th Meetup]]></title>
     <link href="http://SoutHACKton.github.com/2012/04/17/april-24th-meetup/"/>
-    <updated>2012-04-17T20:37:00+01:00</updated>
+    <updated>2012-04-17T21:37:00+01:00</updated>
     <id>http://SoutHACKton.github.com/2012/04/17/april-24th-meetup</id>
     <content type="html"><![CDATA[<p>The next SoutHACKton meetup is Tues 24th April, 7.30pm at the Art House
 Southampton - please use the
@@ -549,31 +550,6 @@ the latest developments.</p>
 Big Vision!</p>
 
 <p><img src="http://theuncommon.co.uk/hackspace/wp-content/uploads/2011/06/Untitled-1-300x226.png" title="Untitled-1" alt="image" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Next Meeting: Wednesday 8th June 2011]]></title>
-    <link href="http://SoutHACKton.github.com/2011/06/01/next-meeting-wednesday-8th-june-2011/"/>
-    <updated>2011-06-01T21:30:36+01:00</updated>
-    <id>http://SoutHACKton.github.com/2011/06/01/next-meeting-wednesday-8th-june-2011</id>
-    <content type="html"><![CDATA[<p>The ever expanding Southackton group will be meeting once again at the
-Art House in Southampton.</p>
-
-<p>Bring yourself and any old bit&#8217;s of hardware or kit that you want to
-re-factor into something wonderful, or just reduce to a pile of bits,
-it&#8217;s up to you!</p>
-
-<p> Adam Groves was interviewed with <em>Zoe Kleinman</em>on BBC Radio Solent,
-link removed due to BBC&#8217;s epic failure to curate our digital heritage&#8230;</p>
-
-<p> From 7.30pm until we get bored&#8230;</p>
-
-<p> <strong>The Art House Southampton CIC</strong></p>
-
-<p>178 Above Bar Street<br/>
-Southampton<br/>
-SO14 7DW</p>
 ]]></content>
   </entry>
   
