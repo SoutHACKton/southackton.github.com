@@ -6,28 +6,24 @@ comments: true
 categories:
 ---
 
-
-<div class="entry-content"><p>The next SoutHACKton meetup is Tues 24th April, 7.30pm at the Art House
+The next SoutHACKton meetup is Tues 24th April, 7.30pm at the Art House
 Southampton - please use the
-<a href="http://www.facebook.com/events/291237737620491/">facebook event</a> to let us know
-you are coming!</p>
+[facebook event](http://www.facebook.com/events/291237737620491/) to let us know
+you are coming!
 
-<p>We are a community of makers, tinkerers and artists. Our aim is to
+We are a community of makers, tinkerers and artists. Our aim is to
 share skills and tools to allow anyone to create something amazing,
 regardless of experience. We want to start a Hackerspace in
 Southampton, where people can come to work on their various projects
 and can get the resources they need and can share knowledge and ideas.
-If you always wanted to make something but don&#8217;t know how then our
-members will be more than happy to help you.</p>
+If you always wanted to make something but don't know how then our
+members will be more than happy to help you.
 
-<p>This event is a general meetup for existing members or anyone else who
+This event is a general meetup for existing members or anyone else who
 wants to get involved, along with general discussion about hacking,
 making and coding… and coffee. It’s free, but donations to the
-Arthouse are always appreciated.</p>
+Arthouse are always appreciated.
 
-<p>This facebook event page is public so feel free to invite anyone else along.</p>
+This facebook event page is public so feel free to invite anyone else along.
 
-<p>This event is at <a href="http://www.thearthousesouthampton.co.uk/">the Art House</a>.</p>
-</div>
-
-
+This event is at [the Art House](http://www.thearthousesouthampton.co.uk/).
