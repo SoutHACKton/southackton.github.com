@@ -21,8 +21,7 @@ that will help us tremendously!
 
 The hackerspaces.org [List of Hacker Spaces][hackerspaces/listof]
 map shows that Southampton is perfectly positioned to host a location
-for makers, hackers and tinkerers from a wide area - from Bournemouth in Dorset to Chichester in West
-Sussex and throughout Hampshire - to meet and collaborate.
+for makers, hackers and tinkerers from a wide area to meet and collaborate.
 
 {% img /images/listOfHackerspaces.jpg Southampton is perfectly positioned to host a hackerspace %}
 
