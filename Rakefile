@@ -246,20 +246,38 @@ end
 
 desc "deploy public directory to github pages"
 multitask :push do
-  puts "## Deploying branch to Github Pages "
-  (Dir["#{deploy_dir}/*"]).each { |f| rm_rf(f) }
-  Rake::Task[:copydot].invoke(public_dir, deploy_dir)
-  puts "\n## copying #{public_dir} to #{deploy_dir}"
-  cp_r "#{public_dir}/.", deploy_dir
-  cd "#{deploy_dir}" do
-    system "git add ."
-    system "git add -u"
-    puts "\n## Commiting: Site updated at #{Time.now.utc}"
-    message = "Site updated at #{Time.now.utc}"
-    system "git commit -m \"#{message}\""
-    puts "\n## Pushing generated #{deploy_dir} website"
-    system "git push origin #{deploy_branch} --force"
+  status = `git status --porcelain`
+  strippedStatus = status.strip || status
+  if strippedStatus == ""
+    puts "## Ensuring we're up to date"
+    abort "## ERROR: Not up to date!" unless system "git pull"
+    puts "## Pushing current posts"
+    abort "## ERROR: `source` push failed" unless system "git push origin source"
+    puts "## Creating deploy directory"
+    rm_rf(deploy_dir)
+    abort "## ERROR: _deploy clone failed" unless system "git clone -b master . \"#{deploy_dir}\""
+    puts "## Deploying branch to Github Pages "
+    (Dir["#{deploy_dir}/*"]).each { |f| rm_rf(f) }
+    Rake::Task[:copydot].invoke(public_dir, deploy_dir)
+    puts "\n## copying #{public_dir} to #{deploy_dir}"
+    cp_r "#{public_dir}/.", deploy_dir
+    cp "README.markdown", deploy_dir
+    cd "#{deploy_dir}" do
+      system "git add ."
+      system "git add -u"
+      puts "\n## Commiting: Site updated at #{Time.now.utc}"
+      message = "Site updated at #{Time.now.utc}"
+      system "git commit -m \"#{message}\""
+      puts "\n## Pushing generated #{deploy_dir} website back to our checkout"
+      abort "## ERROR: local `master` push failed" unless system "git push origin #{deploy_branch} --force"
+    end
+    puts "\n## Pushing our master branch to GitHub Pages"
+    abort "## ERROR: remote `master` push failed" unless system "git push origin master"
     puts "\n## Github Pages deploy complete"
+  else
+    puts "## ERROR: You've not committed everything. (Alternatively, check your .gitignore)."
+    puts "## ABORTING"
+    puts status
   end
 end
 
