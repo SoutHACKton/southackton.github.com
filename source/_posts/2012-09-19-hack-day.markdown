@@ -1,0 +1,76 @@
+---
+comments: true
+author: Benjie
+date: '2012-09-19 14:23:05'
+layout: post
+slug: hack-day
+status: publish
+title: Hack Day - 14th October
+categories:
+- Meetup
+- Workshop
+tags:
+- Arduino
+- Hack Day
+- Projects
+---
+
+**Date**: Sunday 14th October 2012, 10:30am - 4:30pm  
+**Location**: [29th Southampton Scout Hut, Brickfield Road, Southampton][Brickfield]  
+**Entry**: recommended donation £4 (GiftAid appreciated), lower is fine
+
+{% img left /images/800px-RaspberryPi.jpeg Raspberry Pi (via Wikipedia) %}
+<!-- http://en.wikipedia.org/wiki/File:RaspberryPi.jpg -->
+
+This event is hosted by [29th Southampton Scout Group][29th], all
+donations will be passed on to the Scout Group to cover hall hire fees.
+
+### Facilities
+
+There is no **internet** connection at the Scout Hut, but 3G internet is
+available.
+**Soldering** is allowed, but will be restricted to a couple of tables to
+prevent the spread of damage. Tables, chairs and **electricity** will be
+available, but you should bring anything else you'll need (laptops,
+components, soldering irons). We encourage our members to **share
+resources** with other members, so if you don't have something (e.g. a
+soldering iron) then don't worry - I'm sure someone will let you use
+theirs.
+
+Tea, coffee and biscuits will be available, but you'll need to sort out
+your own lunch.
+
+### What is a Hack Day?
+
+<!-- more -->
+
+It's a day where people can bring along their current projects (if any)
+and can work on them in the presence of other like-minded individuals.
+Others can have a look around, gain inspiration or offer a helping hand,
+or just have fun!
+
+Are you just starting out with [Arduino][]/[Raspberry Pi][RaspPi]?
+Putting the finishing touches on your latest life-size robot? Planning
+to build a water jet-pack? Hacking electronics into clothing? Hacking
+together the components necessary to make a new GNU/Linux distro or
+media centre software? Join us!
+
+### What if I don't have a current project?
+
+Come along anyway - help with someone else's, or get ideas for what you
+could do! Skilled or unskilled, knowledgeable or not-so-knowledgeable,
+all are welcome!
+
+### Where do I sign up? What projects are going on there?
+
+All you need to do is turn up, but the more people that come the merrier
+- so let people know you are coming on our [mailing list][mailinglist],
+and if you're planning on bringing a project with you then let us know
+what it is!
+
+
+[29th]: http://29thsouthamptonscouts.org/
+[Brickfield]: https://maps.google.com/maps?q=50.931982,-1.386822&ll=50.932983,-1.390822&spn=0.015349,0.019248&num=1&t=h&z=16
+[Arduino]: http://www.arduino.cc/ "Arduino"
+[RaspPi]: http://www.raspberrypi.org/ "Raspberry Pi mini computer"
+[mailinglist]: http://groups.google.com/group/southackton "SoutHACKton Google Group"
