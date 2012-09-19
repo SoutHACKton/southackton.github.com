@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Meetup | SoutHACKton]]></title>
   <link href="http://SoutHACKton.github.com/categories/meetup/atom.xml" rel="self"/>
   <link href="http://SoutHACKton.github.com/"/>
-  <updated>2012-09-17T10:01:15+01:00</updated>
+  <updated>2012-09-19T14:57:25+01:00</updated>
   <id>http://SoutHACKton.github.com/</id>
   <author>
     <name><![CDATA[SoutHACKton]]></name>
@@ -12,6 +12,69 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hack Day - 14th October]]></title>
+    <link href="http://SoutHACKton.github.com/2012/09/19/hack-day/"/>
+    <updated>2012-09-19T14:23:05+01:00</updated>
+    <id>http://SoutHACKton.github.com/2012/09/19/hack-day</id>
+    <content type="html"><![CDATA[<p><strong>Date</strong>: Sunday 14th October 2012, 10:30am - 4:30pm<br/>
+<strong>Location</strong>: <a href="https://maps.google.com/maps?q=50.931982,-1.386822&amp;ll=50.932983,-1.390822&amp;spn=0.015349,0.019248&amp;num=1&amp;t=h&amp;z=16">29th Southampton Scout Hut, Brickfield Road, Southampton</a><br/>
+<strong>Entry</strong>: recommended donation £4 (GiftAid appreciated), lower is fine</p>
+
+<p><img class="left" src="/images/800px-RaspberryPi.jpeg" title="Raspberry Pi (via Wikipedia)" ></p>
+
+<!-- http://en.wikipedia.org/wiki/File:RaspberryPi.jpg -->
+
+
+<p>This event is hosted by <a href="http://29thsouthamptonscouts.org/">29th Southampton Scout Group</a>, all
+donations will be passed on to the Scout Group to cover hall hire fees.</p>
+
+<h3>Facilities</h3>
+
+<p>There is no <strong>internet</strong> connection at the Scout Hut, but 3G internet is
+available.
+<strong>Soldering</strong> is allowed, but will be restricted to a couple of tables to
+prevent the spread of damage. Tables, chairs and <strong>electricity</strong> will be
+available, but you should bring anything else you'll need (laptops,
+components, soldering irons). We encourage our members to <strong>share
+resources</strong> with other members, so if you don't have something (e.g. a
+soldering iron) then don't worry - I'm sure someone will let you use
+theirs.</p>
+
+<p>Tea, coffee and biscuits will be available, but you'll need to sort out
+your own lunch.</p>
+
+<h3>What is a Hack Day?</h3>
+
+<!-- more -->
+
+
+<p>It's a day where people can bring along their current projects (if any)
+and can work on them in the presence of other like-minded individuals.
+Others can have a look around, gain inspiration or offer a helping hand,
+or just have fun!</p>
+
+<p>Are you just starting out with <a href="http://www.arduino.cc/" title="Arduino">Arduino</a>/<a href="http://www.raspberrypi.org/" title="Raspberry Pi mini computer">Raspberry Pi</a>?
+Putting the finishing touches on your latest life-size robot? Planning
+to build a water jet-pack? Hacking electronics into clothing? Hacking
+together the components necessary to make a new GNU/Linux distro or
+media centre software? Join us!</p>
+
+<h3>What if I don't have a current project?</h3>
+
+<p>Come along anyway - help with someone else's, or get ideas for what you
+could do! Skilled or unskilled, knowledgeable or not-so-knowledgeable,
+all are welcome!</p>
+
+<h3>Where do I sign up? What projects are going on there?</h3>
+
+<p>All you need to do is turn up, but the more people that come the merrier
+- so let people know you are coming on our <a href="http://groups.google.com/group/southackton" title="SoutHACKton Google Group">mailing list</a>,
+and if you're planning on bringing a project with you then let us know
+what it is!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Next SoutHackton meetup, 7.30pm Tues 24th Jan]]></title>
@@ -115,25 +178,6 @@ Platform pub and the City Council Archaeology Museum.</p>
 
 <p>Google Map:
 <a href="http://maps.google.co.uk/maps?q=so14+2ny&amp;hl=en&amp;ll=50.897248,-1.402828&amp;spn=0.006361,0.017885&amp;sll=53.800651,-4.064941&amp;sspn=24.546102,73.256836&amp;vpsrc=6&amp;t=m&amp;z=17">http://maps.google.co.uk/maps?q=so14+2ny&amp;hl=en&amp;ll=50.897248,-1.402828&amp;spn=0.006361,0.017885&amp;sll=53.800651,-4.064941&amp;sspn=24.546102,73.256836&amp;vpsrc=6&amp;t=m&amp;z=17</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Next SoutHACKton Meeting]]></title>
-    <link href="http://SoutHACKton.github.com/2011/07/28/next-southackton-meeting/"/>
-    <updated>2011-07-28T16:52:52+01:00</updated>
-    <id>http://SoutHACKton.github.com/2011/07/28/next-southackton-meeting</id>
-    <content type="html"><![CDATA[<p>We'll be talking hacking and making as well as planning out the forming
-of a hackspace company over at the Art House Cafe on:</p>
-
-<h3>Wednesday the 3rd of August</h3>
-
-<p><a href="http://www.thearthousesouthampton.co.uk/">http://www.thearthousesouthampton.co.uk/</a></p>
-
-<p><a href="http://maps.google.co.uk/maps?q=art+house+cafel,+southampton&amp;hl=en&amp;ll=50.909217,-1.404469&amp;spn=0.012096,0.033023&amp;sll=51.550538,-1.813349&amp;sspn=3.13927,8.453979&amp;t=h&amp;z=16&amp;iwloc=A" title="Map">http://maps.google.co.uk/maps?q=art+house+cafe</a></p>
-
-<p>Come along, we'll be there from 7:30pm for as long as we can. Come
-along, drink coffee and talk to cool people.</p>
 ]]></content>
   </entry>
   

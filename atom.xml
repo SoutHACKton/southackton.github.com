@@ -4,7 +4,7 @@
   <title><![CDATA[SoutHACKton]]></title>
   <link href="http://SoutHACKton.github.com/atom.xml" rel="self"/>
   <link href="http://SoutHACKton.github.com/"/>
-  <updated>2012-09-17T10:01:15+01:00</updated>
+  <updated>2012-09-19T14:57:25+01:00</updated>
   <id>http://SoutHACKton.github.com/</id>
   <author>
     <name><![CDATA[SoutHACKton]]></name>
@@ -12,6 +12,69 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hack Day - 14th October]]></title>
+    <link href="http://SoutHACKton.github.com/2012/09/19/hack-day/"/>
+    <updated>2012-09-19T14:23:05+01:00</updated>
+    <id>http://SoutHACKton.github.com/2012/09/19/hack-day</id>
+    <content type="html"><![CDATA[<p><strong>Date</strong>: Sunday 14th October 2012, 10:30am - 4:30pm<br/>
+<strong>Location</strong>: <a href="https://maps.google.com/maps?q=50.931982,-1.386822&amp;ll=50.932983,-1.390822&amp;spn=0.015349,0.019248&amp;num=1&amp;t=h&amp;z=16">29th Southampton Scout Hut, Brickfield Road, Southampton</a><br/>
+<strong>Entry</strong>: recommended donation £4 (GiftAid appreciated), lower is fine</p>
+
+<p><img class="left" src="http://SoutHACKton.github.com/images/800px-RaspberryPi.jpeg" title="Raspberry Pi (via Wikipedia)" ></p>
+
+<!-- http://en.wikipedia.org/wiki/File:RaspberryPi.jpg -->
+
+
+<p>This event is hosted by <a href="http://29thsouthamptonscouts.org/">29th Southampton Scout Group</a>, all
+donations will be passed on to the Scout Group to cover hall hire fees.</p>
+
+<h3>Facilities</h3>
+
+<p>There is no <strong>internet</strong> connection at the Scout Hut, but 3G internet is
+available.
+<strong>Soldering</strong> is allowed, but will be restricted to a couple of tables to
+prevent the spread of damage. Tables, chairs and <strong>electricity</strong> will be
+available, but you should bring anything else you&#8217;ll need (laptops,
+components, soldering irons). We encourage our members to <strong>share
+resources</strong> with other members, so if you don&#8217;t have something (e.g. a
+soldering iron) then don&#8217;t worry - I&#8217;m sure someone will let you use
+theirs.</p>
+
+<p>Tea, coffee and biscuits will be available, but you&#8217;ll need to sort out
+your own lunch.</p>
+
+<h3>What is a Hack Day?</h3>
+
+<!-- more -->
+
+
+<p>It&#8217;s a day where people can bring along their current projects (if any)
+and can work on them in the presence of other like-minded individuals.
+Others can have a look around, gain inspiration or offer a helping hand,
+or just have fun!</p>
+
+<p>Are you just starting out with <a href="http://www.arduino.cc/" title="Arduino">Arduino</a>/<a href="http://www.raspberrypi.org/" title="Raspberry Pi mini computer">Raspberry Pi</a>?
+Putting the finishing touches on your latest life-size robot? Planning
+to build a water jet-pack? Hacking electronics into clothing? Hacking
+together the components necessary to make a new GNU/Linux distro or
+media centre software? Join us!</p>
+
+<h3>What if I don&#8217;t have a current project?</h3>
+
+<p>Come along anyway - help with someone else&#8217;s, or get ideas for what you
+could do! Skilled or unskilled, knowledgeable or not-so-knowledgeable,
+all are welcome!</p>
+
+<h3>Where do I sign up? What projects are going on there?</h3>
+
+<p>All you need to do is turn up, but the more people that come the merrier
+- so let people know you are coming on our <a href="http://groups.google.com/group/southackton" title="SoutHACKton Google Group">mailing list</a>,
+and if you&#8217;re planning on bringing a project with you then let us know
+what it is!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Southampton Hackerspace Survey]]></title>
@@ -524,53 +587,6 @@ yourself!</p>
 so why not head on over to
 <a href="http://www.facebook.com/pages/SoutHACKton/209242380373?sk=wall">http://www.facebook.com/pages/SoutHACKton/209242380373</a>
 now and like us!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Southackton @ The Art House, 8th June 2011]]></title>
-    <link href="http://SoutHACKton.github.com/2011/06/14/southackton-the-art-house-8th-june-2011/"/>
-    <updated>2011-06-14T10:53:10+01:00</updated>
-    <id>http://SoutHACKton.github.com/2011/06/14/southackton-the-art-house-8th-june-2011</id>
-    <content type="html"><![CDATA[<p>A good time was had by all, we looked at a unique Snowboarding location,
-altitude, axis and
-<a href="http://en.wikipedia.org/wiki/Thermocouple">temperature</a> tracker that
-had recently been tested in the field, although the hardware and
-software worked well the low temperatures were a challenge, the group
-discussed a range of options from
-<a href="http://en.wikipedia.org/wiki/Heat_pump">heat pumps</a>, wicks,
-<a href="http://www.wisegeek.com/what-is-the-peltier-effect.htm">peltier devices</a> to
-<a href="http://en.wikipedia.org/wiki/Phase_change_material">phase-change materials</a> as used
-in the
-<a href="http://www.kickstarter.com/projects/705847536/coffee-joulies-your-coffee-just-right">magic metal coffee beans</a>!</p>
-
-<p>David showed us his progress on an in-system programmer for AVR
-micro-controllers and did a great job of explaining
-<a href="http://www.atmel.com/dyn/products/tools_card.asp?tool_id=3808">what they are</a>, and
-why you might want one,
-<a href="http://www.asguard.org.uk/2010/12/10/thermocouple-conversion/#more-116">read more about his projects</a>.</p>
-
-<p> The group decided to try out building some
-<a href="http://www.adafruit.com/products/197">drawduino</a> to see if they would
-be a suitable item for us to help newcomers to build and take home and a
-date is being set for that.</p>
-
-<p> You can view pictures from the event on the
-<a href="http://www.flickr.com/groups/1245172@N22/">Southackton Flickr Page</a>.</p>
-
-<p> Our <a href="http://hackerspaces.org/wiki/Southackton">embryonic wiki</a> is
-online at the hackerspaces.org website.</p>
-
-<p> If you are interested in finding out more or would like to attend the
-next event, sign up to
-<a href="http://groups.google.com/group/southackton">our google group</a> to be kept abreast of
-the latest developments.</p>
-
-<p> Finally, take a look at our
-<a href="http://openpad.me/oIYpOW2UaG">group Notebook</a> where we can share ideas for the
-Big Vision!</p>
-
-<p><img src="http://theuncommon.co.uk/hackspace/wp-content/uploads/2011/06/Untitled-1-300x226.png" title="Untitled-1" alt="image" /></p>
 ]]></content>
   </entry>
   
