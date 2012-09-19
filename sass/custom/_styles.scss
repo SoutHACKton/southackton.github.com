@@ -49,3 +49,32 @@ a.punch {
     margin-bottom: 4px;
   }
 }
+
+aside section:first-child {
+  @include border-radius(15px);
+  background-color: rgba(255,255,255,0.8);
+  border: 3px solid black;
+  padding:2px 15px 10px;
+  margin:2px;
+  h1 {
+    margin-top: 10px;
+  }
+}
+
+section.upcoming {
+  p {
+    padding: 0px;
+    margin: 10px 0;
+  }
+  .type {
+    font-weight: bold;
+  }
+  .last-updated {
+    text-align: right;
+    color: rgba(0,0,0,0.5);
+    font-size:0.9em;
+    font-style: italic;
+    margin:0;
+    padding: 0;
+  }
+}
