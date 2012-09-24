@@ -46,13 +46,16 @@ body > header {
   h1 a, h1 a:hover, h1 a:active, h1 a:visited {
     /*text-shadow: black 1px 2px 5px;*/
     /*font-weight:bold;*/
-    color: rgba(0,0,0,0);
+    display: block;
+    text-indent: -1999px;
+    overflow: hidden;
   }
   h2 {
     /*text-shadow: black 0px 1px 6px;*/
     /*font-weight:bold;*/
     /*color:white;*/
-    color: rgba(0,0,0,0);
+    text-indent: -1999px;
+    overflow: hidden;
     background-image: url(/images/subTitle.png);
     background-repeat: no-repeat;
     background-size: 558px 34px;
