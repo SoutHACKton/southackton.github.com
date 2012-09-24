@@ -4,7 +4,7 @@
   <title><![CDATA[SoutHACKton]]></title>
   <link href="http://SoutHACKton.github.com/atom.xml" rel="self"/>
   <link href="http://SoutHACKton.github.com/"/>
-  <updated>2012-09-20T09:42:56+01:00</updated>
+  <updated>2012-09-24T10:02:07+01:00</updated>
   <id>http://SoutHACKton.github.com/</id>
   <author>
     <name><![CDATA[SoutHACKton]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[September 27th Meetup]]></title>
+    <link href="http://SoutHACKton.github.com/2012/09/24/september-27th-meetup/"/>
+    <updated>2012-09-24T11:00:00+01:00</updated>
+    <id>http://SoutHACKton.github.com/2012/09/24/september-27th-meetup</id>
+    <content type="html"><![CDATA[<p>The next SoutHACKton meetup is Thursday 27th September, 7.30pm at the Art House
+Southampton - please use the
+<a href="http://www.facebook.com/events/143953612416099/">facebook event</a> to let us know
+you are coming!</p>
+
+<p>We are a community of makers, tinkerers and artists. Our aim is to
+share skills and tools to allow anyone to create something amazing,
+regardless of experience. We want to start a Hackerspace in
+Southampton, where people can come to work on their various projects
+and can get the resources they need and can share knowledge and ideas.
+If you always wanted to make something but don&#8217;t know how then our
+members will be more than happy to help you.</p>
+
+<p>This event is a general meetup for existing members or anyone else who
+wants to get involved, along with general discussion about hacking,
+making and coding and coffee. It&#8217;s free, but donations to the
+Arthouse are always appreciated.</p>
+
+<p>This facebook event page is public so feel free to invite anyone else along.</p>
+
+<p>This event is at <a href="http://www.thearthousesouthampton.co.uk/">the Art House</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hack Day - 14th October]]></title>
@@ -575,18 +604,6 @@ yourself!</p>
 
 <p>If you cannot make this event we will be meeting again on the
 20th of July, all are welcome!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Like us on Facebook]]></title>
-    <link href="http://SoutHACKton.github.com/2011/06/24/like-us-on-facebook/"/>
-    <updated>2011-06-24T17:20:38+01:00</updated>
-    <id>http://SoutHACKton.github.com/2011/06/24/like-us-on-facebook</id>
-    <content type="html"><![CDATA[<p>Our Facebook page needs another 16 &#8220;likes&#8221; to get a proper vanity URL,
-so why not head on over to
-<a href="http://www.facebook.com/pages/SoutHACKton/209242380373?sk=wall">http://www.facebook.com/pages/SoutHACKton/209242380373</a>
-now and like us!</p>
 ]]></content>
   </entry>
   
