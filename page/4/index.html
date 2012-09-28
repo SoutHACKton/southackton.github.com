@@ -9,9 +9,9 @@
   <meta name="author" content="SoutHACKton">
 
   
-  <meta name="description" content="Sunday 4th October 2009, 10:30am-6:30pm, Steamshift HQ As
-the Arduino meeting
-was such a success, we&#8217;ve already booked our next meetup - a &hellip;">
+  <meta name="description" content="This is the beginning of a post from
+about:benjie. If you&#8217;ve written
+a blog post you think would be useful to SoutHACKton members, please get &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -80,6 +80,80 @@ was such a success, we&#8217;ve already booked our next meetup - a &hellip;">
     <div id="content">
       <div class="blog-index">
   
+  
+  
+    <article>
+      
+  <header>
+    
+      <h1 class="entry-title"><a href="/2009/09/08/howto-arduino-pin-speed-multiplexing/">Howto: Arduino Pin Speed (Multiplexing)</a></h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2009-09-08T22:33:14+01:00" pubdate data-updated="true">Sep 8<span>th</span>, 2009</time>
+        
+      </p>
+    
+  </header>
+
+
+  <div class="entry-content"><p><a href="http://www.earthshinedesign.co.uk/index.php?route=product/product&amp;path=38_43&amp;product_id=82"><img src="http://www.earthshinedesign.co.uk/image/cache/1425313_75-250x250.jpg" title="8x8 dual colour dot matrix display" alt="image" /></a></p>
+
+<p><em>This is the beginning of a post from
+<a href="http://www.benjiegillam.com/" title="Benjie">about:benjie</a>. If you&#8217;ve written
+a blog post you think would be useful to SoutHACKton members, please get
+in touch!</em></p>
+
+<p>I’m working on a new project, I’ve got a
+<a href="http://www.earthshinedesign.co.uk/index.php?route=product/product&amp;path=38_43&amp;product_id=82" title="8x8 dual colour dot matrix display">8×8 dual colour dot matrix display</a>
+(£2.50 delivered from Earthshine Design) and I want to power it from the
+<a href="http://www.arduino.cc" title="Arduino">Arduino</a>. One way of making a chip
+like that (which has 2×8x8 = 128
+<a href="http://en.wikipedia.org/wiki/Light-emitting_diode" title="Light-emitting diode">LEDs</a>)
+would be to have a common ground and an additional 128 pins – one for
+each LED. This, I think you’d agree, would be a nightmare, so instead
+they’ve basically gone for an 8×16 grid for a total of 24 pins. This
+raises two main problems:</p>
+
+<ol>
+<li>You can’t turn 2 arbitrary LEDs on at the same time unless they are
+on the same row/column. (Doing so would actually draw a square of
+LEDs.)</li>
+<li>My Arduino doesn’t have enough digital input/output pins</li>
+</ol>
+
+
+<p>Point 1 is easily solved – we simply update just one row at a time,
+letting
+<a href="http://en.wikipedia.org/wiki/Persistence_of_vision">Persistance Of Vision</a> (POV) do the
+hard work for us. Point 2 is the subject of this post –
+<a href="http://en.wikipedia.org/wiki/Multiplexing" title="Multiplexing">multiplexing</a>,
+combining multiple individual signals into just one signal. I will not
+be using this dot matrix display in this post, instead I will simply be
+powering normal LEDs. I wanted to find out if the Arduino is fast enough
+to multiplex the data through just a few pins in order to power this
+display. The answer (one of my favourite answers!) is: “Yes, but not
+without some hacking.” Read on…</p>
+
+<p><a href="http://www.benjiegillam.com/2009/09/arduino-pin-speed-multiplexing/#more-224">Read the rest of this entry on about:benjie »</a></p>
+</div>
+  
+  
+
+
+    </article>
   
   
     <article>
@@ -696,7 +770,6 @@ get in contact!</p>
   
     <section class='upcoming'>
   <h1>Upcoming Events</h1>
-  <p class="event"><span class='type'>Meetup</span>: Thurs 27th Sep</p>
   <p class="event"><span class='type'>Hack Day</span>: Sun 14th Oct, 10:30am-4:30pm <a href="/2012/09/19/hack-day/" class="details">(details)</a>
   <p class="event"><span class='type'>Meetup</span>: Thurs 25th Oct</p>
   <p class="event"><span class='type'>Meetup</span>: Thurs 29th Nov</p>
@@ -704,7 +777,7 @@ get in contact!</p>
   <p>Meetups are 7:30pm - 9:30pm @ <a href="http://www.thearthousesouthampton.co.uk/">The Art House Cafe</a> (free entry)</p>
   <p class='last-updated'>
     View <a href="http://groups.google.com/group/southackton">our mailing list</a> for more<br />
-    Updated: 19th September 2012
+    Updated: 28th September 2012
   </p>
 </section>
 <section>
@@ -740,6 +813,10 @@ get in contact!</p>
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/2012/09/28/september-meetup-summary/">September Meetup Summary</a>
+      </li>
+    
+      <li class="post">
         <a href="/2012/09/24/september-27th-meetup/">September 27th Meetup</a>
       </li>
     
@@ -753,10 +830,6 @@ get in contact!</p>
     
       <li class="post">
         <a href="/2012/08/24/august-30th-meetup/">August 30th Meetup</a>
-      </li>
-    
-      <li class="post">
-        <a href="/2012/07/11/july-24th-meetup/">July 24th Meetup</a>
       </li>
     
   </ul>
