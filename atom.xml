@@ -4,7 +4,7 @@
   <title><![CDATA[SoutHACKton]]></title>
   <link href="http://SoutHACKton.github.com/atom.xml" rel="self"/>
   <link href="http://SoutHACKton.github.com/"/>
-  <updated>2012-10-15T09:23:39+01:00</updated>
+  <updated>2012-10-23T09:11:37+01:00</updated>
   <id>http://SoutHACKton.github.com/</id>
   <author>
     <name><![CDATA[SoutHACKton]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[October 25th Meetup]]></title>
+    <link href="http://SoutHACKton.github.com/2012/10/23/october-25th-meetup/"/>
+    <updated>2012-10-23T10:00:00+01:00</updated>
+    <id>http://SoutHACKton.github.com/2012/10/23/october-25th-meetup</id>
+    <content type="html"><![CDATA[<p>The next SoutHACKton meetup is Thursday 25th October, 7.30pm at the Art House
+Southampton - please use the
+<a href="http://www.facebook.com/events/169076593230714/">facebook event</a> to let us know
+you are coming!</p>
+
+<p>We are a community of makers, tinkerers and artists. Our aim is to
+share skills and tools to allow anyone to create something amazing,
+regardless of experience. We want to start a Hackerspace in
+Southampton, where people can come to work on their various projects
+and can get the resources they need and can share knowledge and ideas.
+If you always wanted to make something but don&#8217;t know how then our
+members will be more than happy to help you.</p>
+
+<p>This event is a general meetup for existing members or anyone else who
+wants to get involved, along with general discussion about hacking,
+making and coding and coffee. It&#8217;s free, but donations to the
+Arthouse are always appreciated.</p>
+
+<p>This facebook event page is public so feel free to invite anyone else along.</p>
+
+<p>This event is at <a href="http://www.thearthousesouthampton.co.uk/">the Art House</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[September Meetup Summary]]></title>
@@ -643,30 +672,6 @@ of a hackspace company over at the Art House Cafe on:</p>
 
 <p>Come along, we&#8217;ll be there from 7:30pm for as long as we can. Come
 along, drink coffee and talk to cool people.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Meeting tonight, July 20th @ The Art House]]></title>
-    <link href="http://SoutHACKton.github.com/2011/07/20/meeting-tonight-july-20th-the-art-house/"/>
-    <updated>2011-07-20T15:50:15+01:00</updated>
-    <id>http://SoutHACKton.github.com/2011/07/20/meeting-tonight-july-20th-the-art-house</id>
-    <content type="html"><![CDATA[<h3><strong>From 7.30pm until we get bored…</strong></h3>
-
-<p>Under discussion;</p>
-
-<ul>
-<li>Company formation choices</li>
-<li>Group leadership</li>
-<li>Development of a web presence</li>
-<li>Drawdio Workshop Plans</li>
-</ul>
-
-
-<p><em>The Art House Southampton CIC 178<br/>
-Above Bar Street<br/>
-Southampton<br/>
-SO14 7DW</em></p>
 ]]></content>
   </entry>
   
