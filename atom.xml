@@ -4,7 +4,7 @@
   <title><![CDATA[SoutHACKton]]></title>
   <link href="http://SoutHACKton.github.com/atom.xml" rel="self"/>
   <link href="http://SoutHACKton.github.com/"/>
-  <updated>2012-11-27T16:57:47+00:00</updated>
+  <updated>2012-12-05T09:54:36+00:00</updated>
   <id>http://SoutHACKton.github.com/</id>
   <author>
     <name><![CDATA[SoutHACKton]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[December 13th Meetup]]></title>
+    <link href="http://SoutHACKton.github.com/2012/12/05/december-13th-meetup/"/>
+    <updated>2012-12-05T01:18:00+00:00</updated>
+    <id>http://SoutHACKton.github.com/2012/12/05/december-13th-meetup</id>
+    <content type="html"><![CDATA[<p>The next SoutHACKton meetup is Thursday 13th December, 7.30pm @ DHaus:
+Suite R Medina Chambers, Town Quay, Southampton, SO14 2AQ.
+Please use the <a href="https://www.facebook.com/events/502258979814792/">facebook
+event</a> to let us know
+you are coming!</p>
+
+<p>We are a community of makers, tinkerers and artists. Our aim is to
+share skills and tools to allow anyone to create something amazing,
+regardless of experience. We want to start a Hackerspace in
+Southampton, where people can come to work on their various projects
+and can get the resources they need and can share knowledge and ideas.
+If you always wanted to make something but don&#8217;t know how then our
+members will be more than happy to help you.</p>
+
+<p>This event is a general meetup for existing members or anyone else who
+wants to get involved. It&#8217;s a little early this month to fit in before
+Christmas. This facebook event page is public so feel free to invite
+anyone else along.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Change Of Venue/November 29th Meetup]]></title>
@@ -648,39 +674,6 @@ le facebooks then we have an event up:
 Also feel free to join the
 <a href="https://www.facebook.com/group.php?gid=138577094416">Group</a> and like
 the <a href="https://www.facebook.com/SoutHACKton">Page</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Next Meeting and Arduino Evening]]></title>
-    <link href="http://SoutHACKton.github.com/2011/08/05/next-meeting-and-arduino-evening/"/>
-    <updated>2011-08-05T10:20:08+01:00</updated>
-    <id>http://SoutHACKton.github.com/2011/08/05/next-meeting-and-arduino-evening</id>
-    <content type="html"><![CDATA[<p>We&#8217;ll be heading over to the Arthouse on the<strong>17th of August</strong> at
-7:30pm:</p>
-
-<iframe src="http://maps.google.co.uk/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=the+arthouse+cafe,+southampton&amp;aq=&amp;sll=50.907644,-1.404238&amp;sspn=0.003126,0.008256&amp;ie=UTF8&amp;hq=the+arthouse+cafe,&amp;hnear=Southampton,+United+Kingdom&amp;ll=50.909046,-1.404459&amp;spn=0.011798,0.033023&amp;t=h&amp;z=14&amp;iwloc=A&amp;cid=3323037071216817675&amp;output=embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="425" height="350"></iframe>
-
-
-<p><a href="http://maps.google.co.uk/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=the+arthouse+cafe,+southampton&amp;aq=&amp;sll=50.907644,-1.404238&amp;sspn=0.003126,0.008256&amp;ie=UTF8&amp;hq=the+arthouse+cafe,&amp;hnear=Southampton,+United+Kingdom&amp;ll=50.909046,-1.404459&amp;spn=0.011798,0.033023&amp;t=h&amp;z=14&amp;iwloc=A&amp;cid=3323037071216817675">View Larger Map</a></p>
-
-<p>There&#8217;ll be more discussion on forming a company, setting up our space,
-funding options etc. Along with general discussion about hacking, making
-and coding&#8230; and coffee. It&#8217;s <strong>free,</strong> but donations to the Arthouse
-are always appreciated.</p>
-
-<p><a href="http://theuncommon.co.uk/hackspace/wp-content/uploads/2011/08/arduino.jpg"><img src="http://theuncommon.co.uk/hackspace/wp-content/uploads/2011/08/arduino.jpg" title="arduino" alt="image" /></a></p>
-
-<p>Our members will also be bringing along their various Arduino projects
-to show off and explain ( info on Arduinos can be found here:
-<a href="http://en.wikipedia.org/wiki/Arduino">http://en.wikipedia.org/wiki/Arduino</a>
-) and there&#8217;ll be opportunities to get your hands dirty actually trying
-out the boards. So if you&#8217;re interested, even if you&#8217;ve never touched
-electronics or coding before, then come along.</p>
-
-<p>There&#8217;s a Facebook event
-at:
-<a href="http://www.facebook.com/event.php?eid=196232490438100">http://www.facebook.com/event.php?eid=196232490438100</a></p>
 ]]></content>
   </entry>
   
