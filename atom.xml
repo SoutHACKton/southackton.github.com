@@ -4,7 +4,7 @@
   <title><![CDATA[SoutHACKton]]></title>
   <link href="http://SoutHACKton.github.com/atom.xml" rel="self"/>
   <link href="http://SoutHACKton.github.com/"/>
-  <updated>2012-12-05T09:59:45+00:00</updated>
+  <updated>2013-01-04T06:50:13+00:00</updated>
   <id>http://SoutHACKton.github.com/</id>
   <author>
     <name><![CDATA[SoutHACKton]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[January 31st Meetup]]></title>
+    <link href="http://SoutHACKton.github.com/2013/01/03/january-31st-meetup/"/>
+    <updated>2013-01-03T13:18:22+00:00</updated>
+    <id>http://SoutHACKton.github.com/2013/01/03/january-31st-meetup</id>
+    <content type="html"><![CDATA[<p>All are welcome, no membership is required but please use the
+<a href="https://www.facebook.com/events/419170128162727/">Facebook Event</a> if you can. We
+are a community of makers, tinkerers and artists. Come along and chat,
+bring a project to work on, share something cool or turn up and find
+something new and unexpected&#8230;</p>
+
+<p><a href="http://www.etchuk.com/">Etch</a> are kindly hosting this meetup on the
+31st January 2013 at 7:30pm, the address is:<br/>
+Etch, Suite R Medina Chambers<br/>
+Town Quay<br/>
+Southampton<br/>
+SO14 2AQ</p>
+
+<p>Free parking can be found nearby in the car park at the end of
+Gloucester Square.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[December 13th Meetup]]></title>
@@ -646,34 +669,6 @@ us?</p>
 Group at:</p>
 
 <p><a href="http://groups.google.com/group/southackton">http://groups.google.com/group/southackton</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Next Meeting: September 7th]]></title>
-    <link href="http://SoutHACKton.github.com/2011/09/01/next-meeting-september-7th/"/>
-    <updated>2011-09-01T10:31:02+01:00</updated>
-    <id>http://SoutHACKton.github.com/2011/09/01/next-meeting-september-7th</id>
-    <content type="html"><![CDATA[<p>We&#8217;ll be gathering at
-<a href="http://www.thearthousesouthampton.co.uk/">The Arthouse Cafe</a> next Wednesday
-<strong>September 17th 2011</strong> to talk tech and drink coffee from 7:30pm till
-about 10:30pm.</p>
-
-<iframe src="http://maps.google.co.uk/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=the+arthouse+cafe,+southampton&amp;aq=&amp;sll=50.907644,-1.404238&amp;sspn=0.003126,0.008256&amp;ie=UTF8&amp;hq=the+arthouse+cafe,&amp;hnear=Southampton,+United+Kingdom&amp;ll=50.909046,-1.404459&amp;spn=0.011798,0.033023&amp;t=h&amp;z=14&amp;iwloc=A&amp;cid=3323037071216817675&amp;output=embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="425" height="350"></iframe>
-
-
-<p><a href="http://maps.google.co.uk/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=the+arthouse+cafe,+southampton&amp;aq=&amp;sll=50.907644,-1.404238&amp;sspn=0.003126,0.008256&amp;ie=UTF8&amp;hq=the+arthouse+cafe,&amp;hnear=Southampton,+United+Kingdom&amp;ll=50.909046,-1.404459&amp;spn=0.011798,0.033023&amp;t=h&amp;z=14&amp;iwloc=A&amp;cid=3323037071216817675">View Larger Map</a></p>
-
-<p>Since we&#8217;re looking at the Solent Business Centre as a possibly
-hackspace location there&#8217;s likely to be discussion on the business and
-funding side of things as well. Any input would be great.</p>
-
-<p>If you&#8217;re on
-le facebooks then we have an event up:
-<a href="https://www.facebook.com/event.php?eid=228403963873454">https://www.facebook.com/event.php?eid=228403963873454</a><br/>
-Also feel free to join the
-<a href="https://www.facebook.com/group.php?gid=138577094416">Group</a> and like
-the <a href="https://www.facebook.com/SoutHACKton">Page</a>.</p>
 ]]></content>
   </entry>
   
