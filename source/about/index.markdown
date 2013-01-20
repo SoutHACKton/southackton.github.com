@@ -11,7 +11,7 @@ wordpress_id: '2'
 Welcome to SoutHACKton, the Southampton Hackerspace project. 
 
 We are a community of makers, tinkerers and artists. Our aim is to share
-skills and tools to allow anyone to create something amazing, regardless
+skills, knowledge and tools to allow anyone to create something amazing, regardless
 of experience. We want to start a [Hackerspace][] in Southampton, where
 people can come to work on their various projects and can get the
 resources they need and can share knowledge and ideas. *If you always
