@@ -4,7 +4,7 @@
   <title><![CDATA[SoutHACKton]]></title>
   <link href="http://SoutHACKton.github.com/atom.xml" rel="self"/>
   <link href="http://SoutHACKton.github.com/"/>
-  <updated>2013-01-14T13:00:09+00:00</updated>
+  <updated>2013-02-10T21:54:52+00:00</updated>
   <id>http://SoutHACKton.github.com/</id>
   <author>
     <name><![CDATA[SoutHACKton]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[February 28th Meetup]]></title>
+    <link href="http://SoutHACKton.github.com/2013/02/10/february-28th-meetup/"/>
+    <updated>2013-02-10T21:52:22+00:00</updated>
+    <id>http://SoutHACKton.github.com/2013/02/10/february-28th-meetup</id>
+    <content type="html"><![CDATA[<p>All are welcome, no membership is required but please use the
+<a href="http://www.facebook.com/events/530655543632899/">Facebook Event</a> if you can. We
+are a community of makers, tinkerers and artists. Come along and chat,
+bring a project to work on, share something cool or turn up and find
+something new and unexpected&#8230;</p>
+
+<p><a href="http://www.etchuk.com/">Etch</a> are kindly hosting this meetup on the
+28th February 2013 at 7:30pm, the address is:<br/>
+Etch, Suite R Medina Chambers<br/>
+Town Quay<br/>
+Southampton<br/>
+SO14 2AQ</p>
+
+<p>Free parking can be found nearby in the car park at the end of
+Gloucester Square.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[January 31st Meetup]]></title>
@@ -633,42 +656,6 @@ Platform pub and the City Council Archaeology Museum.</p>
 
 <p>Google Map:
 <a href="http://maps.google.co.uk/maps?q=so14+2ny&amp;hl=en&amp;ll=50.897248,-1.402828&amp;spn=0.006361,0.017885&amp;sll=53.800651,-4.064941&amp;sspn=24.546102,73.256836&amp;vpsrc=6&amp;t=m&amp;z=17">http://maps.google.co.uk/maps?q=so14+2ny&amp;hl=en&amp;ll=50.897248,-1.402828&amp;spn=0.006361,0.017885&amp;sll=53.800651,-4.064941&amp;sspn=24.546102,73.256836&amp;vpsrc=6&amp;t=m&amp;z=17</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Welcome to Southackton]]></title>
-    <link href="http://SoutHACKton.github.com/2011/09/09/welcome-to-southackton/"/>
-    <updated>2011-09-09T14:13:07+01:00</updated>
-    <id>http://SoutHACKton.github.com/2011/09/09/welcome-to-southackton</id>
-    <content type="html"><![CDATA[<p>Welcome to SoutHACKton, the Southampton Hackerspace project.</p>
-
-<p>We are a
-community of makers, tinkerers and artists. Our aim is to share skills
-and tools to allow anyone to create something amazing, regardless of
-experience. We want to start a Hackerspace in Southampton, where people
-can come to work on their various projects and can get the resources
-they need and can share knowledge and ideas. If you always wanted to
-make something but don&#8217;t know how then our members will be more than
-happy to help you.</p>
-
-<p>We have regular meetings of people who enjoy creating
-or modifying software and/or hardware and want to meet other like-minded
-people. Experience is unnecessary - interest is all we require! Topics
-that we’re already interested in include: home automation/augmentation,
-robotics, circuit bends, programming, computer interfaces, wiimote
-hacking, Arduino, gadgets, mobile computing, PVR creation/improvement,
-programming, augmented reality, … so if you’re interested in any of
-these topics, or have another interest you want to share, why not join
-us?</p>
-
-<p>For more details, including a map to our usual meetup place, see
-<a href="http://SoutHACKton.github.com/about">about</a></p>
-
-<p>To join in the community please head over to the Google
-Group at:</p>
-
-<p><a href="http://groups.google.com/group/southackton">http://groups.google.com/group/southackton</a></p>
 ]]></content>
   </entry>
   
