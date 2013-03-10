@@ -4,7 +4,7 @@
   <title><![CDATA[SoutHACKton]]></title>
   <link href="http://SoutHACKton.github.com/atom.xml" rel="self"/>
   <link href="http://SoutHACKton.github.com/"/>
-  <updated>2013-03-08T19:22:18+00:00</updated>
+  <updated>2013-03-10T23:06:30+00:00</updated>
   <id>http://SoutHACKton.github.com/</id>
   <author>
     <name><![CDATA[SoutHACKton]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Moving in this Friday (15th March)]]></title>
+    <link href="http://SoutHACKton.github.com/2013/03/10/moving-in/"/>
+    <updated>2013-03-10T22:56:00+00:00</updated>
+    <id>http://SoutHACKton.github.com/2013/03/10/moving-in</id>
+    <content type="html"><![CDATA[<p>On Friday (15th) from 7:30pm we shall be moving what equipment we have
+from the <a href="http://wiki.somakeit.org.uk/wiki/Equipment_Donations">donations
+list</a> &amp; other
+sources into the space. If you are donating a thing and you need help
+moving it, you can mail a
+<a href="http://www.somakeit.org.uk/trustees/">trustee</a>. Feel free to bring
+projects along too, we&#8217;ve seen that we can make lightning progress
+(thanks to all who helped on Saturday) and I&#8217;m sure there&#8217;ll be time for
+hacking.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[February 28th Meetup]]></title>
@@ -637,25 +654,6 @@ along.</p>
 <p>Let us know if you are coming on facebook
 <a href="http://www.facebook.com/event.php?eid=139793102784775">http://www.facebook.com/event.php?eid=139793102784775</a> and bring a
 friend.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Next meetup, 7pm on Tues 20th Sept at ASpace, Tower House]]></title>
-    <link href="http://SoutHACKton.github.com/2011/09/12/next-meetup-7pm-on-tues-20th-sept-at-aspace-tower-house/"/>
-    <updated>2011-09-12T16:52:02+01:00</updated>
-    <id>http://SoutHACKton.github.com/2011/09/12/next-meetup-7pm-on-tues-20th-sept-at-aspace-tower-house</id>
-    <content type="html"><![CDATA[<p>The next southackton meetup is at ASpace at 7pm on Tuesday 20th of
-September at Tower House.</p>
-
-<p>When you arrive, ring the doorbell and I&#8217;ll let you in .. probably best
-to use the entrance on Winkle Street. The office is v near to the
-Platform pub and the City Council Archaeology Museum.</p>
-
-<p>Address: Tower House, Town Quay Road, Southampton, Hampshire SO14 2NY</p>
-
-<p>Google Map:
-<a href="http://maps.google.co.uk/maps?q=so14+2ny&amp;hl=en&amp;ll=50.897248,-1.402828&amp;spn=0.006361,0.017885&amp;sll=53.800651,-4.064941&amp;sspn=24.546102,73.256836&amp;vpsrc=6&amp;t=m&amp;z=17">http://maps.google.co.uk/maps?q=so14+2ny&amp;hl=en&amp;ll=50.897248,-1.402828&amp;spn=0.006361,0.017885&amp;sll=53.800651,-4.064941&amp;sspn=24.546102,73.256836&amp;vpsrc=6&amp;t=m&amp;z=17</a></p>
 ]]></content>
   </entry>
   
