@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Moving in this Friday (15th March)"
+date: 2013-03-10 22:56:00
+comments: true
+categories:
+---
+On Friday (15th) from 7:30pm we shall be moving what equipment we have
+from the [donations
+list](http://wiki.somakeit.org.uk/wiki/Equipment_Donations) & other
+sources into the space. If you are donating a thing and you need help
+moving it, you can mail a
+[trustee](http://www.somakeit.org.uk/trustees/). Feel free to bring
+projects along too, we've seen that we can make lightning progress
+(thanks to all who helped on Saturday) and I'm sure there'll be time for
+hacking.
