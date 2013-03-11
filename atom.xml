@@ -4,7 +4,7 @@
   <title><![CDATA[SoutHACKton]]></title>
   <link href="http://SoutHACKton.github.com/atom.xml" rel="self"/>
   <link href="http://SoutHACKton.github.com/"/>
-  <updated>2013-03-10T23:06:30+00:00</updated>
+  <updated>2013-03-11T20:25:22+00:00</updated>
   <id>http://SoutHACKton.github.com/</id>
   <author>
     <name><![CDATA[SoutHACKton]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Opening times]]></title>
+    <link href="http://SoutHACKton.github.com/2013/03/11/opening-times/"/>
+    <updated>2013-03-11T20:04:00+00:00</updated>
+    <id>http://SoutHACKton.github.com/2013/03/11/opening-times</id>
+    <content type="html"><![CDATA[<p>Now that we have a space, we intend to open it up more regularly. As we have 5 keyholders we are limited to the amount of time we can open, so we want to make sure we are open when it suits you the most.</p>
+
+<p>To that end, you can <a href="http://www.surveymonkey.com/s/XVBLT6S">help by filling out a survey</a> to show what days and times you would regularly use the space.</p>
+
+<p>Once we have the results of the survey, the <a href="http://www.somakeit.org.uk/trustees/">trustees</a> will work out when we should be opening the most. We are intending to have the same slot(s) each week, to keep things simple.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Moving in this Friday (15th March)]]></title>
@@ -640,20 +653,6 @@ along.</p>
 <p>This event is at the Art House: <a href="http://www.thearthousesouthampton.co.uk/">http://www.thearthousesouthampton.co.uk/</a></p>
 
 <p><a href="http://www.facebook.com/event.php?eid=301712219840154">http://www.facebook.com/event.php?eid=301712219840154</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Next meetup, 7.30pm Wed 5th October at The Art House, Southampton]]></title>
-    <link href="http://SoutHACKton.github.com/2011/09/30/next-meetup-7-30pm-wed-5th-october-at-the-art-house-southampton/"/>
-    <updated>2011-09-30T18:17:16+01:00</updated>
-    <id>http://SoutHACKton.github.com/2011/09/30/next-meetup-7-30pm-wed-5th-october-at-the-art-house-southampton</id>
-    <content type="html"><![CDATA[<p>The next meetup is at The Art House, Southapton on Wed 5th October at
-7.30pm</p>
-
-<p>Let us know if you are coming on facebook
-<a href="http://www.facebook.com/event.php?eid=139793102784775">http://www.facebook.com/event.php?eid=139793102784775</a> and bring a
-friend.</p>
 ]]></content>
   </entry>
   
