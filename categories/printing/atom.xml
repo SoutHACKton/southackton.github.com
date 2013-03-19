@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Printing | SoutHACKton]]></title>
+  <link href="http://SoutHACKton.github.com/categories/printing/atom.xml" rel="self"/>
+  <link href="http://SoutHACKton.github.com/"/>
+  <updated>2013-03-19T08:50:50+00:00</updated>
+  <id>http://SoutHACKton.github.com/</id>
+  <author>
+    <name><![CDATA[SoutHACKton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Acetone Vapour Bath Smoothing Experiment]]></title>
+    <link href="http://SoutHACKton.github.com/2013/03/19/acetone-vapour-bath-smoothing-experiment/"/>
+    <updated>2013-03-19T08:42:00+00:00</updated>
+    <id>http://SoutHACKton.github.com/2013/03/19/acetone-vapour-bath-smoothing-experiment</id>
+    <content type="html"><![CDATA[<p>On Thursday (21st March 2013) at 7:30pm a few of us will be at
+<a href="https://wiki.somakeit.org.uk/wiki/Rideride">the space</a> testing Acetone vapour bath smoothing of 3D parts
+printed in ABS. We'll also be performing 'safety testing', and
+documenting the tests on video for the
+<a href="http://www.youtube.com/user/somakeitorg">SoMakeIt YouTube channel</a>.</p>
+
+<p>All are welcome to come along and join in the fun, but if you want to
+get involved please bring your own safety goggles and gloves.</p>
+
+<p>We are on Hollybrook Road (SO16 6PB), inside the
+<a href="https://wiki.somakeit.org.uk/wiki/Rideride">rideride premises</a>.</p>
+
+<p>Please see the <a href="http://www.facebook.com/events/227285637409398/">facebook event</a> for more information and to
+let us know you're coming.</p>
+]]></content>
+  </entry>
+  
+</feed>

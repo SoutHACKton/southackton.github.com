@@ -4,7 +4,7 @@
   <title><![CDATA[SoutHACKton]]></title>
   <link href="http://SoutHACKton.github.com/atom.xml" rel="self"/>
   <link href="http://SoutHACKton.github.com/"/>
-  <updated>2013-03-11T20:25:22+00:00</updated>
+  <updated>2013-03-19T08:50:50+00:00</updated>
   <id>http://SoutHACKton.github.com/</id>
   <author>
     <name><![CDATA[SoutHACKton]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Acetone Vapour Bath Smoothing Experiment]]></title>
+    <link href="http://SoutHACKton.github.com/2013/03/19/acetone-vapour-bath-smoothing-experiment/"/>
+    <updated>2013-03-19T08:42:00+00:00</updated>
+    <id>http://SoutHACKton.github.com/2013/03/19/acetone-vapour-bath-smoothing-experiment</id>
+    <content type="html"><![CDATA[<p>On Thursday (21st March 2013) at 7:30pm a few of us will be at
+<a href="https://wiki.somakeit.org.uk/wiki/Rideride">the space</a> testing Acetone vapour bath smoothing of 3D parts
+printed in ABS. We&#8217;ll also be performing &#8216;safety testing&#8217;, and
+documenting the tests on video for the
+<a href="http://www.youtube.com/user/somakeitorg">SoMakeIt YouTube channel</a>.</p>
+
+<p>All are welcome to come along and join in the fun, but if you want to
+get involved please bring your own safety goggles and gloves.</p>
+
+<p>We are on Hollybrook Road (SO16 6PB), inside the
+<a href="https://wiki.somakeit.org.uk/wiki/Rideride">rideride premises</a>.</p>
+
+<p>Please see the <a href="http://www.facebook.com/events/227285637409398/">facebook event</a> for more information and to
+let us know you&#8217;re coming.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Opening times]]></title>
@@ -626,33 +648,6 @@ people can come to work on their various projects and can get the
 resources they need and can share knowledge and ideas. If you always
 wanted to make something but don’t know how then our members will be
 more than happy to help you.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Southackton Ubuntu workshop - Wed 2nd Nov, 7.30pm at Southampton Art House]]></title>
-    <link href="http://SoutHACKton.github.com/2011/10/31/southackton-ubuntu-workshop-wed-2nd-nov-7-30pm-at-southampton-art-house/"/>
-    <updated>2011-10-31T18:14:00+00:00</updated>
-    <id>http://SoutHACKton.github.com/2011/10/31/southackton-ubuntu-workshop-wed-2nd-nov-7-30pm-at-southampton-art-house</id>
-    <content type="html"><![CDATA[<p>The next SoutHACKton meetup will be a Ubuntu workshop at the Art House,
-Southampton at 7.30pm</p>
-
-<p>Bring a laptop and a USB stick (2GB is a good size, or if you bring 4GB
-or larger then you can save settings and data back to it and use it like
-it was installed).</p>
-
-<p>We will get you up and running with the latest version of Ubuntu Linux,
-without installing anything on your laptop, so you won&#8217;t lose any data.</p>
-
-<p>More information about Ubuntu, and linux, is available at:
-<a href="http://ubuntu.com/ubuntu">http://ubuntu.com/ubuntu</a></p>
-
-<p>This facebook event page is public so feel free to invite anyone else
-along.</p>
-
-<p>This event is at the Art House: <a href="http://www.thearthousesouthampton.co.uk/">http://www.thearthousesouthampton.co.uk/</a></p>
-
-<p><a href="http://www.facebook.com/event.php?eid=301712219840154">http://www.facebook.com/event.php?eid=301712219840154</a></p>
 ]]></content>
   </entry>
   
