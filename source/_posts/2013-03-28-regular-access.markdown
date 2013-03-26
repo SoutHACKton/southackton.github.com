@@ -6,15 +6,20 @@ comments: true
 categories: 
 published: false
 ---
-The results of our access times survey are as follows:
+Now that we have our space, we want to open it up for everyone to come and play. Unfortunately we are unable to give everyone a key. We currently have 5 keyholders, our trustees, so we have to fit everyones schedules.
+
+We ran a poll to find out when you wanted to come, and the results are as follows:
 <img src="/images/2013-03-access-times-survey-results.png" />
 
-The trustees tried to find times which suited both you, and them and we came up with the following opening days and hours every week.
+We tried to pick the best times for us to open the space, so we can commit to it every week, and when you said you wanted to come. We have arrived at the following:  
 
+### Opening Hours
 Tuesdays: 7.30pm - 10.30pm   
 Saturdays: 2pm - 8pm
 
-We are hoping to always have someone on site during these hours so you can just drop in whenever you feel like it.  
-If the date falls on something special it might be worth checking this blog and the mailing list, as we certainly won't be opening it on New Years day (unless it is to continue a party!)
+We will be attempting to always have someone available during these times, every week. (Except on some public holidays, when it is worth checking we won't be closed).
+
+### Ad-Hoc access
+Of course we also are available for ad-hoc openings or special access times. To help coordinate this, we'll be building something in the members site (volunteers needed!) but in the mean time you can pop onto [IRC](https://wiki.somakeit.org.uk/wiki/IRC) and ask a trustee (they generally have operator status); or send a message to the mailing list. When we're opening the space we'll try and remember to tweet out (on @MakeSoton - the So Make It twitter account) or post to the mailing list.
 
 We hope to see you all regularly!
