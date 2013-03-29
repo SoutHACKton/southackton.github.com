@@ -4,7 +4,7 @@
   <title><![CDATA[SoutHACKton]]></title>
   <link href="http://SoutHACKton.github.com/atom.xml" rel="self"/>
   <link href="http://SoutHACKton.github.com/"/>
-  <updated>2013-03-19T08:50:50+00:00</updated>
+  <updated>2013-03-29T09:37:42+00:00</updated>
   <id>http://SoutHACKton.github.com/</id>
   <author>
     <name><![CDATA[SoutHACKton]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Regular Access]]></title>
+    <link href="http://SoutHACKton.github.com/2013/03/28/regular-access/"/>
+    <updated>2013-03-28T23:10:00+00:00</updated>
+    <id>http://SoutHACKton.github.com/2013/03/28/regular-access</id>
+    <content type="html"><![CDATA[<p>Now that we have a space, we want to open it up for everyone to come and play. Unfortunately we are unable to give everyone a key, so we have to try and fit the schedules of both our members and the keyholders. We currently have 5 keyholders - <a href="http://www.somakeit.org.uk/trustees/">our trustees</a>.</p>
+
+<p>To help us guage when you wanted to come we ran a poll; the results are as follows:<br/>
+<img src="http://SoutHACKton.github.com/images/2013-03-access-times-survey-results.png" alt="poll results" /></p>
+
+<p>We analysed these results, reconciled them with keyholder availability, and are happy to announce that we can commit to having the space open the following times each week:</p>
+
+<h3>Opening Hours</h3>
+
+<p>From Tuesday 2nd April (we are closed Easter weekend)<br/>
+Tuesdays: 7.30pm - 10.30pm <br/>
+Saturdays: 2pm - 8pm</p>
+
+<p>Our aim is to always have someone available during these times, every week. <em>(We may not be open on some public holidays - it&#8217;s probably worth checking if you&#8217;re unsure.)</em></p>
+
+<h3>Ad-Hoc access</h3>
+
+<p>Of course we will also be opening the space for ad-hoc openings or special access times. We want to build something to help coordinate/organise this (volunteers needed - get in touch!) but in the mean time you can pop onto <a href="https://wiki.somakeit.org.uk/wiki/IRC">IRC</a> and ask a trustee (they generally have operator status); or send a message to <a href="http://groups.google.com/group/southackton">the mailing list</a>.</p>
+
+<p>When the space is (going to be) open we&#8217;ll try and remember to tweet out (on <a href="http://twitter.com/MakeSoton">@MakeSoton</a> - the So Make It twitter account) or post to the mailing list. If you notice we haven&#8217;t done so, please inform someone so that it can be rectified.</p>
+
+<p>We hope to see you all regularly!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Acetone Vapour Bath Smoothing Experiment]]></title>
@@ -32,6 +62,29 @@ get involved please bring your own safety goggles and gloves.</p>
 
 <p>Please see the <a href="http://www.facebook.com/events/227285637409398/">facebook event</a> for more information and to
 let us know you&#8217;re coming.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[March 28th Meetup - So Make It Grand Opening]]></title>
+    <link href="http://SoutHACKton.github.com/2013/03/16/grand-opening/"/>
+    <updated>2013-03-16T10:55:00+00:00</updated>
+    <id>http://SoutHACKton.github.com/2013/03/16/grand-opening</id>
+    <content type="html"><![CDATA[<p>We have a space!!</p>
+
+<p>This is our open evening, meetup and grand opening of the So Make It
+space which will host SoutHACKton and the other So Make It groups. All
+are welcome, you don&#8217;t need to bring anything, there will be plenty of
+people to talk to and things to see. Please use the
+<a href="https://www.facebook.com/events/465078276897309/">Facebook event</a> if
+you have an account.</p>
+
+<p>The time is 18:30 on Thursday the 28th March, the place is:</p>
+
+<p>rideride Workshop<br/>
+Hollybrook Road<br/>
+Southampton<br/>
+SO16 6PB</p>
 ]]></content>
   </entry>
   
@@ -589,65 +642,6 @@ of approximately 10 hours per week.</p>
 
 <p>You can register at
 <a href="https://6002x.mitx.mit.edu/">https://6002x.mitx.mit.edu/</a></p></blockquote>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Next SoutHackton meetup, 7.30pm Tues 24th Jan]]></title>
-    <link href="http://SoutHACKton.github.com/2012/01/18/next-southackton-meetup-7-30pm-tues-24th-jan/"/>
-    <updated>2012-01-18T19:19:28+00:00</updated>
-    <id>http://SoutHACKton.github.com/2012/01/18/next-southackton-meetup-7-30pm-tues-24th-jan</id>
-    <content type="html"><![CDATA[<p>We are a community of makers, tinkerers and artists. Our aim is to share
-skills and tools to allow anyone to create something amazing, regardless
-of experience. We want to start a Hackerspace in Southampton, where
-people can come to work on their various projects and can get the
-resources they need and can share knowledge and ideas. If you always
-wanted to make something but don’t know how then our members will be
-more than happy to help you.</p>
-
-<p>This event is a general meetup for existing
-members or anyone else who wants to get involved, along with general
-discussion about hacking, making and coding… and coffee. It’s free, but
-donations to the Arthouse are always appreciated.</p>
-
-<p>The facebook event
-page is public so feel free to invite anyone else along.
-<a href="http://www.facebook.com/events/325294290835392/">http://www.facebook.com/events/325294290835392/</a></p>
-
-<p>This event is at the Art
-House: <a href="http://www.thearthousesouthampton.co.uk/">http://www.thearthousesouthampton.co.uk/</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Next SoutHackton meetup - Wed 7th Dec]]></title>
-    <link href="http://SoutHACKton.github.com/2011/11/30/next-southackton-meetup-wed-7th-dec/"/>
-    <updated>2011-11-30T17:50:36+00:00</updated>
-    <id>http://SoutHACKton.github.com/2011/11/30/next-southackton-meetup-wed-7th-dec</id>
-    <content type="html"><![CDATA[<p>Our next meetup is 7:30pm until 10:00pm Wednesday, December 7, 2011.</p>
-
-<p>Let
-us know you are coming on facebook:<br/>
-<a href="http://www.facebook.com/events/316444395051818/">http://www.facebook.com/events/316444395051818/</a></p>
-
-<p>This event is a general meetup for existing members or anyone else who
-wants to get involved, along with general discussion about hacking,
-making and coding… and coffee. It’s free, but donations to the Arthouse
-are always appreciated.</p>
-
-<p>The facebook event page is public so feel free
-to invite anyone else along.</p>
-
-<p>This event is at the Art House:
-<a href="http://www.thearthousesouthampton.co.uk/">http://www.thearthousesouthampton.co.uk/</a></p>
-
-<p>We are a community of makers, tinkerers and artists. Our aim is to share
-skills and tools to allow anyone to create something amazing, regardless
-of experience. We want to start a Hackerspace in Southampton, where
-people can come to work on their various projects and can get the
-resources they need and can share knowledge and ideas. If you always
-wanted to make something but don’t know how then our members will be
-more than happy to help you.</p>
 ]]></content>
   </entry>
   
