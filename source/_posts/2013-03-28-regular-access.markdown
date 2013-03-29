@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "regular access"
-date: 2013-03-28 20:10
+date: 2013-03-28 23:10
 comments: true
 categories: 
-published: false
 ---
 Now that we have our space, we want to open it up for everyone to come and play. Unfortunately we are unable to give everyone a key. We currently have 5 keyholders, our trustees, so we have to fit everyones schedules.
 
@@ -14,6 +13,7 @@ We ran a poll to find out when you wanted to come, and the results are as follow
 We tried to pick the best times for us to open the space, so we can commit to it every week, and when you said you wanted to come. We have arrived at the following:  
 
 ### Opening Hours
+From Tuesday 2nd April (we are closed Easter weekend)
 Tuesdays: 7.30pm - 10.30pm   
 Saturdays: 2pm - 8pm
 
