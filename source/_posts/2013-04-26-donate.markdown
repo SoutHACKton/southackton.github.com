@@ -1,0 +1,12 @@
+---
+layout: post
+title: "donate"
+date: 2013-04-26 20:41
+comments: true
+categories: 
+---
+SoMakeIt now have a bank account, so if you want to setup a regular standing order (or make a one-off payment) login to the [members area](https://members.somakeit.org.uk/) to find your unique payment reference and our bank account details.
+
+If a bank transfer isn't your thing, you can also donate via [paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LF43DDYV53HXW)
+
+We can only afford to exist through your donations and we estimate that we need an average of £20 from each member to cover all our costs and buy new equipment. Thanks for your generosity.
