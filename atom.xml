@@ -4,7 +4,7 @@
   <title><![CDATA[SoutHACKton]]></title>
   <link href="http://SoutHACKton.github.com/atom.xml" rel="self"/>
   <link href="http://SoutHACKton.github.com/"/>
-  <updated>2013-03-29T09:37:42+00:00</updated>
+  <updated>2013-04-26T20:48:39+01:00</updated>
   <id>http://SoutHACKton.github.com/</id>
   <author>
     <name><![CDATA[SoutHACKton]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[donate]]></title>
+    <link href="http://SoutHACKton.github.com/2013/04/26/donate/"/>
+    <updated>2013-04-26T20:41:00+01:00</updated>
+    <id>http://SoutHACKton.github.com/2013/04/26/donate</id>
+    <content type="html"><![CDATA[<p>SoMakeIt now have a bank account, so if you want to setup a regular standing order (or make a one-off payment) login to the <a href="https://members.somakeit.org.uk/">members area</a> to find your unique payment reference and our bank account details.</p>
+
+<p>If a bank transfer isn&#8217;t your thing, you can also donate via <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=LF43DDYV53HXW">paypal</a></p>
+
+<p>We can only afford to exist through your donations and we estimate that we need an average of £20 from each member to cover all our costs and buy new equipment. Thanks for your generosity.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[trapping the heat]]></title>
+    <link href="http://SoutHACKton.github.com/2013/04/01/trapping-the-heat/"/>
+    <updated>2013-04-01T17:37:00+01:00</updated>
+    <id>http://SoutHACKton.github.com/2013/04/01/trapping-the-heat</id>
+    <content type="html"><![CDATA[<p>In case anyone was wondering about how the indoor ceiling went up:</p>
+
+<iframe width="1280" height="720" src="http://www.youtube.com/embed/HqdwCpglaKg" frameborder="0" allowfullscreen></iframe>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Regular Access]]></title>
@@ -62,29 +89,6 @@ get involved please bring your own safety goggles and gloves.</p>
 
 <p>Please see the <a href="http://www.facebook.com/events/227285637409398/">facebook event</a> for more information and to
 let us know you&#8217;re coming.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[March 28th Meetup - So Make It Grand Opening]]></title>
-    <link href="http://SoutHACKton.github.com/2013/03/16/grand-opening/"/>
-    <updated>2013-03-16T10:55:00+00:00</updated>
-    <id>http://SoutHACKton.github.com/2013/03/16/grand-opening</id>
-    <content type="html"><![CDATA[<p>We have a space!!</p>
-
-<p>This is our open evening, meetup and grand opening of the So Make It
-space which will host SoutHACKton and the other So Make It groups. All
-are welcome, you don&#8217;t need to bring anything, there will be plenty of
-people to talk to and things to see. Please use the
-<a href="https://www.facebook.com/events/465078276897309/">Facebook event</a> if
-you have an account.</p>
-
-<p>The time is 18:30 on Thursday the 28th March, the place is:</p>
-
-<p>rideride Workshop<br/>
-Hollybrook Road<br/>
-Southampton<br/>
-SO16 6PB</p>
 ]]></content>
   </entry>
   
@@ -616,32 +620,6 @@ Arthouse are always appreciated.</p>
 <p>This facebook event page is public so feel free to invite anyone else along.</p>
 
 <p>This event is at <a href="http://www.thearthousesouthampton.co.uk/">the Art House</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[MIT running free electronic circuits course]]></title>
-    <link href="http://SoutHACKton.github.com/2012/02/14/mit-running-free-electronic-circuits-course/"/>
-    <updated>2012-02-14T13:11:29+00:00</updated>
-    <id>http://SoutHACKton.github.com/2012/02/14/mit-running-free-electronic-circuits-course</id>
-    <content type="html"><![CDATA[<p>Thanks to Paul Stimpson on the Surrey LUG mailing list for pointing the
-course out:</p>
-
-<blockquote><p>MIT are launching the first course in their new e-learning programme
-designed to bring education free to the masses. It&#8217;s a course in
-electronic circuits and design and begins on March 5th. This is a
-trial and at this stage does not require any attendance or for proof
-of identity to be shown. It is examined online and results in an
-MIT-branded certificate for successful students. The only obligations
-are to complete the course and exams in the time frame specified and
-to agree to the University honour code (not to cheat).</p>
-
-<p>The course runs
-for 13 weeks (March 5th until June 8th) and requires a time investment
-of approximately 10 hours per week.</p>
-
-<p>You can register at
-<a href="https://6002x.mitx.mit.edu/">https://6002x.mitx.mit.edu/</a></p></blockquote>
 ]]></content>
   </entry>
   
