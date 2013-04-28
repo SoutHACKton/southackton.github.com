@@ -4,7 +4,7 @@
   <title><![CDATA[SoutHACKton]]></title>
   <link href="http://SoutHACKton.github.com/atom.xml" rel="self"/>
   <link href="http://SoutHACKton.github.com/"/>
-  <updated>2013-04-26T20:48:39+01:00</updated>
+  <updated>2013-04-28T16:02:07+01:00</updated>
   <id>http://SoutHACKton.github.com/</id>
   <author>
     <name><![CDATA[SoutHACKton]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[we have a lathe]]></title>
+    <link href="http://SoutHACKton.github.com/2013/04/27/we-have-a-lathe/"/>
+    <updated>2013-04-27T17:21:00+01:00</updated>
+    <id>http://SoutHACKton.github.com/2013/04/27/we-have-a-lathe</id>
+    <content type="html"><![CDATA[<p>Last weekend the So Make It workshop acquired a lathe! Peter Bond was kind enough to sell us an old but reliable metalworking lathe for a very reasonable price and it was installed and commissioned last Sunday.</p>
+
+<p><img src="http://SoutHACKton.github.com/images/lathe.jpg" alt="lathe" /></p>
+
+<p>Anybody who know how to use a lathe (training will be available) can of course go ahead and do so but before doing so please familiarize yourself with the wiki page.</p>
+
+<p>Details are going to be kept on our tooling section on the wiki here:
+<a href="https://wiki.somakeit.org.uk/wiki/Lathe">https://wiki.somakeit.org.uk/wiki/Lathe</a></p>
+
+<p>Please keep the page updated, listing design quirks and operational guidance there. There are a number of upgrades and projects considered too - please let us know if you&#8217;re interested in helping.</p>
+
+<p>As mentioned on the page, safety is critical so please read this page before use. It is also reapeated here:</p>
+
+<ol>
+<li>There is no guard currently so full PPE should be worn when operating or being near the lathe. This includes safety goggles and apron.</li>
+<li>Obviously all jewellery must be removed, long hair tied back and baggy clothing removed when operating the lathe.</li>
+<li>The lathe bench must remain clear and tidy at all times.</li>
+<li>The chuck key must be removed when operating the lathe - it can travel at such speeds as to KILL if left in the chuck.</li>
+</ol>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[donate]]></title>
@@ -573,35 +601,6 @@ Arthouse are always appreciated.</p>
     <content type="html"><![CDATA[<p>The next SoutHACKton meetup is Tues 24th April, 7.30pm at the Art House
 Southampton - please use the
 <a href="http://www.facebook.com/events/291237737620491/">facebook event</a> to let us know
-you are coming!</p>
-
-<p>We are a community of makers, tinkerers and artists. Our aim is to
-share skills and tools to allow anyone to create something amazing,
-regardless of experience. We want to start a Hackerspace in
-Southampton, where people can come to work on their various projects
-and can get the resources they need and can share knowledge and ideas.
-If you always wanted to make something but don&#8217;t know how then our
-members will be more than happy to help you.</p>
-
-<p>This event is a general meetup for existing members or anyone else who
-wants to get involved, along with general discussion about hacking,
-making and coding… and coffee. It’s free, but donations to the
-Arthouse are always appreciated.</p>
-
-<p>This facebook event page is public so feel free to invite anyone else along.</p>
-
-<p>This event is at <a href="http://www.thearthousesouthampton.co.uk/">the Art House</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Next Meetup - Tuesday 27th March, 7:30pm]]></title>
-    <link href="http://SoutHACKton.github.com/2012/03/21/next-meetup/"/>
-    <updated>2012-03-21T22:52:00+00:00</updated>
-    <id>http://SoutHACKton.github.com/2012/03/21/next-meetup</id>
-    <content type="html"><![CDATA[<p>The next SoutHACKton meetup is Tues 27th March, 7.30pm at the Art House
-Southampton - please use the
-<a href="http://www.facebook.com/events/101275470004789">facebook event</a> to let us know
 you are coming!</p>
 
 <p>We are a community of makers, tinkerers and artists. Our aim is to
