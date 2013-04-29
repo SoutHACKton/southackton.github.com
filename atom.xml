@@ -4,7 +4,7 @@
   <title><![CDATA[SoutHACKton]]></title>
   <link href="http://SoutHACKton.github.com/atom.xml" rel="self"/>
   <link href="http://SoutHACKton.github.com/"/>
-  <updated>2013-04-28T16:02:07+01:00</updated>
+  <updated>2013-04-29T18:14:35+01:00</updated>
   <id>http://SoutHACKton.github.com/</id>
   <author>
     <name><![CDATA[SoutHACKton]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[April 30th Meetup]]></title>
+    <link href="http://SoutHACKton.github.com/2013/04/29/april-30th-meetup/"/>
+    <updated>2013-04-29T18:09:00+01:00</updated>
+    <id>http://SoutHACKton.github.com/2013/04/29/april-30th-meetup</id>
+    <content type="html"><![CDATA[<p>We have a space with regular opening times, but we&#8217;re still doing the monthly meetups. This is the day you&#8217;re likely to see the most people in the space. The next meetup is Tuedsay the 30th April 7:30pm, at the <a href="http://maps.google.co.uk/maps?q=SO16+6PB&amp;hl=en&amp;sll=53.904338,-4.064941&amp;sspn=10.87321,27.114258&amp;t=h&amp;hnear=Southampton+SO16+6PB,+United+Kingdom&amp;z=16">So Make It Ltd. workshop</a>, 3 Hollybrook Road, Southampton, SO16 6PB. There&#8217;s plenty of parking right outside.</p>
+
+<p>All are welcome, this is a free to attend evening, bring a hack, or drop by and see what everyone else is up to. Even better, bring a friend, feel free to invite anyone you think would be interested to this event. If you are on Facebook, please use the <a href="https://www.facebook.com/events/245030658968542/">event</a> to invite anyone who might be interested.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[we have a lathe]]></title>
@@ -590,35 +601,6 @@ Arthouse are always appreciated.</p>
 <p>This facebook event page is public so feel free to invite anyone else along.</p>
 
 <p>This event is at <a href="http://www.thearthousesouthampton.co.uk/">the Art House</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[April 24th Meetup]]></title>
-    <link href="http://SoutHACKton.github.com/2012/04/17/april-24th-meetup/"/>
-    <updated>2012-04-17T21:37:00+01:00</updated>
-    <id>http://SoutHACKton.github.com/2012/04/17/april-24th-meetup</id>
-    <content type="html"><![CDATA[<p>The next SoutHACKton meetup is Tues 24th April, 7.30pm at the Art House
-Southampton - please use the
-<a href="http://www.facebook.com/events/291237737620491/">facebook event</a> to let us know
-you are coming!</p>
-
-<p>We are a community of makers, tinkerers and artists. Our aim is to
-share skills and tools to allow anyone to create something amazing,
-regardless of experience. We want to start a Hackerspace in
-Southampton, where people can come to work on their various projects
-and can get the resources they need and can share knowledge and ideas.
-If you always wanted to make something but don&#8217;t know how then our
-members will be more than happy to help you.</p>
-
-<p>This event is a general meetup for existing members or anyone else who
-wants to get involved, along with general discussion about hacking,
-making and coding… and coffee. It’s free, but donations to the
-Arthouse are always appreciated.</p>
-
-<p>This facebook event page is public so feel free to invite anyone else along.</p>
-
-<p>This event is at <a href="http://www.thearthousesouthampton.co.uk/">the Art House</a>.</p>
 ]]></content>
   </entry>
   
