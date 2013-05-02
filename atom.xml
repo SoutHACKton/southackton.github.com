@@ -4,7 +4,7 @@
   <title><![CDATA[SoutHACKton]]></title>
   <link href="http://SoutHACKton.github.com/atom.xml" rel="self"/>
   <link href="http://SoutHACKton.github.com/"/>
-  <updated>2013-04-29T18:14:35+01:00</updated>
+  <updated>2013-05-02T08:54:10+01:00</updated>
   <id>http://SoutHACKton.github.com/</id>
   <author>
     <name><![CDATA[SoutHACKton]]></name>
@@ -14,6 +14,7 @@
 
   
   <entry>
+    <categories></categories>
     <title type="html"><![CDATA[April 30th Meetup]]></title>
     <link href="http://SoutHACKton.github.com/2013/04/29/april-30th-meetup/"/>
     <updated>2013-04-29T18:09:00+01:00</updated>
@@ -25,6 +26,7 @@
   </entry>
   
   <entry>
+    <categories></categories>
     <title type="html"><![CDATA[we have a lathe]]></title>
     <link href="http://SoutHACKton.github.com/2013/04/27/we-have-a-lathe/"/>
     <updated>2013-04-27T17:21:00+01:00</updated>
@@ -53,6 +55,7 @@
   </entry>
   
   <entry>
+    <categories></categories>
     <title type="html"><![CDATA[donate]]></title>
     <link href="http://SoutHACKton.github.com/2013/04/26/donate/"/>
     <updated>2013-04-26T20:41:00+01:00</updated>
@@ -66,6 +69,7 @@
   </entry>
   
   <entry>
+    <categories></categories>
     <title type="html"><![CDATA[trapping the heat]]></title>
     <link href="http://SoutHACKton.github.com/2013/04/01/trapping-the-heat/"/>
     <updated>2013-04-01T17:37:00+01:00</updated>
@@ -80,6 +84,7 @@
   </entry>
   
   <entry>
+    <categories></categories>
     <title type="html"><![CDATA[Regular Access]]></title>
     <link href="http://SoutHACKton.github.com/2013/03/28/regular-access/"/>
     <updated>2013-03-28T23:10:00+00:00</updated>
@@ -110,6 +115,7 @@ Saturdays: 2pm - 8pm</p>
   </entry>
   
   <entry>
+    <categories>3DPrinting</categories>
     <title type="html"><![CDATA[Acetone Vapour Bath Smoothing Experiment]]></title>
     <link href="http://SoutHACKton.github.com/2013/03/19/acetone-vapour-bath-smoothing-experiment/"/>
     <updated>2013-03-19T08:42:00+00:00</updated>
@@ -132,6 +138,7 @@ let us know you&#8217;re coming.</p>
   </entry>
   
   <entry>
+    <categories></categories>
     <title type="html"><![CDATA[Opening times]]></title>
     <link href="http://SoutHACKton.github.com/2013/03/11/opening-times/"/>
     <updated>2013-03-11T20:04:00+00:00</updated>
@@ -145,6 +152,7 @@ let us know you&#8217;re coming.</p>
   </entry>
   
   <entry>
+    <categories></categories>
     <title type="html"><![CDATA[Moving in this Friday (15th March)]]></title>
     <link href="http://SoutHACKton.github.com/2013/03/10/moving-in/"/>
     <updated>2013-03-10T22:56:00+00:00</updated>
@@ -162,6 +170,7 @@ hacking.</p>
   </entry>
   
   <entry>
+    <categories></categories>
     <title type="html"><![CDATA[February 28th Meetup]]></title>
     <link href="http://SoutHACKton.github.com/2013/02/10/february-28th-meetup/"/>
     <updated>2013-02-10T21:52:22+00:00</updated>
@@ -185,6 +194,7 @@ Gloucester Square.</p>
   </entry>
   
   <entry>
+    <categories></categories>
     <title type="html"><![CDATA[January 31st Meetup]]></title>
     <link href="http://SoutHACKton.github.com/2013/01/03/january-31st-meetup/"/>
     <updated>2013-01-03T13:18:22+00:00</updated>
@@ -208,6 +218,7 @@ Gloucester Square.</p>
   </entry>
   
   <entry>
+    <categories></categories>
     <title type="html"><![CDATA[December 13th Meetup]]></title>
     <link href="http://SoutHACKton.github.com/2012/12/05/december-13th-meetup/"/>
     <updated>2012-12-05T01:18:00+00:00</updated>
@@ -234,6 +245,7 @@ anyone else along.</p>
   </entry>
   
   <entry>
+    <categories></categories>
     <title type="html"><![CDATA[Change Of Venue/November 29th Meetup]]></title>
     <link href="http://SoutHACKton.github.com/2012/11/21/change-of-venue/"/>
     <updated>2012-11-21T12:16:00+00:00</updated>
@@ -262,6 +274,7 @@ then our members will be more than happy to help you.</p>
   </entry>
   
   <entry>
+    <categories></categories>
     <title type="html"><![CDATA[October 25th Meetup]]></title>
     <link href="http://SoutHACKton.github.com/2012/10/23/october-25th-meetup/"/>
     <updated>2012-10-23T10:00:00+01:00</updated>
@@ -291,6 +304,7 @@ Arthouse are always appreciated.</p>
   </entry>
   
   <entry>
+    <categories></categories>
     <title type="html"><![CDATA[September Meetup Summary]]></title>
     <link href="http://SoutHACKton.github.com/2012/09/28/september-meetup-summary/"/>
     <updated>2012-09-28T07:45:00+01:00</updated>
@@ -374,6 +388,7 @@ share, or feedback, please post it straight into <a href="https://groups.google.
   </entry>
   
   <entry>
+    <categories></categories>
     <title type="html"><![CDATA[September 27th Meetup]]></title>
     <link href="http://SoutHACKton.github.com/2012/09/24/september-27th-meetup/"/>
     <updated>2012-09-24T11:00:00+01:00</updated>
@@ -403,6 +418,7 @@ Arthouse are always appreciated.</p>
   </entry>
   
   <entry>
+    <categories>MeetupWorkshop</categories>
     <title type="html"><![CDATA[Hack Day - 14th October]]></title>
     <link href="http://SoutHACKton.github.com/2012/09/19/hack-day/"/>
     <updated>2012-09-19T14:23:05+01:00</updated>
@@ -466,6 +482,7 @@ what it is!</p>
   </entry>
   
   <entry>
+    <categories></categories>
     <title type="html"><![CDATA[Southampton Hackerspace Survey]]></title>
     <link href="http://SoutHACKton.github.com/2012/09/07/southackton-survey-2012/"/>
     <updated>2012-09-07T10:00:00+01:00</updated>
@@ -509,6 +526,7 @@ for makers, hackers and tinkerers from a wide area to meet and collaborate.</p>
   </entry>
   
   <entry>
+    <categories></categories>
     <title type="html"><![CDATA[August 30th Meetup]]></title>
     <link href="http://SoutHACKton.github.com/2012/08/24/august-30th-meetup/"/>
     <updated>2012-08-24T14:00:00+01:00</updated>
@@ -538,6 +556,7 @@ Arthouse are always appreciated.</p>
   </entry>
   
   <entry>
+    <categories></categories>
     <title type="html"><![CDATA[July 24th Meetup]]></title>
     <link href="http://SoutHACKton.github.com/2012/07/11/july-24th-meetup/"/>
     <updated>2012-07-11T19:03:00+01:00</updated>
@@ -567,6 +586,7 @@ Arthouse are always appreciated.</p>
   </entry>
   
   <entry>
+    <categories></categories>
     <title type="html"><![CDATA[June 26th Meetup - Guest Speaker Andy Stanford-Clark - Innovation for a Smarter Planet]]></title>
     <link href="http://SoutHACKton.github.com/2012/06/20/june-26th-meetup-guest-speaker-andy-stanford-clark-innovation-for-a-smarter-planet/"/>
     <updated>2012-06-20T15:58:00+01:00</updated>

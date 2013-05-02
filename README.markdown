@@ -1,7 +1,12 @@
 # SoutHACKton website
 
-This is SoutHACKton's website, kindly hosted by GitHub Pages. It's
-currently built with [Octopress][].
+This is SoutHACKton's OLD website, kindly hosted by GitHub Pages.
+It was built with [Octopress][]. We now operate Wordpress again, this
+repository continues to exist for historical reasons, and because we're
+hotlinking some images from it on the new blog.
+
+
+# EVERYTHING BELOW HERE IS OLD AND SHOULD BE IGNORED
 
 ## How can I contribute?
 
