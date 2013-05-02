@@ -17,6 +17,7 @@ layout: nil
 
   {% for post in site.posts limit: 20 %}
   <entry>
+    <categories>{{post.categories}}</categories>
     <title type="html"><![CDATA[{{ post.title | cdata_escape }}]]></title>
     <link href="{{ site.url }}{{ post.url }}"/>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
